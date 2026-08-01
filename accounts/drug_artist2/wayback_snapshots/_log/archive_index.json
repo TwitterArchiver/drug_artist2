@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-01T23:02:48",
+  "last_updated": "2026-08-01T23:05:53",
   "html": {
     "https://web.archive.org/web/20251115102239if_/https://twitter.com/drug_artist2/status/1989640181964837315": {
       "status": "done",
@@ -1449,58 +1449,58 @@
   },
   "images": {
     "https://pbs.twimg.com/media/G6Dx4gqbIAAJN4x.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20251119121741_twitter_com_drug_artist2_status_1991118681129283820.json"
       ],
-      "last_updated": "2026-08-01T22:59:05",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251119121741im_/https://pbs.twimg.com/media/G6Dx4gqbIAAJN4x.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b6cfe6f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:03:10",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251119121741/https://pbs.twimg.com/media/G6Dx4gqbIAAJN4x.jpg",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G6Dx4gqbMAISwik.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20251119121741_twitter_com_drug_artist2_status_1991118681129283820.json"
       ],
-      "last_updated": "2026-08-01T22:59:10",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251119121741im_/https://pbs.twimg.com/media/G6Dx4gqbMAISwik.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b6d1c500>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:03:14",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251119121741/https://pbs.twimg.com/media/G6Dx4gqbMAISwik.jpg",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G6OiLzCacAA7_eo.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251120222631_twitter_com_drug_artist2_status_1991634286743863487.json"
       ],
-      "last_updated": "2026-08-01T22:59:15",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251120222631im_/https://pbs.twimg.com/media/G6OiLzCacAA7_eo.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b6c93170>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:03:19",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251120222631im_/https://pbs.twimg.com/media/G6OiLzCacAA7_eo.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e80fed80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G6SZn9baUAAl1yZ.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251121150609_twitter_com_drug_artist2_status_1991885851446722901.json"
       ],
-      "last_updated": "2026-08-01T22:59:19",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251121150609im_/https://pbs.twimg.com/media/G6SZn9baUAAl1yZ.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b6cfc1d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:03:23",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251121150609im_/https://pbs.twimg.com/media/G6SZn9baUAAl1yZ.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e81409e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G6SZoB6bIAE9Yl1.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251121150609_twitter_com_drug_artist2_status_1991885851446722901.json"
       ],
-      "last_updated": "2026-08-01T22:59:23",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251121150609im_/https://pbs.twimg.com/media/G6SZoB6bIAE9Yl1.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b6cfc9b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:03:28",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251121150609im_/https://pbs.twimg.com/media/G6SZoB6bIAE9Yl1.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e8140050>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G6SZoDQasAImaBs.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251121150609_twitter_com_drug_artist2_status_1991885851446722901.json"
       ],
-      "last_updated": "2026-08-01T22:59:28",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251121150609im_/https://pbs.twimg.com/media/G6SZoDQasAImaBs.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b5b45550>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:03:32",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251121150609im_/https://pbs.twimg.com/media/G6SZoDQasAImaBs.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e8115d30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/G6VjFn_boAAb473.jpg": {
       "status": "failed",
@@ -1508,9 +1508,9 @@
         "20251122055214_twitter_com_drug_artist2_status_1992108845058109495.json",
         "20251122123136_twitter_com_drug_artist2_status_1992209349033476143.json"
       ],
-      "last_updated": "2026-08-01T22:59:32",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251122055214im_/https://pbs.twimg.com/media/G6VjFn_boAAb473.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b6cffe00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 5
+      "last_updated": "2026-08-01T23:03:36",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251122055214im_/https://pbs.twimg.com/media/G6VjFn_boAAb473.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e8116540>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/G6XNKokbIAAzv3h.jpg": {
       "status": "done",
@@ -1566,9 +1566,9 @@
       "referenced_by": [
         "20260723092721_twitter_com_drug_artist2_status_2080223231399858436.json"
       ],
-      "last_updated": "2026-08-01T22:59:36",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723092721im_/https://pbs.twimg.com/media/HN5wAVIagAAYVlm.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b6d1d970>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:03:40",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723092721im_/https://pbs.twimg.com/media/HN5wAVIagAAYVlm.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e80ff020>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HN7Dp1Xa4AAKOZV.jpg": {
       "status": "done",
@@ -1610,27 +1610,27 @@
       "referenced_by": [
         "20260723155143_twitter_com_drug_artist2_status_2080319958148640867.json"
       ],
-      "last_updated": "2026-08-01T22:59:40",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723155143im_/https://pbs.twimg.com/media/HLDwrSRagAEkGrk.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b5b47770>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:03:44",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723155143im_/https://pbs.twimg.com/media/HLDwrSRagAEkGrk.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e8140920>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HLDwrUAaYAA3Gch.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260723155143_twitter_com_drug_artist2_status_2080319958148640867.json"
       ],
-      "last_updated": "2026-08-01T22:59:44",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723155143im_/https://pbs.twimg.com/media/HLDwrUAaYAA3Gch.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b5b45880>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:03:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723155143im_/https://pbs.twimg.com/media/HLDwrUAaYAA3Gch.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e8114440>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HLDwrUAaAAElhNy.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260723155143_twitter_com_drug_artist2_status_2080319958148640867.json"
       ],
-      "last_updated": "2026-08-01T22:59:48",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723155143im_/https://pbs.twimg.com/media/HLDwrUAaAAElhNy.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b6cffd40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:03:51",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723155143im_/https://pbs.twimg.com/media/HLDwrUAaAAElhNy.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e8115d90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HN6I7uia4AAVWjG.jpg": {
       "status": "done",
@@ -1686,9 +1686,9 @@
       "referenced_by": [
         "20260723190247_twitter_com_drug_artist2_status_2080368042870202756.json"
       ],
-      "last_updated": "2026-08-01T22:59:52",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723190247im_/https://pbs.twimg.com/media/HN7q8dlW4AAsnKp.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b5b71820>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:03:55",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723190247im_/https://pbs.twimg.com/media/HN7q8dlW4AAsnKp.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e8143320>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HN7sCSDaAAAYhvF.jpg": {
       "status": "done",
@@ -1702,9 +1702,9 @@
       "referenced_by": [
         "20260723192812_twitter_com_drug_artist2_status_2080374437543923814.json"
       ],
-      "last_updated": "2026-08-01T22:59:55",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723192812im_/https://pbs.twimg.com/media/HN7eSSsakAASuxs.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b5b44170>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:03:59",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723192812im_/https://pbs.twimg.com/media/HN7eSSsakAASuxs.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e6f77110>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HN4c0jvaYAA2v4F.jpg": {
       "status": "done",
@@ -1781,9 +1781,9 @@
       "referenced_by": [
         "20260723224756_twitter_com_drug_artist2_status_2080424702389195012.json"
       ],
-      "last_updated": "2026-08-01T22:59:59",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723224756im_/https://pbs.twimg.com/media/HN1iWvSbQAAmHJA.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b6cfdee0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:04:02",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723224756im_/https://pbs.twimg.com/media/HN1iWvSbQAAmHJA.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e8143c20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HN9e0KJasAAyXfx.jpg": {
       "status": "done",
@@ -1846,27 +1846,27 @@
       "referenced_by": [
         "20260724075002_twitter_com_drug_artist2_status_2080561128183382330.json"
       ],
-      "last_updated": "2026-08-01T23:00:03",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260724075002im_/https://pbs.twimg.com/media/HN-jUe-bAAAACte.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b5b73680>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:04:06",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260724075002im_/https://pbs.twimg.com/media/HN-jUe-bAAAACte.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e6f76480>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HN-jUfOaYAIkz9I.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260724075002_twitter_com_drug_artist2_status_2080561128183382330.json"
       ],
-      "last_updated": "2026-08-01T23:00:07",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260724075002im_/https://pbs.twimg.com/media/HN-jUfOaYAIkz9I.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b5b73590>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:04:10",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260724075002im_/https://pbs.twimg.com/media/HN-jUfOaYAIkz9I.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e808b320>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HN-jUfFawAAHWOK.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260724075002_twitter_com_drug_artist2_status_2080561128183382330.json"
       ],
-      "last_updated": "2026-08-01T23:00:11",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260724075002im_/https://pbs.twimg.com/media/HN-jUfFawAAHWOK.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b5b71c10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:04:13",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260724075002im_/https://pbs.twimg.com/media/HN-jUfFawAAHWOK.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e6f774d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HN-k98UboAAsfh_.jpg": {
       "status": "done",
@@ -1922,36 +1922,36 @@
       "referenced_by": [
         "20260725101132_twitter_com_drug_artist2_status_2080959124850749746.json"
       ],
-      "last_updated": "2026-08-01T23:00:15",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725101132im_/https://pbs.twimg.com/media/HOEKaGLbAAA38wy.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b6c93ef0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:04:17",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725101132im_/https://pbs.twimg.com/media/HOEKaGLbAAA38wy.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e6f75130>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HOEKaGHbAAAmSux.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260725101132_twitter_com_drug_artist2_status_2080959124850749746.json"
       ],
-      "last_updated": "2026-08-01T23:00:20",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725101132im_/https://pbs.twimg.com/media/HOEKaGHbAAAmSux.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b5b732f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:04:22",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725101132im_/https://pbs.twimg.com/media/HOEKaGHbAAAmSux.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e87f68a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HOEKaGHbIAA-Qk9.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260725101132_twitter_com_drug_artist2_status_2080959124850749746.json"
       ],
-      "last_updated": "2026-08-01T23:00:24",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725101132im_/https://pbs.twimg.com/media/HOEKaGHbIAA-Qk9.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b5b735c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:04:25",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725101132im_/https://pbs.twimg.com/media/HOEKaGHbIAA-Qk9.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e6f76f00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HOEKaGRbkAAtU5E.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260725101132_twitter_com_drug_artist2_status_2080959124850749746.json"
       ],
-      "last_updated": "2026-08-01T23:00:28",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725101132im_/https://pbs.twimg.com/media/HOEKaGRbkAAtU5E.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b5b47200>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:04:30",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725101132im_/https://pbs.twimg.com/media/HOEKaGRbkAAtU5E.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e8141bb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HOA8aQeWkAADywS.jpg": {
       "status": "done",
@@ -1979,18 +1979,18 @@
       "referenced_by": [
         "20260725113548_twitter_com_drug_artist2_status_2080980332401381609.json"
       ],
-      "last_updated": "2026-08-01T23:00:33",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725113548im_/https://pbs.twimg.com/media/HOEJBgQbIAA0WpL.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b6c92de0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:04:34",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725113548im_/https://pbs.twimg.com/media/HOEJBgQbIAA0WpL.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e8143890>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HOEJCPQasAAQ5ku.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260725113548_twitter_com_drug_artist2_status_2080980332401381609.json"
       ],
-      "last_updated": "2026-08-01T23:00:37",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725113548im_/https://pbs.twimg.com/media/HOEJCPQasAAQ5ku.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b6cff710>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:04:38",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725113548im_/https://pbs.twimg.com/media/HOEJCPQasAAQ5ku.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e6f77680>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HOAx1asbwAAXz_g.jpg": {
       "status": "done",
@@ -2004,54 +2004,54 @@
       "referenced_by": [
         "20260725113819_twitter_com_drug_artist2_status_2080980963816030383.json"
       ],
-      "last_updated": "2026-08-01T23:00:41",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725113819im_/https://pbs.twimg.com/media/HOD0ZMEbkAAWzSy.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b5b45f70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:04:42",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725113819im_/https://pbs.twimg.com/media/HOD0ZMEbkAAWzSy.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e8115760>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HOD0by3aAAAWp5i.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260725113819_twitter_com_drug_artist2_status_2080980963816030383.json"
       ],
-      "last_updated": "2026-08-01T23:00:46",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725113819im_/https://pbs.twimg.com/media/HOD0by3aAAAWp5i.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b5b46330>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:04:46",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725113819im_/https://pbs.twimg.com/media/HOD0by3aAAAWp5i.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e8140b00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HOD0dj6bYAAw77z.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260725113819_twitter_com_drug_artist2_status_2080980963816030383.json"
       ],
-      "last_updated": "2026-08-01T23:00:50",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725113819im_/https://pbs.twimg.com/media/HOD0dj6bYAAw77z.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b6d1efc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:04:50",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725113819im_/https://pbs.twimg.com/media/HOD0dj6bYAAw77z.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e80ffc80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HN6udK4a4AAAE0R.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260725114116_twitter_com_drug_artist2_status_2080981707000602891.json"
       ],
-      "last_updated": "2026-08-01T23:00:54",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725114116im_/https://pbs.twimg.com/media/HN6udK4a4AAAE0R.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b5b468d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:04:54",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725114116im_/https://pbs.twimg.com/media/HN6udK4a4AAAE0R.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e81435f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HN6udKtaMAAgNwx.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260725114116_twitter_com_drug_artist2_status_2080981707000602891.json"
       ],
-      "last_updated": "2026-08-01T23:00:58",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725114116im_/https://pbs.twimg.com/media/HN6udKtaMAAgNwx.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b6cfcec0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:04:58",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725114116im_/https://pbs.twimg.com/media/HN6udKtaMAAgNwx.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e8140a70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HN6udKvaEAAjqTs.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260725114116_twitter_com_drug_artist2_status_2080981707000602891.json"
       ],
-      "last_updated": "2026-08-01T23:01:03",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725114116im_/https://pbs.twimg.com/media/HN6udKvaEAAjqTs.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b5b714c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:05:02",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725114116im_/https://pbs.twimg.com/media/HN6udKvaEAAjqTs.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e6f8cce0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HOEToGRbAAA6qau.jpg": {
       "status": "done",
@@ -2079,9 +2079,9 @@
       "referenced_by": [
         "20260726041354_twitter_com_drug_artist2_status_2081231511404368254.json"
       ],
-      "last_updated": "2026-08-01T23:01:07",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260726041354im_/https://pbs.twimg.com/media/HN-jQ0xasAAsrLF.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b5b478c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:05:06",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260726041354im_/https://pbs.twimg.com/media/HN-jQ0xasAAsrLF.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e80fd1f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HOFhAJ1akAAbj8a.jpg": {
       "status": "done",
@@ -2116,18 +2116,18 @@
       "referenced_by": [
         "20260726072919_twitter_com_drug_artist2_status_2081280691975950665.json"
       ],
-      "last_updated": "2026-08-01T23:01:12",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260726072919im_/https://pbs.twimg.com/media/HOGv3Mla0AAJ75V.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b5b8c7a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:05:10",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260726072919im_/https://pbs.twimg.com/media/HOGv3Mla0AAJ75V.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e8114a70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HOGv3Mma4AAHn9o.png": {
       "status": "failed",
       "referenced_by": [
         "20260726072919_twitter_com_drug_artist2_status_2081280691975950665.json"
       ],
-      "last_updated": "2026-08-01T23:01:16",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260726072919im_/https://pbs.twimg.com/media/HOGv3Mma4AAHn9o.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b5b71f70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:05:14",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260726072919im_/https://pbs.twimg.com/media/HOGv3Mma4AAHn9o.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e80fd250>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HOInGq4W0AAOHJ_.jpg": {
       "status": "done",
@@ -2141,36 +2141,36 @@
       "referenced_by": [
         "20260726075444_twitter_com_drug_artist2_status_2081287086376931459.json"
       ],
-      "last_updated": "2026-08-01T23:01:20",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260726075444im_/https://pbs.twimg.com/media/HOE94jibAAAPgyU.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b5b70800>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:05:18",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260726075444im_/https://pbs.twimg.com/media/HOE94jibAAAPgyU.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e81161e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HOE95lPaUAAJNcF.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260726075444_twitter_com_drug_artist2_status_2081287086376931459.json"
       ],
-      "last_updated": "2026-08-01T23:01:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260726075444im_/https://pbs.twimg.com/media/HOE95lPaUAAJNcF.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b5b8d1f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:05:22",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260726075444im_/https://pbs.twimg.com/media/HOE95lPaUAAJNcF.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e80fec90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HOE96pqb0AAXcYN.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260726075444_twitter_com_drug_artist2_status_2081287086376931459.json"
       ],
-      "last_updated": "2026-08-01T23:01:30",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260726075444im_/https://pbs.twimg.com/media/HOE96pqb0AAXcYN.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b5b72810>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:05:26",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260726075444im_/https://pbs.twimg.com/media/HOE96pqb0AAXcYN.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e80fe450>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HOE97pAawAAAIL4.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260726075444_twitter_com_drug_artist2_status_2081287086376931459.json"
       ],
-      "last_updated": "2026-08-01T23:01:34",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260726075444im_/https://pbs.twimg.com/media/HOE97pAawAAAIL4.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b6d1d520>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:05:30",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260726075444im_/https://pbs.twimg.com/media/HOE97pAawAAAIL4.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e6f75af0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HOJe3XDaQAABj13.jpg": {
       "status": "done",
@@ -2219,18 +2219,18 @@
       "referenced_by": [
         "20260727033524_twitter_com_drug_artist2_status_2081584210549330297.json"
       ],
-      "last_updated": "2026-08-01T23:01:39",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260727033524im_/https://pbs.twimg.com/media/HOJ5fv6aYAAn46s.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b5b45be0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:05:35",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260727033524if_/https://pbs.twimg.com/media/HOJ5fv6aYAAn46s.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e80ff530>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HOM50QPbYAALoHy.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260727035328_twitter_com_drug_artist2_status_2081588756482797778.json"
       ],
-      "last_updated": "2026-08-01T23:01:43",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260727035328im_/https://pbs.twimg.com/media/HOM50QPbYAALoHy.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b5b469c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:05:38",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260727035328im_/https://pbs.twimg.com/media/HOM50QPbYAALoHy.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e80fc230>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HOKTnVfbsAASEYu.jpg": {
       "status": "done",
@@ -2244,9 +2244,9 @@
       "referenced_by": [
         "20260727035555_twitter_com_drug_artist2_status_2081589375213912406.json"
       ],
-      "last_updated": "2026-08-01T23:01:48",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260727035555im_/https://pbs.twimg.com/media/HOJPRLaagAE-qKI.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b6d1ef60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:05:45",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260727035555if_/https://pbs.twimg.com/media/HOJPRLaagAE-qKI.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e8143b30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HONaw22a4AA0Z1s.jpg": {
       "status": "done",
@@ -2277,9 +2277,9 @@
       "referenced_by": [
         "20260727180100_twitter_com_drug_artist2_status_2081802047490535535.json"
       ],
-      "last_updated": "2026-08-01T23:01:52",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260727180100im_/https://pbs.twimg.com/media/HOP7ngRakAE-oN3.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b6c93f50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:05:49",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260727180100im_/https://pbs.twimg.com/media/HOP7ngRakAE-oN3.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e80fff80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HOQhjyKX0AAFiM6.jpg": {
       "status": "done",
@@ -2401,9 +2401,9 @@
       "referenced_by": [
         "20260730170041_twitter_com_drug_artist2_status_2082874029653057741.json"
       ],
-      "last_updated": "2026-08-01T23:01:56",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260730170041im_/https://pbs.twimg.com/media/HOfWGpNasAA97dy.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff9b5b467e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-01T23:05:53",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260730170041im_/https://pbs.twimg.com/media/HOfWGpNasAA97dy.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f00e81148c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HOh4buwaYAAeEJC.jpg": {
       "status": "done",
@@ -4434,7 +4434,7 @@
       "miss_count": 2
     },
     "20251119121741_twitter_com_drug_artist2_status_1991118681129283820.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/G6Dx4gqbIAAJN4x.jpg",
@@ -4446,7 +4446,7 @@
           "https://pbs.twimg.com/profile_images/1983926637260660736/jix4stR1_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-01T23:02:16",
+      "last_updated": "2026-08-01T23:03:14",
       "miss_count": 2
     },
     "20251119122057_twitter_com_drug_artist2_status_1991119502420128250.json": {
