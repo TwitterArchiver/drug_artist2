@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-01T23:05:53",
+  "last_updated": "2026-08-01T23:06:20",
   "html": {
     "https://web.archive.org/web/20251115102239if_/https://twitter.com/drug_artist2/status/1989640181964837315": {
       "status": "done",
@@ -2528,9 +2528,9 @@
       "referenced_by": [
         "20251119121535_twitter_com_drug_artist2_status_1991118154047864905.json"
       ],
-      "last_updated": "2026-08-01T23:02:19",
+      "last_updated": "2026-08-01T23:06:05",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251119121535/https://video.twimg.com/amplify_video/1990825350486700032/vid/avc1/720x1280/APqcwXrETNm9dbgW.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2080320128324083712/vid/avc1/720x1280/kpW-FqoEsDENn1ht.mp4": {
       "status": "done",
@@ -2544,9 +2544,9 @@
       "referenced_by": [
         "20260723190522_twitter_com_drug_artist2_status_2080368693369037163.json"
       ],
-      "last_updated": "2026-08-01T22:56:57",
+      "last_updated": "2026-08-01T23:06:07",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260723190522/https://video.twimg.com/tweet_video/HN7da-NaEAAnx_f.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2080324904696815618/vid/avc1/720x1280/1XOey_KaNZGX9UXi.mp4": {
       "status": "done",
@@ -2588,18 +2588,18 @@
       "referenced_by": [
         "20260725112301_twitter_com_drug_artist2_status_2080977114187305023.json"
       ],
-      "last_updated": "2026-08-01T23:02:19",
+      "last_updated": "2026-08-01T23:06:09",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260725112301/https://video.twimg.com/amplify_video/2080865700516909056/vid/avc1/720x1280/igR4LWdLsulDLORb.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2080779854925176832/vid/avc1/1080x1920/iiZH9nSbKttMxAyg.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260725112852_twitter_com_drug_artist2_status_2080978587877085293.json"
       ],
-      "last_updated": "2026-08-01T22:56:57",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260725112852/https://video.twimg.com/amplify_video/2080779854925176832/vid/avc1/1080x1920/iiZH9nSbKttMxAyg.mp4",
-      "miss_count": 1
+      "last_updated": "2026-08-01T23:06:16",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725112852/https://video.twimg.com/amplify_video/2080779854925176832/vid/avc1/1080x1920/iiZH9nSbKttMxAyg.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd6c1d2f3b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2080691042026942464/vid/avc1/960x720/rr5qDFgwx7Dc_rPZ.mp4": {
       "status": "done",
@@ -2630,13 +2630,13 @@
       "last_updated": "2026-08-01T22:57:06"
     },
     "https://video.twimg.com/amplify_video/2080273953655033856/vid/avc1/1280x590/s4wAdNfeX1DlJpeR.mp4?tag=14": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260725120522_twitter_com_drug_artist2_status_2080987772639420828.json"
       ],
-      "last_updated": "2026-08-01T22:56:57",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260725120522/https://video.twimg.com/amplify_video/2080273953655033856/vid/avc1/1280x590/s4wAdNfeX1DlJpeR.mp4?tag=14",
-      "miss_count": 1
+      "last_updated": "2026-08-01T23:06:20",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725120522im_/https://video.twimg.com/amplify_video/2080273953655033856/vid/avc1/1280x590/s4wAdNfeX1DlJpeR.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd6c1db1b80>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/tweet_video/HN-gFlWbMAAYZK3.mp4": {
       "status": "done",
@@ -6496,7 +6496,7 @@
       "last_updated": "2026-08-01T22:57:32"
     },
     "20260725112852_twitter_com_drug_artist2_status_2080978587877085293.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -6507,7 +6507,7 @@
           "https://pbs.twimg.com/profile_images/2080238126795202560/BTJCgT7M_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-01T22:57:32"
+      "last_updated": "2026-08-01T23:06:16"
     },
     "20260725113548_twitter_com_drug_artist2_status_2080980332401381609.json": {
       "status": "failed",
@@ -6719,7 +6719,7 @@
       "last_updated": "2026-08-01T22:57:33"
     },
     "20260725120522_twitter_com_drug_artist2_status_2080987772639420828.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -6730,7 +6730,7 @@
           "https://pbs.twimg.com/profile_images/2056214834593878016/SBcKXW_-_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-01T22:57:33"
+      "last_updated": "2026-08-01T23:06:20"
     },
     "20260725122549_twitter_com_drug_artist2_status_2080992920778514894.json": {
       "status": "done",
