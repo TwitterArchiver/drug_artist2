@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2079926765577973948",
+    "created_at": "2026-07-23T22:47:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T23:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080424702389195012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1816630643167756288",
+          "start": 0,
+          "username": "SIR1_732"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080424702389195012",
+    "in_reply_to_user_id": "1816630643167756288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079926765577973948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SIR1_732 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079926745705431040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1iWvSbQAAmHJA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2079926765577973948",
+        "created_at": "2026-07-23T22:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T23:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080424702389195012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1816630643167756288",
+              "start": 0,
+              "username": "SIR1_732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080424702389195012",
+        "in_reply_to_user_id": "1816630643167756288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079926765577973948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SIR1_732 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079926745705431040"
+          ]
+        },
+        "author_id": "1816630643167756288",
+        "conversation_id": "2079926765577973948",
+        "created_at": "2026-07-22T13:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079926765577973948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cMpoPdyMMp",
+              "end": 33,
+              "expanded_url": "https://x.com/SIR1_732/status/2079926765577973948/photo/1",
+              "media_key": "3_2079926745705431040",
+              "start": 10,
+              "url": "https://t.co/cMpoPdyMMp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079926765577973948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1202,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打翻兩粒釘 好舒服 https://t.co/cMpoPdyMMp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263,
+          "following_count": 34,
+          "like_count": 108,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 130
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-26T00:25:05.000Z",
+        "description": "SIRI/渡鴉｜裏@3Sheep732｜🚪199/299/520/1314｜線下隨緣｜寶寶@OvoLanyy｜張耀揚全肯定",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "3Sheep732"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "username": "OvoLanyy"
+              }
+            ]
+          }
+        },
+        "id": "1816630643167756288",
+        "location": "監獄和矯正機關",
+        "name": "我討厭你",
+        "pinned_tweet_id": "2074867625172377867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056420761565564928/fKG22pOP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6269,
+          "following_count": 70,
+          "like_count": 3124,
+          "listed_count": 23,
+          "media_count": 200,
+          "tweet_count": 849
+        },
+        "url": "",
+        "username": "SIR1_732",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2080210920173981886",
+    "created_at": "2026-07-23T20:32:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T21:32:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080390611539226636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2004881064226111488",
+          "start": 0,
+          "username": "yupoyun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080390611539226636",
+    "in_reply_to_user_id": "2004881064226111488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080210920173981886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yupoyun ママ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080210911454007296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5kzXMbkAAq9SZ.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2080210920173981886",
+        "created_at": "2026-07-23T20:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T21:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080390611539226636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2004881064226111488",
+              "start": 0,
+              "username": "yupoyun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080390611539226636",
+        "in_reply_to_user_id": "2004881064226111488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080210920173981886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yupoyun ママ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080210911454007296"
+          ]
+        },
+        "author_id": "2004881064226111488",
+        "conversation_id": "2080210920173981886",
+        "created_at": "2026-07-23T08:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T09:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080210920173981886"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "地雷系"
+            },
+            {
+              "end": 12,
+              "start": 6,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0sAB9s2ML0",
+              "end": 36,
+              "expanded_url": "https://x.com/yupoyun/status/2080210920173981886/photo/1",
+              "media_key": "3_2080210911454007296",
+              "start": 13,
+              "url": "https://t.co/0sAB9s2ML0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080210920173981886",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2139,
+          "like_count": 171,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#地雷系  #自撮り界隈 https://t.co/0sAB9s2ML0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1254,
+          "following_count": 32,
+          "like_count": 85,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 124
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T11:44:41.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@yupoyun?_r=1&…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@yupoyun?_r=1&_t=ZS-989zxaTLdMu",
+                "start": 0,
+                "url": "https://t.co/uvsH92Od0E"
+              }
+            ]
+          }
+        },
+        "id": "2004881064226111488",
+        "name": "うゆ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059889023179685888/UjISb5xp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 39,
+          "like_count": 3133,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 49
+        },
+        "url": "https://t.co/uvsH92Od0E",
+        "username": "yupoyun",
+        "verified": false
+      }
+    ]
+  }
+}

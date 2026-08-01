@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2080274005983215821",
+    "created_at": "2026-07-25T12:05:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T13:05:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080987772639420828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1990483183679492096",
+          "start": 0,
+          "username": "doenssch8849"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080987772639420828",
+    "in_reply_to_user_id": "1990483183679492096",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080274005983215821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doenssch8849 🥵🥵🥵🥵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13514,
+        "height": 590,
+        "media_key": "13_2080273953655033856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080273953655033856/img/s5tNiDF6BJKykVRM.jpg",
+        "public_metrics": {
+          "view_count": 17592
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080273953655033856/vid/avc1/584x270/TOTGLPum_cmJR3aJ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080273953655033856/vid/avc1/780x360/yGNADaXNXdLvsek3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080273953655033856/vid/avc1/1280x590/s4wAdNfeX1DlJpeR.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080273953655033856/pl/ey1litRXeH-DJZyJ.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2080274005983215821",
+        "created_at": "2026-07-25T12:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080987772639420828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1990483183679492096",
+              "start": 0,
+              "username": "doenssch8849"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080987772639420828",
+        "in_reply_to_user_id": "1990483183679492096",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080274005983215821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doenssch8849 🥵🥵🥵🥵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080273953655033856"
+          ]
+        },
+        "author_id": "1990483183679492096",
+        "conversation_id": "2080274005983215821",
+        "created_at": "2026-07-23T12:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080274005983215821"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "섹트"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "노예"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "능욕"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "디엠"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FssyyApvMa",
+              "end": 67,
+              "expanded_url": "https://x.com/doenssch8849/status/2080274005983215821/video/1",
+              "media_key": "13_2080273953655033856",
+              "start": 44,
+              "url": "https://t.co/FssyyApvMa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080274005983215821",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 278,
+          "impression_count": 50495,
+          "like_count": 1210,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "발냄새로 네 뇌를 녹여버릴게. 이제 내 노예야.\n#섹트  #노예 #능욕 #디엠 https://t.co/FssyyApvMa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 38,
+          "like_count": 135,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 200
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T18:12:40.000Z",
+        "description": "",
+        "id": "1990483183679492096",
+        "name": "먐먀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056214834593878016/SBcKXW_-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7114,
+          "following_count": 18,
+          "like_count": 16,
+          "listed_count": 8,
+          "media_count": 73,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "doenssch8849",
+        "verified": false
+      }
+    ]
+  }
+}

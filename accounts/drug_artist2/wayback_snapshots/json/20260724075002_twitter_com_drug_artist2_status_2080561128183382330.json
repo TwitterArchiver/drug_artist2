@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080561125176049664",
+        "3_2080561125243117570",
+        "3_2080561125205393408"
+      ]
+    },
+    "author_id": "1989627406391635968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080561128183382330",
+    "created_at": "2026-07-24T07:50:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T08:50:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080561128183382330"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dhjqzOi3CC",
+          "end": 145,
+          "expanded_url": "https://x.com/drug_artist2/status/2080561128183382330/photo/1",
+          "media_key": "3_2080561125176049664",
+          "start": 122,
+          "url": "https://t.co/dhjqzOi3CC"
+        },
+        {
+          "display_url": "pic.x.com/dhjqzOi3CC",
+          "end": 145,
+          "expanded_url": "https://x.com/drug_artist2/status/2080561128183382330/photo/1",
+          "media_key": "3_2080561125243117570",
+          "start": 122,
+          "url": "https://t.co/dhjqzOi3CC"
+        },
+        {
+          "display_url": "pic.x.com/dhjqzOi3CC",
+          "end": 145,
+          "expanded_url": "https://x.com/drug_artist2/status/2080561128183382330/photo/1",
+          "media_key": "3_2080561125205393408",
+          "start": 122,
+          "url": "https://t.co/dhjqzOi3CC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080561128183382330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1. 不推荐使用苯乙胺溶液 这有点灾难 用盐不好吗？溶液不好把控剂量容易出问题的啊 非要用建议溶水稀释服用\n2.我当时自杀吞的是复方制剂 复方苯硝那敏片 含苯巴比妥和硝西泮 抗过敏药 猴脑粉 我当时吞了 290 粒\n3.可以呀宝宝 你是谁呀？ https://t.co/dhjqzOi3CC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1205,
+        "media_key": "3_2080561125176049664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-jUe-bAAAACte.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1241,
+        "media_key": "3_2080561125243117570",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-jUfOaYAIkz9I.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1236,
+        "media_key": "3_2080561125205393408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-jUfFawAAHWOK.jpg",
+        "width": 1266
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080561125176049664",
+            "3_2080561125243117570",
+            "3_2080561125205393408"
+          ]
+        },
+        "author_id": "1989627406391635968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080561128183382330",
+        "created_at": "2026-07-24T07:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080561128183382330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dhjqzOi3CC",
+              "end": 145,
+              "expanded_url": "https://x.com/drug_artist2/status/2080561128183382330/photo/1",
+              "media_key": "3_2080561125176049664",
+              "start": 122,
+              "url": "https://t.co/dhjqzOi3CC"
+            },
+            {
+              "display_url": "pic.x.com/dhjqzOi3CC",
+              "end": 145,
+              "expanded_url": "https://x.com/drug_artist2/status/2080561128183382330/photo/1",
+              "media_key": "3_2080561125243117570",
+              "start": 122,
+              "url": "https://t.co/dhjqzOi3CC"
+            },
+            {
+              "display_url": "pic.x.com/dhjqzOi3CC",
+              "end": 145,
+              "expanded_url": "https://x.com/drug_artist2/status/2080561128183382330/photo/1",
+              "media_key": "3_2080561125205393408",
+              "start": 122,
+              "url": "https://t.co/dhjqzOi3CC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080561128183382330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1. 不推荐使用苯乙胺溶液 这有点灾难 用盐不好吗？溶液不好把控剂量容易出问题的啊 非要用建议溶水稀释服用\n2.我当时自杀吞的是复方制剂 复方苯硝那敏片 含苯巴比妥和硝西泮 抗过敏药 猴脑粉 我当时吞了 290 粒\n3.可以呀宝宝 你是谁呀？ https://t.co/dhjqzOi3CC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 33,
+          "like_count": 121,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 147
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      }
+    ]
+  }
+}

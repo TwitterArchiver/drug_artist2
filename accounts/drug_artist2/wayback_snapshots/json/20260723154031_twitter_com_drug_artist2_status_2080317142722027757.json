@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080317140423557120"
+      ]
+    },
+    "author_id": "1989627406391635968",
+    "conversation_id": "2080317142722027757",
+    "created_at": "2026-07-23T15:40:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T16:40:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080317142722027757"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IFFsYqvGJF",
+          "end": 175,
+          "expanded_url": "https://x.com/drug_artist2/status/2080317142722027757/photo/1",
+          "media_key": "3_2080317140423557120",
+          "start": 152,
+          "url": "https://t.co/IFFsYqvGJF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080317142722027757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "案子走到了侦查终结结案阶段\n意味着公安机关已经完成案件调查 下一步是移交检察院了 由检察院决定是否起诉 不予起诉就一点事没有 无罪 但起诉就要走到下一步 法院 法院宣判无罪或缓刑或监视居住 我这个获利金额的非法经营 大概率不会有实刑 \n另外我也认为不构成犯罪 因为 3-meo-pce当时连化工品都不是 https://t.co/IFFsYqvGJF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1099,
+        "media_key": "3_2080317140423557120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7Fas8aQAAKuhe.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080317140423557120"
+          ]
+        },
+        "author_id": "1989627406391635968",
+        "conversation_id": "2080317142722027757",
+        "created_at": "2026-07-23T15:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080317142722027757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IFFsYqvGJF",
+              "end": 175,
+              "expanded_url": "https://x.com/drug_artist2/status/2080317142722027757/photo/1",
+              "media_key": "3_2080317140423557120",
+              "start": 152,
+              "url": "https://t.co/IFFsYqvGJF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080317142722027757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "案子走到了侦查终结结案阶段\n意味着公安机关已经完成案件调查 下一步是移交检察院了 由检察院决定是否起诉 不予起诉就一点事没有 无罪 但起诉就要走到下一步 法院 法院宣判无罪或缓刑或监视居住 我这个获利金额的非法经营 大概率不会有实刑 \n另外我也认为不构成犯罪 因为 3-meo-pce当时连化工品都不是 https://t.co/IFFsYqvGJF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 56,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 33,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1203,
+          "following_count": 27,
+          "like_count": 59,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 89
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      }
+    ]
+  }
+}

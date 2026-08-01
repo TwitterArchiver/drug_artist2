@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2080707124951482669",
+    "created_at": "2026-07-25T11:25:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T12:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080977678338056237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1162189450668957697",
+          "start": 0,
+          "username": "Love_Sea_Fish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080977678338056237",
+    "in_reply_to_user_id": "1162189450668957697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080707124951482669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Love_Sea_Fish 妈妈踩我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080707111106105344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAoF-8b0AAqxJY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2080707124951482669",
+        "created_at": "2026-07-25T11:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080977678338056237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1162189450668957697",
+              "start": 0,
+              "username": "Love_Sea_Fish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080977678338056237",
+        "in_reply_to_user_id": "1162189450668957697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080707124951482669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Love_Sea_Fish 妈妈踩我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080707111106105344"
+          ]
+        },
+        "author_id": "1162189450668957697",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2080707124951482669",
+        "created_at": "2026-07-24T17:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080707124951482669"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 12,
+              "tag": "cosplay"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "蕾姆"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0LliDc3Tm9",
+              "end": 48,
+              "expanded_url": "https://x.com/Love_Sea_Fish/status/2080707124951482669/photo/1",
+              "media_key": "3_2080707111106105344",
+              "start": 25,
+              "url": "https://t.co/0LliDc3Tm9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080707124951482669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2177,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可爱吧\n怎么能拒绝我呢\n#cosplay #蕾姆 https://t.co/0LliDc3Tm9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1424,
+          "following_count": 38,
+          "like_count": 136,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 183
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-16T02:29:03.000Z",
+        "description": "坐标 中国 上海，非sm爱好者，仅爱好拍图，无定制，不拍私房，不卖图/身，🈲x骚扰，本人喜欢p🐻，一切以实物为准",
+        "id": "1162189450668957697",
+        "location": "Tokyo",
+        "name": "热带鱼",
+        "pinned_tweet_id": "2035962856706118058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905163787898150912/3Bd4i4Kg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8422,
+          "following_count": 15,
+          "like_count": 756,
+          "listed_count": 39,
+          "media_count": 532,
+          "tweet_count": 786
+        },
+        "url": "",
+        "username": "Love_Sea_Fish",
+        "verified": false
+      }
+    ]
+  }
+}

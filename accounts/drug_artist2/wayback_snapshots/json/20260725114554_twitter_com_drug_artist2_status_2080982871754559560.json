@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2080645788129231170",
+    "created_at": "2026-07-25T11:45:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T12:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080982871754559560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1758054709951070208",
+          "start": 0,
+          "username": "fufuatm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080982871754559560",
+    "in_reply_to_user_id": "1758054709951070208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080645788129231170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fufuatm 喜欢"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 156666,
+        "height": 2560,
+        "media_key": "13_2080645448357097472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080645448357097472/img/HOeR_qiSaetXQyqO.jpg",
+        "public_metrics": {
+          "view_count": 294187
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080645448357097472/pl/7JaKj_vxHz5xzL-4.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080645448357097472/vid/avc1/320x568/K85hD-t4W3J_HKTk.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080645448357097472/vid/avc1/1440x2560/I3DYhR171mJTyVxu.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080645448357097472/vid/avc1/480x852/pLOxLoiUelo3bbM4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080645448357097472/vid/avc1/720x1280/MIYhrjuJkFMGpy94.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2080645788129231170",
+        "created_at": "2026-07-25T11:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080982871754559560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1758054709951070208",
+              "start": 0,
+              "username": "fufuatm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080982871754559560",
+        "in_reply_to_user_id": "1758054709951070208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080645788129231170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fufuatm 喜欢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080645448357097472"
+          ]
+        },
+        "author_id": "1758054709951070208",
+        "conversation_id": "2080645788129231170",
+        "created_at": "2026-07-24T13:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080645788129231170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BGplprfBzk",
+              "end": 108,
+              "expanded_url": "https://x.com/fufuatm/status/2080645788129231170/video/1",
+              "media_key": "13_2080645448357097472",
+              "start": 85,
+              "url": "https://t.co/BGplprfBzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080645788129231170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2888,
+          "impression_count": 437704,
+          "like_count": 7448,
+          "quote_count": 2,
+          "reply_count": 422,
+          "retweet_count": 270
+        },
+        "reply_settings": "everyone",
+        "text": "随着重锤落下 上面的木板被一块块钉死\n\n一股股浓郁的雌臭味的热气扑到脸上\n\n我才终于意识到\n\n或许在我第一次偷窥师尊如厕时\n\n师尊就已经为下一个宗门玉厕定好了人选··· https://t.co/BGplprfBzk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 38,
+          "like_count": 136,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 192
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-15T09:04:52.000Z",
+        "description": "",
+        "id": "1758054709951070208",
+        "location": "🚪q58/v138只回复口令 私信留口令🧧和联系方式",
+        "name": "芙芙SAMA",
+        "pinned_tweet_id": "2064384253140545659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035571200165138432/Na6jo1WD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33613,
+          "following_count": 35,
+          "like_count": 10,
+          "listed_count": 82,
+          "media_count": 44,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "fufuatm",
+        "verified": true
+      }
+    ]
+  }
+}

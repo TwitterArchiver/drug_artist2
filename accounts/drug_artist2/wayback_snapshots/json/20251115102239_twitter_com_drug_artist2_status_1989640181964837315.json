@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "1989640181964837315",
+    "created_at": "2025-11-15T10:22:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T11:22:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989640181964837315"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 46,
+          "tag": "月尘"
+        },
+        {
+          "end": 53,
+          "start": 50,
+          "tag": "冰尘"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989640181964837315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "此号持有者不是沐雨本人，但我知道这个该死的傻子应该没死，给他开个号方便他醒了处理剩下的破事\n#月尘 #冰尘 的售后问题别问我，所有没发货的运损的漏发补发的这家伙醒了都会处理的，这傻子之前吃50mg蓖麻毒素三天就出院了所以别急等等吧，很难杀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "1989640181964837315",
+        "created_at": "2025-11-15T10:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T11:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989640181964837315"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "月尘"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "冰尘"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989640181964837315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "此号持有者不是沐雨本人，但我知道这个该死的傻子应该没死，给他开个号方便他醒了处理剩下的破事\n#月尘 #冰尘 的售后问题别问我，所有没发货的运损的漏发补发的这家伙醒了都会处理的，这傻子之前吃50mg蓖麻毒素三天就出院了所以别急等等吧，很难杀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "我是沐雨 | 药物百科wiki主 | 现在生死不明",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphrWhF"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "ICU",
+        "name": "沐雨（生死未卜版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/CuWdphrWhF",
+        "username": "drug_artist2",
+        "verified": false
+      }
+    ]
+  }
+}

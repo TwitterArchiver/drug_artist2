@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "1991878193071149501",
+    "created_at": "2025-11-21T14:35:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T15:35:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991878193071149501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1518404201168007168",
+          "start": 3,
+          "username": "godspeedyou50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991878193071149501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991855164886745282",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @godspeedyou50: 这是沐雨策划药事件大部分中的其中一个例子 这就是骨子里的劣根性 骨子里的道德观颠覆 还有多少空药壳 重发还是空药壳 缺斤少两可就不谈了\n转发推的博主本人手里收集了n个受害者我亲眼看过哈  \n你wiki主（贬义词）药圈地下皇帝4i狂魔推特公狗…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "1991878193071149501",
+        "created_at": "2025-11-21T14:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T15:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991878193071149501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1518404201168007168",
+              "start": 3,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991878193071149501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991855164886745282",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @godspeedyou50: 这是沐雨策划药事件大部分中的其中一个例子 这就是骨子里的劣根性 骨子里的道德观颠覆 还有多少空药壳 重发还是空药壳 缺斤少两可就不谈了\n转发推的博主本人手里收集了n个受害者我亲眼看过哈  \n你wiki主（贬义词）药圈地下皇帝4i狂魔推特公狗…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1991855164886745282",
+        "created_at": "2025-11-21T13:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T14:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991855164886745282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moya_michaei/s…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/moya_michaei/status/1991853680161886301",
+              "start": 146,
+              "url": "https://t.co/s08JcrGb0q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991855164886745282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这是沐雨策划药事件大部分中的其中一个例子 这就是骨子里的劣根性 骨子里的道德观颠覆 还有多少空药壳 重发还是空药壳 缺斤少两可就不谈了\n转发推的博主本人手里收集了n个受害者我亲眼看过哈  \n你wiki主（贬义词）药圈地下皇帝4i狂魔推特公狗敬爱的药物百科主编到底要怎么了论证 再次以死谢罪吗 告诉你别跳不会怎么样 谁也不会说你 谁都犯过错 何必挂咱？\n来吧开团吧 你矛盾点重重的谎言-.-"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 514,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991853680161886301",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是沐雨策划药事件大部分中的其中一个例子 这就是骨子里的劣根性 骨子里的道德观颠覆 还有多少空药壳 重发还是空药壳 缺斤少两可就不谈了\n转发推的博主本人手里收集了n个受害者我亲眼看过哈  \n你wiki主（贬义词）药圈地下皇帝4i狂魔推特公狗敬爱的药物百科主编到底要怎么了论证 再次以死谢罪吗 https://t.co/s08JcrGb0q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "我是沐雨 | 药物百科wiki主 | 复活了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphrWhF"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "ICU",
+        "name": "沐雨（复活版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 12,
+          "like_count": 12,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 35
+        },
+        "url": "https://t.co/CuWdphrWhF",
+        "username": "drug_artist2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 308,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 897
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

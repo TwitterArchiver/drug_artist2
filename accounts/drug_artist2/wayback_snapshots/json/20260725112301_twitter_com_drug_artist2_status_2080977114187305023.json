@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2080865752052351479",
+    "created_at": "2026-07-25T11:23:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T12:23:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080977114187305023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1427167039257341954",
+          "start": 0,
+          "username": "1hGiKAF3RrLgJcH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080977114187305023",
+    "in_reply_to_user_id": "1427167039257341954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080865752052351479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1hGiKAF3RrLgJcH 妈妈踩我"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16581,
+        "height": 1280,
+        "media_key": "13_2080865700516909056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080865700516909056/img/WvKzh0KqFoZWGpQP.jpg",
+        "public_metrics": {
+          "view_count": 552
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080865700516909056/vid/avc1/320x568/hjRwZQ6fzKrTqGwl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080865700516909056/vid/avc1/480x852/Jc3-mQiTkRMiJp_8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080865700516909056/vid/avc1/720x1280/igR4LWdLsulDLORb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080865700516909056/pl/MsWGHA1x0JAIgItW.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2080865752052351479",
+        "created_at": "2026-07-25T11:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080977114187305023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1427167039257341954",
+              "start": 0,
+              "username": "1hGiKAF3RrLgJcH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080977114187305023",
+        "in_reply_to_user_id": "1427167039257341954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080865752052351479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1hGiKAF3RrLgJcH 妈妈踩我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080865700516909056"
+          ]
+        },
+        "author_id": "1427167039257341954",
+        "conversation_id": "2080865752052351479",
+        "created_at": "2026-07-25T04:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080865752052351479"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "4i"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rkwV00dcis",
+              "end": 50,
+              "expanded_url": "https://x.com/1hGiKAF3RrLgJcH/status/2080865752052351479/video/1",
+              "media_key": "13_2080865700516909056",
+              "start": 27,
+              "url": "https://t.co/rkwV00dcis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080865752052351479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1899,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "叮叮叮叮叮（昨天的被人机片姐转出去了，吓晕了😇#4i https://t.co/rkwV00dcis"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1424,
+          "following_count": 38,
+          "like_count": 136,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 182
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-16T07:15:17.000Z",
+        "description": "我只是一个爱打钉子的老实小女孩不是m/喜欢看身材好的肌肉男/梦想是成为情侣推主/欢迎来找我闲聊",
+        "id": "1427167039257341954",
+        "name": "Spennende",
+        "pinned_tweet_id": "1726750587092623633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079236385882685441/P-K9ioyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 104,
+          "like_count": 1898,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 304
+        },
+        "url": "",
+        "username": "1hGiKAF3RrLgJcH",
+        "verified": false
+      }
+    ]
+  }
+}

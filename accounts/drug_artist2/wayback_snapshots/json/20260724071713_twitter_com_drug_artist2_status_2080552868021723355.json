@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080552865190588416"
+      ]
+    },
+    "author_id": "1989627406391635968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080552868021723355",
+    "created_at": "2026-07-24T07:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T08:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080552868021723355"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PHXRQkdlZp",
+          "end": 129,
+          "expanded_url": "https://x.com/drug_artist2/status/2080552868021723355/photo/1",
+          "media_key": "3_2080552865190588416",
+          "start": 106,
+          "url": "https://t.co/PHXRQkdlZp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080552868021723355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "纯粹是被晶哥吓到了宝宝 这个东西在今年 7.1 号才正式列管为毒品 在此之前 月尘连化学品都不是 是晶哥吓唬你说是毒品 不过还是摸摸你宝宝 这怪我 不过这种事情也不会留任何案底和吸毒史就是了 最多把你东西没收了 https://t.co/PHXRQkdlZp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1315,
+        "media_key": "3_2080552865190588416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-bzsIbMAAIxSp.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080552865190588416"
+          ]
+        },
+        "author_id": "1989627406391635968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080552868021723355",
+        "created_at": "2026-07-24T07:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080552868021723355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PHXRQkdlZp",
+              "end": 129,
+              "expanded_url": "https://x.com/drug_artist2/status/2080552868021723355/photo/1",
+              "media_key": "3_2080552865190588416",
+              "start": 106,
+              "url": "https://t.co/PHXRQkdlZp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080552868021723355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "纯粹是被晶哥吓到了宝宝 这个东西在今年 7.1 号才正式列管为毒品 在此之前 月尘连化学品都不是 是晶哥吓唬你说是毒品 不过还是摸摸你宝宝 这怪我 不过这种事情也不会留任何案底和吸毒史就是了 最多把你东西没收了 https://t.co/PHXRQkdlZp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1299,
+          "following_count": 33,
+          "like_count": 117,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 143
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      }
+    ]
+  }
+}

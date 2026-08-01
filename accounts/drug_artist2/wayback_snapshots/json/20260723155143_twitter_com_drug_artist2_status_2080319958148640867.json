@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2067416863190249656",
+    "created_at": "2026-07-23T15:51:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T16:51:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080319958148640867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2065677235374432256",
+          "start": 0,
+          "username": "Laph1a"
+        },
+        {
+          "end": 22,
+          "id": "1916974498903166978",
+          "start": 8,
+          "username": "Sakura8964666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080319958148640867",
+    "in_reply_to_user_id": "2065677235374432256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067416863190249656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Laph1a @Sakura8964666 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2148,
+        "media_key": "3_2067416855392976897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLDwrSRagAEkGrk.jpg",
+        "width": 1515
+      },
+      {
+        "height": 365,
+        "media_key": "3_2067416855858536448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLDwrUAaYAA3Gch.jpg",
+        "width": 365
+      },
+      {
+        "height": 794,
+        "media_key": "3_2067416855858511873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLDwrUAaAAElhNy.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2067416863190249656",
+        "created_at": "2026-07-23T15:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080319958148640867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2065677235374432256",
+              "start": 0,
+              "username": "Laph1a"
+            },
+            {
+              "end": 22,
+              "id": "1916974498903166978",
+              "start": 8,
+              "username": "Sakura8964666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080319958148640867",
+        "in_reply_to_user_id": "2065677235374432256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067416863190249656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Laph1a @Sakura8964666 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067416855392976897",
+            "3_2067416855858536448",
+            "3_2067416855858511873"
+          ]
+        },
+        "author_id": "2065677235374432256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067416863190249656",
+        "created_at": "2026-06-18T01:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067416863190249656"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 111,
+              "start": 99,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 124,
+              "start": 112,
+              "tag": "闘病垢さんと繋がりたい"
+            },
+            {
+              "end": 132,
+              "start": 125,
+              "tag": "依存先募集中"
+            },
+            {
+              "end": 148,
+              "start": 133,
+              "tag": "精神疾患を持つ方と繋がりたい"
+            },
+            {
+              "end": 153,
+              "start": 149,
+              "tag": "病み垢"
+            },
+            {
+              "end": 158,
+              "start": 154,
+              "tag": "闘病垢"
+            },
+            {
+              "end": 165,
+              "start": 159,
+              "tag": "友達募集中"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ltW1nQQZ7Y",
+              "end": 189,
+              "expanded_url": "https://x.com/Laph1a/status/2067416863190249656/photo/1",
+              "media_key": "3_2067416855392976897",
+              "start": 166,
+              "url": "https://t.co/ltW1nQQZ7Y"
+            },
+            {
+              "display_url": "pic.x.com/ltW1nQQZ7Y",
+              "end": 189,
+              "expanded_url": "https://x.com/Laph1a/status/2067416863190249656/photo/1",
+              "media_key": "3_2067416855858536448",
+              "start": 166,
+              "url": "https://t.co/ltW1nQQZ7Y"
+            },
+            {
+              "display_url": "pic.x.com/ltW1nQQZ7Y",
+              "end": 189,
+              "expanded_url": "https://x.com/Laph1a/status/2067416863190249656/photo/1",
+              "media_key": "3_2067416855858511873",
+              "start": 166,
+              "url": "https://t.co/ltW1nQQZ7Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067416863190249656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5423,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "˚ 𓆩 ✞ 𓆪 ˚˙\n\n07 ¦ 🚹 ¦ 哲学 ¦ INTP-T ¦ 病み垢\nADHD ¦ ASD ¦ 複雑性PTSD\nバイ・セクシャル ¦ 市販薬依存\n\n絡みください、すぐ懐きます。ඉ  ඉ\n\n #病み垢さんと繋がりたい #闘病垢さんと繋がりたい #依存先募集中 #精神疾患を持つ方と繋がりたい #病み垢 #闘病垢 #友達募集中 https://t.co/ltW1nQQZ7Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 56,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 33,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 27,
+          "like_count": 63,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 94
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-13T06:07:25.000Z",
+        "description": "INTP-T ¦ 病み垢 ¦ 哲学 ¦ 退廃 ¦ 快楽 ¦ LG(B)T ¦ ♂︎",
+        "id": "2065677235374432256",
+        "name": "ラフィ",
+        "pinned_tweet_id": "2067416863190249656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077756797981765633/L_EmY597_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 86,
+          "like_count": 1022,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1555
+        },
+        "url": "",
+        "username": "Laph1a",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-28T21:55:19.000Z",
+        "description": "现代极乐主义者、地雷系主义支持者\n化学极乐百科：https://t.co/BeprZt3OWA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 47,
+                "expanded_url": "https://jile.bid/",
+                "start": 24,
+                "url": "https://t.co/BeprZt3OWA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/BeprZt3OWA"
+              }
+            ]
+          }
+        },
+        "id": "1916974498903166978",
+        "name": "Sakura",
+        "pinned_tweet_id": "2078738716508737549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078082221064482816/MgKCJyTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 478,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 242
+        },
+        "url": "https://t.co/BeprZt3OWA",
+        "username": "Sakura8964666",
+        "verified": false
+      }
+    ]
+  }
+}

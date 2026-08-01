@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2082058298602455193",
+    "created_at": "2026-07-28T12:05:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T13:05:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082074871677501576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1860317861568536576",
+          "start": 0,
+          "username": "Finalvent1114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082074871677501576",
+    "in_reply_to_user_id": "1860317861568536576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082058298602455193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Finalvent1114 主人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2082058298602455193",
+        "created_at": "2026-07-28T12:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082074871677501576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1860317861568536576",
+              "start": 0,
+              "username": "Finalvent1114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082074871677501576",
+        "in_reply_to_user_id": "1860317861568536576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082058298602455193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Finalvent1114 主人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860317861568536576",
+        "conversation_id": "2082058298602455193",
+        "created_at": "2026-07-28T10:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082058298602455193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drug_artist2/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/drug_artist2/status/2082030126343290935",
+              "start": 6,
+              "url": "https://t.co/nEIjXRwM72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082058298602455193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082030126343290935",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这傻逼疯了 https://t.co/nEIjXRwM72"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1521,
+          "following_count": 46,
+          "like_count": 174,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 288
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T13:42:06.000Z",
+        "description": "我不想长大",
+        "id": "1860317861568536576",
+        "location": " ✟MERCY✟",
+        "name": "银月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958969323109982208/J_dL5GH0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4714,
+          "following_count": 220,
+          "like_count": 2970,
+          "listed_count": 16,
+          "media_count": 542,
+          "tweet_count": 3013
+        },
+        "url": "",
+        "username": "Finalvent1114",
+        "verified": false
+      }
+    ]
+  }
+}

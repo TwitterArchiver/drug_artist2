@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080316312107225089"
+      ]
+    },
+    "author_id": "1989627406391635968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080316314321871015",
+    "created_at": "2026-07-23T15:37:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T16:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080316314321871015"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wzEazcVRa0",
+          "end": 177,
+          "expanded_url": "https://x.com/drug_artist2/status/2080316314321871015/photo/1",
+          "media_key": "3_2080316312107225089",
+          "start": 154,
+          "url": "https://t.co/wzEazcVRa0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080316314321871015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看守所生活说来话长 里面二十个人左右睡一个大板 硬板子 没有床 全都只能侧着身子睡 在里面没有尊严自由和隐私可言 每个犯人每周有 200 额度 第一次进去的要交 180 公用品 大家吃喝 睡觉 生活 娱乐活动 休息 都在那一个大板上 里面如同地狱一样折磨你的身心 没有警察这个称呼 只有管教 干部 很痛苦的 https://t.co/wzEazcVRa0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1027,
+        "media_key": "3_2080316312107225089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7EqfOaEAE9Ofb.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080316312107225089"
+          ]
+        },
+        "author_id": "1989627406391635968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080316314321871015",
+        "created_at": "2026-07-23T15:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080316314321871015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wzEazcVRa0",
+              "end": 177,
+              "expanded_url": "https://x.com/drug_artist2/status/2080316314321871015/photo/1",
+              "media_key": "3_2080316312107225089",
+              "start": 154,
+              "url": "https://t.co/wzEazcVRa0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080316314321871015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看守所生活说来话长 里面二十个人左右睡一个大板 硬板子 没有床 全都只能侧着身子睡 在里面没有尊严自由和隐私可言 每个犯人每周有 200 额度 第一次进去的要交 180 公用品 大家吃喝 睡觉 生活 娱乐活动 休息 都在那一个大板上 里面如同地狱一样折磨你的身心 没有警察这个称呼 只有管教 干部 很痛苦的 https://t.co/wzEazcVRa0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 56,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 33,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1203,
+          "following_count": 27,
+          "like_count": 59,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 88
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      }
+    ]
+  }
+}

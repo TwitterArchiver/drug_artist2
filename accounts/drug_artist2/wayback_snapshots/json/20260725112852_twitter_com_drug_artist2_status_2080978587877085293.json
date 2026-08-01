@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2080779883006009770",
+    "created_at": "2026-07-25T11:28:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T12:28:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080978587877085293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2326159616",
+          "start": 0,
+          "username": "Dillonsbooty2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080978587877085293",
+    "in_reply_to_user_id": "2326159616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080779883006009770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dillonsbooty2 跪下了妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6433,
+        "height": 1920,
+        "media_key": "13_2080779854925176832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080779854925176832/img/dMXZl57SFSkgYaCR.jpg",
+        "public_metrics": {
+          "view_count": 3565
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080779854925176832/pl/R6Xec5wEGaD7D8xm.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080779854925176832/vid/avc1/320x568/9Xm4QVng_HdU1rtm.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080779854925176832/vid/avc1/1080x1920/iiZH9nSbKttMxAyg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080779854925176832/vid/avc1/480x852/zdCgOtRLWwDZqwbU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080779854925176832/vid/avc1/720x1280/BqHstdt7KYAbWE9H.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2080779883006009770",
+        "created_at": "2026-07-25T11:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080978587877085293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2326159616",
+              "start": 0,
+              "username": "Dillonsbooty2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080978587877085293",
+        "in_reply_to_user_id": "2326159616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080779883006009770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dillonsbooty2 跪下了妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080779854925176832"
+          ]
+        },
+        "author_id": "2326159616",
+        "conversation_id": "2080779883006009770",
+        "created_at": "2026-07-24T22:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T23:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080779883006009770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iNx3NRIwAA",
+              "end": 34,
+              "expanded_url": "https://x.com/Dillonsbooty2/status/2080779883006009770/video/1",
+              "media_key": "13_2080779854925176832",
+              "start": 11,
+              "url": "https://t.co/iNx3NRIwAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080779883006009770",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 12350,
+          "like_count": 482,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "公主驾到，通通跪下。 https://t.co/iNx3NRIwAA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1424,
+          "following_count": 38,
+          "like_count": 136,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 184
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-03T23:13:00.000Z",
+        "description": "可可爱爱可以爱爱",
+        "id": "2326159616",
+        "location": "8.1km",
+        "name": "柠檬很甜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080238126795202560/BTJCgT7M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 48,
+          "like_count": 618,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 469
+        },
+        "url": "",
+        "username": "Dillonsbooty2",
+        "verified": true
+      }
+    ]
+  }
+}

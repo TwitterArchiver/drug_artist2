@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2080116344192930083",
+    "created_at": "2026-07-23T20:28:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T21:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080389503131509019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2068635314521092096",
+          "start": 0,
+          "username": "aimugoto67"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080389503131509019",
+    "in_reply_to_user_id": "2068635314521092096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080116344192930083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aimugoto67 ママ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080116339709222912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4Oyj_aoAAfWX9.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2080116344192930083",
+        "created_at": "2026-07-23T20:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T21:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080389503131509019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2068635314521092096",
+              "start": 0,
+              "username": "aimugoto67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080389503131509019",
+        "in_reply_to_user_id": "2068635314521092096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080116344192930083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aimugoto67 ママ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080116339709222912"
+          ]
+        },
+        "author_id": "2068635314521092096",
+        "conversation_id": "2080116344192930083",
+        "created_at": "2026-07-23T02:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080116344192930083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gPVVt3An4Z",
+              "end": 32,
+              "expanded_url": "https://x.com/aimugoto67/status/2080116344192930083/photo/1",
+              "media_key": "3_2080116339709222912",
+              "start": 9,
+              "url": "https://t.co/gPVVt3An4Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080116344192930083",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 6425,
+          "like_count": 470,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "捨てないでඉ_ඉ https://t.co/gPVVt3An4Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1254,
+          "following_count": 32,
+          "like_count": 83,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 122
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-21T10:02:07.000Z",
+        "description": "返せてないかもだけどDM見てます",
+        "id": "2068635314521092096",
+        "location": "❤︎",
+        "name": "☦︎︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079525628853080064/CVk35o1J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 7,
+          "like_count": 529,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "aimugoto67",
+        "verified": false
+      }
+    ]
+  }
+}

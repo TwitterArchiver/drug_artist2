@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2080427906128576880",
+    "created_at": "2026-07-24T12:27:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T13:27:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080631011386556679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2070320327276855296",
+          "start": 0,
+          "username": "sha923ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080631011386556679",
+    "in_reply_to_user_id": "2070320327276855296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080427906128576880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sha923ovo 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10868,
+        "height": 1280,
+        "media_key": "13_2080427837664940032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080427837664940032/img/UceFBbzwGR4DiDWZ.jpg",
+        "public_metrics": {
+          "view_count": 271
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080427837664940032/vid/avc1/320x568/Y7kWIA54suXjJrdS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080427837664940032/vid/avc1/480x852/azUhgl1JfPSeq-Ua.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080427837664940032/vid/avc1/720x1280/F9VeON_TkgxvdHH0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080427837664940032/pl/OI2Ff7lDWyt9eoaH.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2080427906128576880",
+        "created_at": "2026-07-24T12:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080631011386556679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2070320327276855296",
+              "start": 0,
+              "username": "sha923ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080631011386556679",
+        "in_reply_to_user_id": "2070320327276855296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080427906128576880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sha923ovo 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080427837664940032"
+          ]
+        },
+        "author_id": "2070320327276855296",
+        "conversation_id": "2080427906128576880",
+        "created_at": "2026-07-23T23:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T00:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080427906128576880"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "日系"
+            },
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "地雷系"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m5ais0G13e",
+              "end": 32,
+              "expanded_url": "https://x.com/sha923ovo/status/2080427906128576880/video/1",
+              "media_key": "13_2080427837664940032",
+              "start": 9,
+              "url": "https://t.co/m5ais0G13e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080427906128576880",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1278,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#日系 #地雷系 https://t.co/m5ais0G13e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1329,
+          "following_count": 36,
+          "like_count": 126,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 151
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-26T01:39:02.000Z",
+        "description": "",
+        "id": "2070320327276855296",
+        "name": "次泪ouo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074072349318742016/85P-CWob_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 3,
+          "like_count": 865,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "sha923ovo",
+        "verified": false
+      }
+    ]
+  }
+}

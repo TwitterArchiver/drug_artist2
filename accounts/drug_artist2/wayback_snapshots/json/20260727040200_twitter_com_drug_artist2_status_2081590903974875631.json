@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2081046266083934503",
+    "created_at": "2026-07-27T04:02:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T05:02:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081590903974875631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2061122732704907264",
+          "start": 0,
+          "username": "fuckyoudolove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081590903974875631",
+    "in_reply_to_user_id": "2061122732704907264",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081046266083934503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuckyoudolove ✌️🥵✌️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2081046266083934503",
+        "created_at": "2026-07-27T04:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T05:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081590903974875631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2061122732704907264",
+              "start": 0,
+              "username": "fuckyoudolove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081590903974875631",
+        "in_reply_to_user_id": "2061122732704907264",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081046266083934503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuckyoudolove ✌️🥵✌️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061122732704907264",
+        "conversation_id": "2081046266083934503",
+        "created_at": "2026-07-25T15:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081046266083934503"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "四爱"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081046266083934503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 44150,
+          "like_count": 704,
+          "quote_count": 5,
+          "reply_count": 59,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "如果男人被干的吐舌娇喘精尿横流\n#四爱 #4i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 42,
+          "like_count": 148,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 237
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-31T16:30:18.000Z",
+        "description": "4i",
+        "id": "2061122732704907264",
+        "name": "bemylove",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080732958021857280/rP4lVUha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 24,
+          "like_count": 58,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "fuckyoudolove",
+        "verified": false
+      }
+    ]
+  }
+}

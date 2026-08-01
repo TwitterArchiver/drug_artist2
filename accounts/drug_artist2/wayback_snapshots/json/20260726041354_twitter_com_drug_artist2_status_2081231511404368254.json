@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2080561077411307719",
+    "created_at": "2026-07-26T04:13:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T05:13:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081231511404368254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2038771159093940224",
+          "start": 0,
+          "username": "lazyslothqqni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081231511404368254",
+    "in_reply_to_user_id": "2038771159093940224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080561077411307719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lazyslothqqni 主人好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080561062307606528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-jQ0xasAAsrLF.jpg",
+        "width": 1516
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2080561077411307719",
+        "created_at": "2026-07-26T04:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081231511404368254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2038771159093940224",
+              "start": 0,
+              "username": "lazyslothqqni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081231511404368254",
+        "in_reply_to_user_id": "2038771159093940224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080561077411307719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lazyslothqqni 主人好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080561062307606528"
+          ]
+        },
+        "author_id": "2038771159093940224",
+        "conversation_id": "2080561077411307719",
+        "created_at": "2026-07-24T07:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080561077411307719"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "4i"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/czdUdLvUnq",
+              "end": 40,
+              "expanded_url": "https://x.com/lazyslothqqni/status/2080561077411307719/photo/1",
+              "media_key": "3_2080561062307606528",
+              "start": 17,
+              "url": "https://t.co/czdUdLvUnq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080561077411307719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2943,
+          "like_count": 96,
+          "quote_count": 1,
+          "reply_count": 47,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#4i  姐姐坏 还是 姐姐好？ https://t.co/czdUdLvUnq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 40,
+          "like_count": 137,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 202
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T00:13:14.000Z",
+        "description": "活着就是伟大",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lazyslothqqni",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lazyslothqqni",
+                "start": 0,
+                "url": "https://t.co/YHKanUGdAq"
+              }
+            ]
+          }
+        },
+        "id": "2038771159093940224",
+        "name": "Lazy sloth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069102324799422464/WGziVBE5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 54,
+          "like_count": 955,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 99
+        },
+        "url": "https://t.co/YHKanUGdAq",
+        "username": "lazyslothqqni",
+        "verified": false
+      }
+    ]
+  }
+}

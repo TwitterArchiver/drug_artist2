@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "1991880257188790283",
+    "created_at": "2025-11-21T14:43:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T15:43:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991880257188790283"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1991880257188790283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "声明:策划药 化工原料属于特殊商品 没有质量问题不再退换"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "1991880257188790283",
+        "created_at": "2025-11-21T14:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T15:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991880257188790283"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991880257188790283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "声明:策划药 化工原料属于特殊商品 没有质量问题不再退换"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "我是沐雨 | 药物百科wiki主 | 复活了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphrWhF"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "ICU",
+        "name": "沐雨（复活版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 12,
+          "like_count": 12,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 37
+        },
+        "url": "https://t.co/CuWdphrWhF",
+        "username": "drug_artist2",
+        "verified": false
+      }
+    ]
+  }
+}

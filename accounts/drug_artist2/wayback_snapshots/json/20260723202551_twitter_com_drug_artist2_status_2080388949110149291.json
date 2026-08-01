@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2080173612640751984",
+    "created_at": "2026-07-23T20:25:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T21:25:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080388949110149291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1854915067994841088",
+          "start": 0,
+          "username": "chiinaku11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080388949110149291",
+    "in_reply_to_user_id": "1854915067994841088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080173612640751984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiinaku11 ママ、すごくきれい"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2080173599982329856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5C3jIXoAA-vGu.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2080173612640751984",
+        "created_at": "2026-07-23T20:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T21:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080388949110149291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1854915067994841088",
+              "start": 0,
+              "username": "chiinaku11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080388949110149291",
+        "in_reply_to_user_id": "1854915067994841088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080173612640751984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiinaku11 ママ、すごくきれい"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080173599982329856"
+          ]
+        },
+        "author_id": "1854915067994841088",
+        "conversation_id": "2080173612640751984",
+        "created_at": "2026-07-23T06:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T07:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080173612640751984"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ihSfsAryIB",
+              "end": 30,
+              "expanded_url": "https://x.com/chiinaku11/status/2080173612640751984/photo/1",
+              "media_key": "3_2080173599982329856",
+              "start": 7,
+              "url": "https://t.co/ihSfsAryIB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080173612640751984",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 8529,
+          "like_count": 1074,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈 https://t.co/ihSfsAryIB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1253,
+          "following_count": 32,
+          "like_count": 82,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 120
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T15:53:35.000Z",
+        "description": "｜性格は悪いが善良だ｜旦那様 ＠_yQi4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 15,
+                "username": "_yQi4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/crycry92872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/crycry92872",
+                "start": 0,
+                "url": "https://t.co/hRTe26VoVn"
+              }
+            ]
+          }
+        },
+        "id": "1854915067994841088",
+        "name": "泣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067192116426731521/bjWYFbYW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2542,
+          "following_count": 145,
+          "like_count": 1396,
+          "listed_count": 5,
+          "media_count": 118,
+          "tweet_count": 2643
+        },
+        "url": "https://t.co/hRTe26VoVn",
+        "username": "chiinaku11",
+        "verified": false
+      }
+    ]
+  }
+}

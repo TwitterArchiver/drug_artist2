@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2080131785518916046",
+    "created_at": "2026-07-23T20:08:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T21:08:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080384670907380223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1699574342030622720",
+          "start": 0,
+          "username": "AidayyTAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080384670907380223",
+    "in_reply_to_user_id": "1699574342030622720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080131785518916046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AidayyTAT ママ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1389,
+        "media_key": "3_2080131767164624896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4c0jvaYAA2v4F.jpg",
+        "width": 1042
+      },
+      {
+        "height": 1608,
+        "media_key": "3_2080131767168823296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4c0jwacAArOZu.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2080131785518916046",
+        "created_at": "2026-07-23T20:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T21:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080384670907380223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1699574342030622720",
+              "start": 0,
+              "username": "AidayyTAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080384670907380223",
+        "in_reply_to_user_id": "1699574342030622720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080131785518916046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AidayyTAT ママ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080131767164624896",
+            "3_2080131767168823296"
+          ]
+        },
+        "author_id": "1699574342030622720",
+        "conversation_id": "2080131785518916046",
+        "created_at": "2026-07-23T03:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080131785518916046"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "fypシ゚"
+            },
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "メンヘラ"
+            },
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "病み垢"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "片目"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D2DigYmxN0",
+              "end": 45,
+              "expanded_url": "https://x.com/AidayyTAT/status/2080131785518916046/photo/1",
+              "media_key": "3_2080131767164624896",
+              "start": 22,
+              "url": "https://t.co/D2DigYmxN0"
+            },
+            {
+              "display_url": "pic.x.com/D2DigYmxN0",
+              "end": 45,
+              "expanded_url": "https://x.com/AidayyTAT/status/2080131785518916046/photo/1",
+              "media_key": "3_2080131767168823296",
+              "start": 22,
+              "url": "https://t.co/D2DigYmxN0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080131785518916046",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1259,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#fypシ゚ #メンヘラ #病み垢 #片目 https://t.co/D2DigYmxN0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 56,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 33,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 30,
+          "like_count": 76,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 117
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-07T00:05:18.000Z",
+        "description": "エレクトリックエンジェル",
+        "id": "1699574342030622720",
+        "location": "水色療養所",
+        "name": "やお",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915709255514017792/0sjnUJtz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2008,
+          "following_count": 0,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "AidayyTAT",
+        "verified": false
+      }
+    ]
+  }
+}

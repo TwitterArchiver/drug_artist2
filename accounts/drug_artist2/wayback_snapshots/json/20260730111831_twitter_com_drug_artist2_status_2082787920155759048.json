@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2082743427780038979",
+    "created_at": "2026-07-30T11:18:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T12:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082787920155759048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1932702866571239424",
+          "start": 0,
+          "username": "Uchina_Ob1450"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082787920155759048",
+    "in_reply_to_user_id": "1932702866571239424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082787236009988237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Uchina_Ob1450 我回来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2082743427780038979",
+        "created_at": "2026-07-30T11:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082787920155759048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1932702866571239424",
+              "start": 0,
+              "username": "Uchina_Ob1450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082787920155759048",
+        "in_reply_to_user_id": "1932702866571239424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082787236009988237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Uchina_Ob1450 我回来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932702866571239424",
+        "conversation_id": "2082743427780038979",
+        "created_at": "2026-07-30T11:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082787236009988237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1989627406391635968",
+              "start": 0,
+              "username": "drug_artist2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082787236009988237",
+        "in_reply_to_user_id": "1989627406391635968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082743427780038979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist2 沐雨回歸了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 45,
+          "like_count": 211,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 308
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-11T07:34:25.000Z",
+        "description": "鏡子不磨不平\n支黑反賊不滅不行\n試看將來的環球\n必是赤旗的世界",
+        "id": "1932702866571239424",
+        "location": "宇智波村",
+        "name": "神秘面具男·滅殖之刃",
+        "pinned_tweet_id": "2030880810778443809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976079095126765568/GbWPFVlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 332,
+          "like_count": 2997,
+          "listed_count": 2,
+          "media_count": 94,
+          "tweet_count": 2955
+        },
+        "url": "",
+        "username": "Uchina_Ob1450",
+        "verified": false
+      }
+    ]
+  }
+}

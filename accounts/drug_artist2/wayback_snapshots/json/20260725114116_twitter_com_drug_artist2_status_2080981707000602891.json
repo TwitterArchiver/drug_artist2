@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2080291906664513701",
+    "created_at": "2026-07-25T11:41:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T12:41:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080981707000602891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2069627397377327104",
+          "start": 0,
+          "username": "navvyg920"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080981707000602891",
+    "in_reply_to_user_id": "2069627397377327104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080291906664513701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@navvyg920 求一直足主人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2080291894052184064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6udK4a4AAAE0R.jpg",
+        "width": 960
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2080291894006001664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6udKtaMAAgNwx.jpg",
+        "width": 959
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2080291894014382080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6udKvaEAAjqTs.jpg",
+        "width": 730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2080291906664513701",
+        "created_at": "2026-07-25T11:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080981707000602891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2069627397377327104",
+              "start": 0,
+              "username": "navvyg920"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080981707000602891",
+        "in_reply_to_user_id": "2069627397377327104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080291906664513701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@navvyg920 求一直足主人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080291894052184064",
+            "3_2080291894006001664",
+            "3_2080291894014382080"
+          ]
+        },
+        "author_id": "2069627397377327104",
+        "conversation_id": "2080291906664513701",
+        "created_at": "2026-07-23T14:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080291906664513701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kAWal2Xri5",
+              "end": 38,
+              "expanded_url": "https://x.com/navvyg920/status/2080291906664513701/photo/1",
+              "media_key": "3_2080291894052184064",
+              "start": 15,
+              "url": "https://t.co/kAWal2Xri5"
+            },
+            {
+              "display_url": "pic.x.com/kAWal2Xri5",
+              "end": 38,
+              "expanded_url": "https://x.com/navvyg920/status/2080291906664513701/photo/1",
+              "media_key": "3_2080291894006001664",
+              "start": 15,
+              "url": "https://t.co/kAWal2Xri5"
+            },
+            {
+              "display_url": "pic.x.com/kAWal2Xri5",
+              "end": 38,
+              "expanded_url": "https://x.com/navvyg920/status/2080291906664513701/photo/1",
+              "media_key": "3_2080291894014382080",
+              "start": 15,
+              "url": "https://t.co/kAWal2Xri5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080291906664513701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 231,
+          "impression_count": 106543,
+          "like_count": 1442,
+          "quote_count": 0,
+          "reply_count": 585,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "足你两下估计你什么都能交代了 https://t.co/kAWal2Xri5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1424,
+          "following_count": 38,
+          "like_count": 136,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 189
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-24T03:44:19.000Z",
+        "description": "",
+        "id": "2069627397377327104",
+        "name": "mpv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080000131097841664/JGMcsCvt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 9,
+          "like_count": 3,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "navvyg920",
+        "verified": false
+      }
+    ]
+  }
+}

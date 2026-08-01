@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080551555695316992"
+      ]
+    },
+    "author_id": "1989627406391635968",
+    "conversation_id": "2080551558476083649",
+    "created_at": "2026-07-24T07:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T08:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080551558476083649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lk13flag66",
+          "end": 177,
+          "expanded_url": "https://x.com/drug_artist2/status/2080551558476083649/photo/1",
+          "media_key": "3_2080551555695316992",
+          "start": 154,
+          "url": "https://t.co/Lk13flag66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080551558476083649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "仔细捋一下 我在 11.12 号吞了 290 粒镇静药自杀 在ICU抢救了几天 转普通病房几天 然后出院 第二天被家里人送到精神病院与外界失联 第三天被几个云南昆明的禁毒晶哥找上来把我带走 我本来是要去找弦月 弦月发现我没动静 猜到出事了 于是联系我爸 我爸说我是肺炎情况不好又住院了 然后弦月发表了我讣告 https://t.co/Lk13flag66"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1017,
+        "media_key": "3_2080551555695316992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-and4bEAACRLT.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080551555695316992"
+          ]
+        },
+        "author_id": "1989627406391635968",
+        "conversation_id": "2080551558476083649",
+        "created_at": "2026-07-24T07:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080551558476083649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lk13flag66",
+              "end": 177,
+              "expanded_url": "https://x.com/drug_artist2/status/2080551558476083649/photo/1",
+              "media_key": "3_2080551555695316992",
+              "start": 154,
+              "url": "https://t.co/Lk13flag66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080551558476083649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "仔细捋一下 我在 11.12 号吞了 290 粒镇静药自杀 在ICU抢救了几天 转普通病房几天 然后出院 第二天被家里人送到精神病院与外界失联 第三天被几个云南昆明的禁毒晶哥找上来把我带走 我本来是要去找弦月 弦月发现我没动静 猜到出事了 于是联系我爸 我爸说我是肺炎情况不好又住院了 然后弦月发表了我讣告 https://t.co/Lk13flag66"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 33,
+          "like_count": 117,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 142
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      }
+    ]
+  }
+}

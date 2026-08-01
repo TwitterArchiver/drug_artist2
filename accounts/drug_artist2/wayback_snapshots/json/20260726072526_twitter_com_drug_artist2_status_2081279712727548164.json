@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2081051295369330951",
+    "created_at": "2026-07-26T07:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T08:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081279712727548164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2047864598100111360",
+          "start": 0,
+          "username": "Yoki__tnt"
+        },
+        {
+          "end": 27,
+          "id": "1724108211740119041",
+          "start": 11,
+          "username": "han456470843735"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081279712727548164",
+    "in_reply_to_user_id": "2047864598100111360",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081279152993476953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yoki__tnt @han456470843735 😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2081051295369330951",
+        "created_at": "2026-07-26T07:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T08:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081279712727548164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2047864598100111360",
+              "start": 0,
+              "username": "Yoki__tnt"
+            },
+            {
+              "end": 27,
+              "id": "1724108211740119041",
+              "start": 11,
+              "username": "han456470843735"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081279712727548164",
+        "in_reply_to_user_id": "2047864598100111360",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081279152993476953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yoki__tnt @han456470843735 😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047864598100111360",
+        "conversation_id": "2081051295369330951",
+        "created_at": "2026-07-26T07:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T08:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081279152993476953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1989627406391635968",
+              "start": 0,
+              "username": "drug_artist2"
+            },
+            {
+              "end": 30,
+              "id": "1724108211740119041",
+              "start": 14,
+              "username": "han456470843735"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081279152993476953",
+        "in_reply_to_user_id": "1989627406391635968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081277190747066643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist2 @han456470843735 又是你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 40,
+          "like_count": 139,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 207
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T02:26:29.000Z",
+        "description": "",
+        "id": "2047864598100111360",
+        "name": "我操我在拔刀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047864961482006528/peuqlrUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 45,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "Yoki__tnt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-13T16:53:46.000Z",
+        "description": "",
+        "id": "1724108211740119041",
+        "name": "han",
+        "pinned_tweet_id": "1898795366184849585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780638194616430593/EZupMLgb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8576,
+          "following_count": 27,
+          "like_count": 1355,
+          "listed_count": 21,
+          "media_count": 185,
+          "tweet_count": 289
+        },
+        "url": "",
+        "username": "han456470843735",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "1948835235392864724",
+    "created_at": "2026-07-29T01:14:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T02:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082273473758679427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 21,
+          "id": "1798398358882603008",
+          "start": 6,
+          "username": "DarlingAyanami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082273473758679427",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948835456030036186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @DarlingAyanami 神了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "1948835235392864724",
+        "created_at": "2026-07-29T01:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T02:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082273473758679427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 21,
+              "id": "1798398358882603008",
+              "start": 6,
+              "username": "DarlingAyanami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082273473758679427",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948835456030036186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @DarlingAyanami 神了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "1948835235392864724",
+        "created_at": "2025-07-25T19:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T20:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948835456030036186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1798398358882603008",
+              "start": 0,
+              "username": "DarlingAyanami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948835456030036186",
+        "in_reply_to_user_id": "1798398358882603008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "爸爸：沐雨 drug_artist  \n妈妈：💊爱德华 gen4 转生体 Edward_8964  \n爷爷：くま scutigera_8964  \n奶奶：转生成为小小鱼💙 FuFeng21  \n外公：瓜子🍥曾宇葵🌻 そねざき うき cngcngyngy38992  \n外婆：calante🌙 CY_Mystica  \n弟弟：hachimi hami0721  \n哥哥：てつこちゃん aokitetsu111  \n妹妹：✞ₓ 芙芙‧₊˚。 aichankawaii77  \n姐姐：Luck CaiCai monikaananan  \n爱人：（虚位以待，期待更多追随者！）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948835235392864724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DarlingAyanami 爸爸：沐雨 drug_artist  \n妈妈：💊爱德华 gen4 转生体 Edward_8964  \n爷爷：くま scutigera_8964  \n奶奶：转生成为小小鱼💙 FuFeng21  \n外公：瓜子🍥曾宇葵🌻 そねざき うき cngcngyngy38992  \n外婆：calante🌙 CY_Mystica  \n弟弟：hachimi hami0721  \n哥哥：てつこちゃん aokitetsu111  \n妹妹：✞ₓ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1533,
+          "following_count": 46,
+          "like_count": 192,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 291
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8882040,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7231,
+          "media_count": 9195762,
+          "tweet_count": 132582014
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-05T16:56:05.000Z",
+        "description": "Toronto-Canada  友跨顺直男 亓神です",
+        "id": "1798398358882603008",
+        "location": "在你心里",
+        "name": "Rei",
+        "pinned_tweet_id": "1955118962947096669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839265620757467136/Ofmc1VZ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 5351,
+          "like_count": 1386,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 3179
+        },
+        "url": "",
+        "username": "DarlingAyanami",
+        "verified": false
+      }
+    ]
+  }
+}

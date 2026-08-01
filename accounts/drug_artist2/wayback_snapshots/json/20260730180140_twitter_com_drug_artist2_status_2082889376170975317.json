@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2082889376170975317",
+    "created_at": "2026-07-30T18:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T19:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082889376170975317"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "163cn.tv/bb5dHCk3",
+          "end": 43,
+          "expanded_url": "https://163cn.tv/bb5dHCk3",
+          "start": 20,
+          "status": 200,
+          "unwound_url": "https://y.music.163.com/m/song?id=2641367653&uct2=ebNZqmuMQbYAH5j8hOpHOw%3D%3D&fx-wechatnew=t1&fx-wxqd=t1&fx-wordtest=c&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=21240503&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.50&sc=wm&tn=",
+          "url": "https://t.co/YukAMxvJJT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082889376170975317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享jackzebra的单曲《汉奸》: https://t.co/YukAMxvJJT (来自@网易云音乐)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2082889376170975317",
+        "created_at": "2026-07-30T18:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T19:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082889376170975317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "163cn.tv/bb5dHCk3",
+              "end": 43,
+              "expanded_url": "https://163cn.tv/bb5dHCk3",
+              "start": 20,
+              "status": 200,
+              "unwound_url": "https://y.music.163.com/m/song?id=2641367653&uct2=ebNZqmuMQbYAH5j8hOpHOw%3D%3D&fx-wechatnew=t1&fx-wxqd=t1&fx-wordtest=c&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=21240503&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.50&sc=wm&tn=",
+              "url": "https://t.co/YukAMxvJJT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082889376170975317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享jackzebra的单曲《汉奸》: https://t.co/YukAMxvJJT (来自@网易云音乐)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559,
+          "following_count": 48,
+          "like_count": 234,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 326
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      }
+    ]
+  }
+}

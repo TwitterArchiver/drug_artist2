@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2080557596243816904",
+    "created_at": "2026-07-26T07:19:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T08:19:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081278179579498506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1571141128791162887",
+          "start": 0,
+          "username": "mnnnnnnngg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081278179579498506",
+    "in_reply_to_user_id": "1571141128791162887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080557596243816904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mnnnnnnngg 想要活出被大姐姐拽着头发来回口到爽的人生"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "16_2080557570654416896",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HN-gFlWbMAAYZK3.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HN-gFlWbMAAYZK3.mp4"
+          }
+        ],
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2080557596243816904",
+        "created_at": "2026-07-26T07:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T08:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081278179579498506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1571141128791162887",
+              "start": 0,
+              "username": "mnnnnnnngg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081278179579498506",
+        "in_reply_to_user_id": "1571141128791162887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080557596243816904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mnnnnnnngg 想要活出被大姐姐拽着头发来回口到爽的人生"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2080557570654416896"
+          ]
+        },
+        "author_id": "1571141128791162887",
+        "conversation_id": "2080557596243816904",
+        "created_at": "2026-07-24T07:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080557596243816904"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "iiii"
+            },
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "4i女攻"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MoqreVk2gt",
+              "end": 45,
+              "expanded_url": "https://x.com/mngjngjng1/status/2080557596243816904/photo/1",
+              "media_key": "16_2080557570654416896",
+              "start": 22,
+              "url": "https://t.co/MoqreVk2gt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080557596243816904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3626,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想要糊出怎样的人生 #iiii #4i女攻 https://t.co/MoqreVk2gt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 40,
+          "like_count": 139,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 206
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-17T14:18:15.000Z",
+        "description": "一个朴实4i女\n分享我的自拍🤳和碎碎念\n不约不收狗\n喜欢发低脂内容\n只回复礼貌的私信",
+        "id": "1571141128791162887",
+        "name": "鱿鱼大主教",
+        "pinned_tweet_id": "2080544104279421241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080673839026159616/odZLm1cd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 32,
+          "like_count": 1138,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 173
+        },
+        "url": "",
+        "username": "mnnnnnnngg",
+        "verified": false
+      }
+    ]
+  }
+}

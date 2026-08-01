@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2080312060957897065",
+    "created_at": "2026-07-25T11:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T12:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080981952518099404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2062012981324791808",
+          "start": 0,
+          "username": "Jennysonu6f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080981952518099404",
+    "in_reply_to_user_id": "2062012981324791808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080312060957897065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jennysonu6f 喜欢 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14033,
+        "height": 1280,
+        "media_key": "13_2080312015420305408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080312015420305408/img/fatCUOsOYHrkDJUx.jpg",
+        "public_metrics": {
+          "view_count": 34226
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080312015420305408/vid/avc1/320x568/FPXdsz07qr6osW8Z.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080312015420305408/vid/avc1/480x852/wlyz1KYGq3l3JqpG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080312015420305408/vid/avc1/720x1280/AfTekfj4k9shMAXu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080312015420305408/pl/8Bi7mwdc-7dyG_1J.m3u8?v=a25"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2080312060957897065",
+        "created_at": "2026-07-25T11:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080981952518099404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2062012981324791808",
+              "start": 0,
+              "username": "Jennysonu6f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080981952518099404",
+        "in_reply_to_user_id": "2062012981324791808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080312060957897065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jennysonu6f 喜欢 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080312015420305408"
+          ]
+        },
+        "author_id": "2062012981324791808",
+        "conversation_id": "2080312060957897065",
+        "created_at": "2026-07-23T15:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080312060957897065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tyPoKZVnfT",
+              "end": 33,
+              "expanded_url": "https://x.com/Jennysonu6f/status/2080312060957897065/video/1",
+              "media_key": "13_2080312015420305408",
+              "start": 10,
+              "url": "https://t.co/tyPoKZVnfT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080312060957897065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1118,
+          "impression_count": 120772,
+          "like_count": 4676,
+          "quote_count": 0,
+          "reply_count": 337,
+          "retweet_count": 159
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢妈妈的jio吗 https://t.co/tyPoKZVnfT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1424,
+          "following_count": 38,
+          "like_count": 136,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 190
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-03T03:27:41.000Z",
+        "description": "",
+        "id": "2062012981324791808",
+        "location": "江门",
+        "name": "Jenny～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078837928361652225/enEC9AGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4305,
+          "following_count": 69,
+          "like_count": 3,
+          "listed_count": 12,
+          "media_count": 5,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "Jennysonu6f",
+        "verified": false
+      }
+    ]
+  }
+}

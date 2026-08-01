@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2080304712910622888",
+    "created_at": "2026-07-23T14:51:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T15:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080304712910622888"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shji1080972/st…",
+          "end": 93,
+          "expanded_url": "https://twitter.com/shji1080972/status/2080273235011072183",
+          "start": 70,
+          "url": "https://t.co/iQreTX3usH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080304712910622888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080273235011072183",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是个很有争议的人\n我一边在教oder们如何更好的使用药物和提高利用率\n但我也一直在做减害 制止传播的事\n没了解我的全部最好不要轻易评判我 https://t.co/iQreTX3usH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2080304712910622888",
+        "created_at": "2026-07-23T14:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080304712910622888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shji1080972/st…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/shji1080972/status/2080273235011072183",
+              "start": 70,
+              "url": "https://t.co/iQreTX3usH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080304712910622888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080273235011072183",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是个很有争议的人\n我一边在教oder们如何更好的使用药物和提高利用率\n但我也一直在做减害 制止传播的事\n没了解我的全部最好不要轻易评判我 https://t.co/iQreTX3usH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701574041507934208",
+        "conversation_id": "2080212638693490987",
+        "created_at": "2026-07-23T12:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080273235011072183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1989627406391635968",
+              "start": 0,
+              "username": "drug_artist2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080273235011072183",
+        "in_reply_to_user_id": "1989627406391635968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080212638693490987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist2 我觉得药圈英雄应该是停止提供药品传播od危害，尽可能的让人别od"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 56,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 33,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 26,
+          "like_count": 56,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 83
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T12:30:50.000Z",
+        "description": "",
+        "id": "1701574041507934208",
+        "name": "世界",
+        "pinned_tweet_id": "2024489611322675684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987161096072151041/RQHT45Yc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 3,
+          "like_count": 111,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 820
+        },
+        "url": "",
+        "username": "shji1080972",
+        "verified": false
+      }
+    ]
+  }
+}
