@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-26T14:59:02",
+  "last_updated": "2026-08-26T14:59:53",
   "html": {
     "https://web.archive.org/web/20251115102239if_/https://twitter.com/drug_artist2/status/1989640181964837315": {
       "status": "done",
@@ -3888,9 +3888,9 @@
       "referenced_by": [
         "20251119121535_twitter_com_drug_artist2_status_1991118154047864905.json"
       ],
-      "last_updated": "2026-08-01T23:06:05",
+      "last_updated": "2026-08-26T14:59:38",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251119121535/https://video.twimg.com/amplify_video/1990825350486700032/vid/avc1/720x1280/APqcwXrETNm9dbgW.mp4",
-      "miss_count": 3
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2080320128324083712/vid/avc1/720x1280/kpW-FqoEsDENn1ht.mp4": {
       "status": "done",
@@ -3954,13 +3954,13 @@
       "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2080779854925176832/vid/avc1/1080x1920/iiZH9nSbKttMxAyg.mp4": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260725112852_twitter_com_drug_artist2_status_2080978587877085293.json"
       ],
-      "last_updated": "2026-08-01T23:06:16",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725112852/https://video.twimg.com/amplify_video/2080779854925176832/vid/avc1/1080x1920/iiZH9nSbKttMxAyg.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd6c1d2f3b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-26T14:59:37",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260725112852/https://video.twimg.com/amplify_video/2080779854925176832/vid/avc1/1080x1920/iiZH9nSbKttMxAyg.mp4",
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2080691042026942464/vid/avc1/960x720/rr5qDFgwx7Dc_rPZ.mp4": {
       "status": "done",
@@ -3995,9 +3995,9 @@
       "referenced_by": [
         "20260725120522_twitter_com_drug_artist2_status_2080987772639420828.json"
       ],
-      "last_updated": "2026-08-01T23:06:20",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725120522im_/https://video.twimg.com/amplify_video/2080273953655033856/vid/avc1/1280x590/s4wAdNfeX1DlJpeR.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd6c1db1b80>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 2
+      "last_updated": "2026-08-26T14:59:53",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725120522/https://video.twimg.com/amplify_video/2080273953655033856/vid/avc1/1280x590/s4wAdNfeX1DlJpeR.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f987fa1a060>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/HN-gFlWbMAAYZK3.mp4": {
       "status": "done",
@@ -4029,16 +4029,20 @@
       "last_updated": "2026-08-01T22:56:55"
     },
     "https://video.twimg.com/amplify_video/2084345830258196480/vid/avc1/1440x1920/QCafFpTTcDu6tU-t.mp4": {
-      "status": "unknown",
+      "status": "failed_all",
       "referenced_by": [
         "20260804002308_twitter_com_drug_artist2_status_2084434930264854781.json"
-      ]
+      ],
+      "last_updated": "2026-08-26T14:59:38",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260804002308/https://video.twimg.com/amplify_video/2084345830258196480/vid/avc1/1440x1920/QCafFpTTcDu6tU-t.mp4",
+      "miss_count": 1
     },
     "https://video.twimg.com/amplify_video/2085344774878584832/vid/avc1/2560x1440/BmSDVF--ZqpxHZST.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260806140759_twitter_com_drug_artist2_status_2085367284370186279.json"
-      ]
+      ],
+      "last_updated": "2026-08-26T14:59:41"
     }
   },
   "avatars": {
@@ -6385,8 +6389,8 @@
           "https://pbs.twimg.com/profile_images/1983926637260660736/jix4stR1_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:52:57",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:38",
+      "miss_count": 4
     },
     "20251119121741_twitter_com_drug_artist2_status_1991118681129283820.json": {
       "status": "failed",
@@ -6401,8 +6405,8 @@
           "https://pbs.twimg.com/profile_images/1983926637260660736/jix4stR1_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:09",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20251119122057_twitter_com_drug_artist2_status_1991119502420128250.json": {
       "status": "failed",
@@ -6414,8 +6418,8 @@
           "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:52:57",
-      "miss_count": 1
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 2
     },
     "20251120222631_twitter_com_drug_artist2_status_1991634286743863487.json": {
       "status": "failed",
@@ -6429,8 +6433,8 @@
           "https://pbs.twimg.com/profile_images/1984623073275125760/eoadOp59_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:03",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20251121143543_twitter_com_drug_artist2_status_1991878193071149501.json": {
       "status": "done",
@@ -6496,8 +6500,8 @@
           "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:14",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20251121151118_twitter_com_drug_artist2_status_1991887147276918812.json": {
       "status": "failed",
@@ -6509,8 +6513,8 @@
           "https://pbs.twimg.com/profile_images/1983926637260660736/jix4stR1_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:52:57",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20251121151421_twitter_com_drug_artist2_status_1991887917552439447.json": {
       "status": "failed",
@@ -6522,8 +6526,8 @@
           "https://pbs.twimg.com/profile_images/1983926637260660736/jix4stR1_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:52:57",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20251121151539_twitter_com_drug_artist2_status_1991888243013693831.json": {
       "status": "failed",
@@ -6535,8 +6539,8 @@
           "https://pbs.twimg.com/profile_images/1983926637260660736/jix4stR1_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:52:57",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20251121151652_twitter_com_drug_artist2_status_1991888550082871303.json": {
       "status": "failed",
@@ -6548,8 +6552,8 @@
           "https://pbs.twimg.com/profile_images/1983926637260660736/jix4stR1_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:52:57",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20251121154649_twitter_com_drug_artist2_status_1991896087788183627.json": {
       "status": "done",
@@ -6585,8 +6589,8 @@
           "https://pbs.twimg.com/profile_images/1983926637260660736/jix4stR1_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:52:57",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20251122055214_twitter_com_drug_artist2_status_1992108845058109495.json": {
       "status": "failed",
@@ -6600,8 +6604,8 @@
           "https://pbs.twimg.com/profile_images/1984623073275125760/eoadOp59_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:04",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20251122060640_twitter_com_drug_artist2_status_1992112473881854125.json": {
       "status": "failed",
@@ -6613,8 +6617,8 @@
           "https://pbs.twimg.com/profile_images/1983881848775438338/SaevqnOR_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:52:57",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20251122062800_twitter_com_drug_artist2_status_1992117844843372666.json": {
       "status": "done",
@@ -6639,8 +6643,8 @@
           "https://pbs.twimg.com/profile_images/1984623073275125760/eoadOp59_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:02",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20251122123946_twitter_com_drug_artist2_status_1992211403000946951.json": {
       "status": "failed",
@@ -6653,8 +6657,8 @@
           "https://pbs.twimg.com/profile_images/1983881848775438338/SaevqnOR_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:52:57",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20251122125041_twitter_com_drug_artist2_status_1992214148802122155.json": {
       "status": "done",
@@ -6766,8 +6770,8 @@
           "https://pbs.twimg.com/profile_images/1983926637260660736/jix4stR1_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:52:57",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20251122170753_twitter_com_drug_artist2_status_1992278877427888306.json": {
       "status": "done",
@@ -6809,8 +6813,8 @@
           "https://pbs.twimg.com/profile_images/1983369813302063104/UjP9eH-D_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:52:57",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20251123054556_twitter_com_drug_artist2_status_1992469644876403051.json": {
       "status": "failed",
@@ -6823,8 +6827,8 @@
           "https://pbs.twimg.com/profile_images/1958969323109982208/J_dL5GH0_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:52:57",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20251123054641_twitter_com_drug_artist2_status_1992469834505113754.json": {
       "status": "failed",
@@ -6836,8 +6840,8 @@
           "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:52:57",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20251123073336_twitter_com_drug_artist2_status_1992496741644656962.json": {
       "status": "done",
@@ -7133,8 +7137,8 @@
           "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:07",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20260723143719_twitter_com_drug_artist2_status_2080301237053063240.json": {
       "status": "done",
@@ -7300,8 +7304,8 @@
           "https://pbs.twimg.com/profile_images/2078082221064482816/MgKCJyTJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:16",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20260723155203_twitter_com_drug_artist2_status_2080320043523682383.json": {
       "status": "done",
@@ -7543,8 +7547,8 @@
           "https://pbs.twimg.com/profile_images/2070097106698637312/kxNZlTjm_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:05",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20260723190522_twitter_com_drug_artist2_status_2080368693369037163.json": {
       "status": "done",
@@ -7600,8 +7604,8 @@
           "https://pbs.twimg.com/profile_images/2070354877524717568/lwq-9SoY_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:04",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20260723200851_twitter_com_drug_artist2_status_2080384670907380223.json": {
       "status": "done",
@@ -7792,8 +7796,8 @@
           "https://pbs.twimg.com/profile_images/2056420761565564928/fKG22pOP_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:06",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20260724010414_twitter_com_drug_artist2_status_2080459003151392903.json": {
       "status": "done",
@@ -7985,8 +7989,8 @@
           "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:14",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20260724075714_twitter_com_drug_artist2_status_2080562939481006259.json": {
       "status": "done",
@@ -8366,8 +8370,8 @@
           "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:25",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20260725101220_twitter_com_drug_artist2_status_2080959325032579340.json": {
       "status": "done",
@@ -8452,7 +8456,7 @@
       "last_updated": "2026-08-01T22:57:32"
     },
     "20260725112852_twitter_com_drug_artist2_status_2080978587877085293.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -8463,7 +8467,7 @@
           "https://pbs.twimg.com/profile_images/2080238126795202560/BTJCgT7M_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:52:57",
+      "last_updated": "2026-08-26T14:59:37",
       "miss_count": 1
     },
     "20260725113548_twitter_com_drug_artist2_status_2080980332401381609.json": {
@@ -8479,8 +8483,8 @@
           "https://pbs.twimg.com/profile_images/2032286851483254784/gz6l7IdW_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:08",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20260725113756_twitter_com_drug_artist2_status_2080980867946557632.json": {
       "status": "done",
@@ -8510,8 +8514,8 @@
           "https://pbs.twimg.com/profile_images/2057431705242513409/eaYiqmbD_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:19",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20260725114040_twitter_com_drug_artist2_status_2080981554793451949.json": {
       "status": "done",
@@ -8541,8 +8545,8 @@
           "https://pbs.twimg.com/profile_images/2080000131097841664/JGMcsCvt_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:13",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20260725114214_twitter_com_drug_artist2_status_2080981952518099404.json": {
       "status": "done",
@@ -8687,8 +8691,8 @@
           "https://pbs.twimg.com/profile_images/2056214834593878016/SBcKXW_-_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:52:57",
-      "miss_count": 1
+      "last_updated": "2026-08-26T14:59:43",
+      "miss_count": 2
     },
     "20260725122549_twitter_com_drug_artist2_status_2080992920778514894.json": {
       "status": "done",
@@ -8728,8 +8732,8 @@
           "https://pbs.twimg.com/profile_images/2069102324799422464/WGziVBE5_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:03",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20260726041535_twitter_com_drug_artist2_status_2081231935075176636.json": {
       "status": "done",
@@ -8826,8 +8830,8 @@
           "https://pbs.twimg.com/profile_images/2075969412641992704/rkxGyYky_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:09",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20260726072930_twitter_com_drug_artist2_status_2081280736385216729.json": {
       "status": "done",
@@ -8918,8 +8922,8 @@
           "https://pbs.twimg.com/profile_images/2079813636739190784/keI_Suk-_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:21",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20260726075714_twitter_com_drug_artist2_status_2081287716554375197.json": {
       "status": "done",
@@ -9110,8 +9114,8 @@
           "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:02",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20260727034027_twitter_com_drug_artist2_status_2081585480651436227.json": {
       "status": "done",
@@ -9137,8 +9141,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:05",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20260727035350_twitter_com_drug_artist2_status_2081588850573660197.json": {
       "status": "done",
@@ -9178,8 +9182,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:06",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20260727035759_twitter_com_drug_artist2_status_2081589895324471792.json": {
       "status": "done",
@@ -9379,8 +9383,8 @@
           "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:03",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20260727194239_twitter_com_drug_artist2_status_2081827626365431921.json": {
       "status": "done",
@@ -10352,8 +10356,8 @@
           "https://pbs.twimg.com/profile_images/2068942921869758464/UJ-J2j84_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:05",
-      "miss_count": 3
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 4
     },
     "20260730171039_twitter_com_drug_artist2_status_2082876537330958580.json": {
       "status": "done",
@@ -10858,7 +10862,7 @@
           "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:52:57"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260731121209_twitter_com_drug_artist2_status_2083163808101781877.json": {
       "status": "done",
@@ -10885,8 +10889,8 @@
           "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:05",
-      "miss_count": 1
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 2
     },
     "20260731194150_twitter_com_drug_artist2_status_2083276973858824566.json": {
       "status": "failed",
@@ -10899,8 +10903,8 @@
           "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:12",
-      "miss_count": 1
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 2
     },
     "20260731194432_twitter_com_drug_artist2_status_2083277653524852786.json": {
       "status": "done",
@@ -11001,8 +11005,8 @@
           "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:08",
-      "miss_count": 1
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 2
     },
     "20260801053223_twitter_com_drug_artist2_status_2083425591039348761.json": {
       "status": "done",
@@ -11040,8 +11044,8 @@
           "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:07",
-      "miss_count": 1
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 2
     },
     "20260801053407_twitter_com_drug_artist2_status_2083426025237557357.json": {
       "status": "done",
@@ -11179,7 +11183,7 @@
           "https://pbs.twimg.com/profile_images/2033925913575100419/x5z1bNHB_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:04"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260801090925_twitter_com_drug_artist2_status_2083480207223033902.json": {
       "status": "done",
@@ -11218,8 +11222,8 @@
           "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:09",
-      "miss_count": 1
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 2
     },
     "20260801111954_twitter_com_drug_artist2_status_2083513045662478593.json": {
       "status": "done",
@@ -11266,7 +11270,7 @@
           "https://pbs.twimg.com/profile_images/2066716754622173184/mlx9B5Nf_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:04"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260801123810_twitter_com_drug_artist2_status_2083532742906794440.json": {
       "status": "done",
@@ -11383,7 +11387,7 @@
           "https://pbs.twimg.com/profile_images/1992167258450509824/K5FSOyyv_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:05"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260801142057_twitter_com_drug_artist2_status_2083558608676254035.json": {
       "status": "done",
@@ -11432,7 +11436,7 @@
           "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:05"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260801175455_twitter_com_drug_artist2_status_2083612453536190579.json": {
       "status": "done",
@@ -11569,7 +11573,7 @@
           "https://pbs.twimg.com/profile_images/1932384670408404993/EAJAW5np_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:05"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260802013044_twitter_com_drug_artist2_status_2083727166253289672.json": {
       "status": "done",
@@ -11595,8 +11599,8 @@
           "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:16",
-      "miss_count": 1
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 2
     },
     "20260802065148_twitter_com_drug_artist2_status_2083807962066538569.json": {
       "status": "failed",
@@ -11611,8 +11615,8 @@
           "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:14",
-      "miss_count": 1
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 2
     },
     "20260802070020_twitter_com_drug_artist2_status_2083810112377143299.json": {
       "status": "failed",
@@ -11626,8 +11630,8 @@
           "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:10",
-      "miss_count": 1
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 2
     },
     "20260802124653_twitter_com_drug_artist2_status_2083897324821250244.json": {
       "status": "done",
@@ -11653,8 +11657,8 @@
           "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:11",
-      "miss_count": 1
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 2
     },
     "20260802162907_twitter_com_drug_artist2_status_2083953249749815471.json": {
       "status": "done",
@@ -11681,7 +11685,7 @@
           "https://pbs.twimg.com/profile_images/2009387120205410304/kpryvh8G_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:06"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260802165431_twitter_com_drug_artist2_status_2083959642397556932.json": {
       "status": "done",
@@ -11706,8 +11710,8 @@
           "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:10",
-      "miss_count": 1
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 2
     },
     "20260802185957_twitter_com_drug_artist2_status_2083991209593463204.json": {
       "status": "done",
@@ -11761,8 +11765,8 @@
           "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:11",
-      "miss_count": 1
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 2
     },
     "20260802194855_twitter_com_drug_artist2_status_2084003531758194703.json": {
       "status": "failed",
@@ -11775,8 +11779,8 @@
           "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:10",
-      "miss_count": 1
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 2
     },
     "20260802200147_twitter_com_drug_artist2_status_2084006768410304611.json": {
       "status": "done",
@@ -11813,8 +11817,8 @@
           "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:10",
-      "miss_count": 1
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 2
     },
     "20260802223019_twitter_com_drug_artist2_status_2084044147607150805.json": {
       "status": "failed",
@@ -11828,8 +11832,8 @@
           "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:10",
-      "miss_count": 1
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 2
     },
     "20260802231048_twitter_com_drug_artist2_status_2084054336926310482.json": {
       "status": "done",
@@ -11852,7 +11856,7 @@
           "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:06"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260802232425_twitter_com_drug_artist2_status_2084057763920179447.json": {
       "status": "unknown",
@@ -11864,7 +11868,7 @@
           "https://pbs.twimg.com/profile_images/2073854250128384000/Q_04-h1K_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:06"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260802235228_twitter_com_drug_artist2_status_2084064823126765803.json": {
       "status": "done",
@@ -11909,7 +11913,7 @@
           "https://pbs.twimg.com/profile_images/2082654973364752384/fRzyVEmJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:06"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260803014611_twitter_com_drug_artist2_status_2084093442381271344.json": {
       "status": "unknown",
@@ -11921,7 +11925,7 @@
           "https://pbs.twimg.com/profile_images/2017413007987642370/aXX6gJZ6_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:06"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260803015105_twitter_com_drug_artist2_status_2084094672734200250.json": {
       "status": "unknown",
@@ -11933,7 +11937,7 @@
           "https://pbs.twimg.com/profile_images/2082654973364752384/fRzyVEmJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:06"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260803015215_twitter_com_drug_artist2_status_2084094965433643446.json": {
       "status": "unknown",
@@ -11945,7 +11949,7 @@
           "https://pbs.twimg.com/profile_images/1966436944273084416/jmwFI7ml_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:06"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260803015850_twitter_com_drug_artist2_status_2084096626071879833.json": {
       "status": "done",
@@ -11969,7 +11973,7 @@
           "https://pbs.twimg.com/profile_images/2017413007987642370/aXX6gJZ6_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:06"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260803041823_twitter_com_drug_artist2_status_2084131744312348800.json": {
       "status": "failed",
@@ -11983,8 +11987,8 @@
           "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:11",
-      "miss_count": 1
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 2
     },
     "20260803042609_twitter_com_drug_artist2_status_2084133696718971072.json": {
       "status": "done",
@@ -12010,8 +12014,8 @@
           "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:12",
-      "miss_count": 1
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 2
     },
     "20260803042836_twitter_com_drug_artist2_status_2084134313143218465.json": {
       "status": "unknown",
@@ -12024,7 +12028,7 @@
           "https://pbs.twimg.com/profile_images/1859532769594048512/bwdC5h00_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:07"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260803043215_twitter_com_drug_artist2_status_2084135231439692231.json": {
       "status": "unknown",
@@ -12037,7 +12041,7 @@
           "https://pbs.twimg.com/profile_images/2004767849303232513/-EovBf2p_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:07"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260803043726_twitter_com_drug_artist2_status_2084136538397692184.json": {
       "status": "done",
@@ -12076,8 +12080,8 @@
           "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:12",
-      "miss_count": 1
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 2
     },
     "20260803051024_twitter_com_drug_artist2_status_2084144831656591595.json": {
       "status": "unknown",
@@ -12090,7 +12094,7 @@
           "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:08"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260804001302_twitter_com_drug_artist2_status_2084432386646028715.json": {
       "status": "failed",
@@ -12104,8 +12108,8 @@
           "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:13",
-      "miss_count": 1
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 2
     },
     "20260804001548_twitter_com_drug_artist2_status_2084433081625346548.json": {
       "status": "unknown",
@@ -12117,7 +12121,7 @@
           "https://pbs.twimg.com/profile_images/2084379975160139776/4LWg2fm-_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:08"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260804002248_twitter_com_drug_artist2_status_2084434842855653664.json": {
       "status": "failed",
@@ -12132,11 +12136,11 @@
           "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:24",
-      "miss_count": 1
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 2
     },
     "20260804002308_twitter_com_drug_artist2_status_2084434930264854781.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -12147,7 +12151,7 @@
           "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:09"
+      "last_updated": "2026-08-26T14:59:38"
     },
     "20260804002735_twitter_com_drug_artist2_status_2084436048353051045.json": {
       "status": "done",
@@ -12186,8 +12190,8 @@
           "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:17",
-      "miss_count": 1
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 2
     },
     "20260804093435_twitter_com_drug_artist2_status_2084573704068190494.json": {
       "status": "done",
@@ -12210,7 +12214,7 @@
           "https://pbs.twimg.com/profile_images/2057245773130272768/VTd_dgeC_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:09"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260804100113_twitter_com_drug_artist2_status_2084580408084357456.json": {
       "status": "done",
@@ -12271,8 +12275,8 @@
           "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:13",
-      "miss_count": 1
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 2
     },
     "20260804102130_twitter_com_drug_artist2_status_2084585511692497034.json": {
       "status": "done",
@@ -12330,7 +12334,7 @@
           "https://pbs.twimg.com/profile_images/2083293219786559488/D_PmG2-k_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:09"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260804120555_twitter_com_drug_artist2_status_2084611789556469866.json": {
       "status": "done",
@@ -12366,8 +12370,8 @@
           "https://pbs.twimg.com/profile_images/2082718807173599232/iHJ1jUK8_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:14",
-      "miss_count": 1
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 2
     },
     "20260804163553_twitter_com_drug_artist2_status_2084679729475702903.json": {
       "status": "unknown",
@@ -12379,7 +12383,7 @@
           "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:10"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260804174419_twitter_com_drug_artist2_status_2084696948637044877.json": {
       "status": "done",
@@ -12417,8 +12421,8 @@
           "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:14",
-      "miss_count": 1
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 2
     },
     "20260804204140_twitter_com_drug_artist2_status_2084741581039636586.json": {
       "status": "unknown",
@@ -12430,7 +12434,7 @@
           "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:10"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260805063800_twitter_com_drug_artist2_status_2084891653815550283.json": {
       "status": "done",
@@ -12499,7 +12503,7 @@
           "https://pbs.twimg.com/profile_images/2084617672319492096/3pN53PpX_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:10"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260805123523_twitter_com_drug_artist2_status_2084981591064060116.json": {
       "status": "unknown",
@@ -12511,7 +12515,7 @@
           "https://pbs.twimg.com/profile_images/1606726635713335296/TrmJq-XY_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:10"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260805124152_twitter_com_drug_artist2_status_2084983224372244658.json": {
       "status": "done",
@@ -12593,10 +12597,10 @@
           "https://pbs.twimg.com/profile_images/2065018755500183552/wI9ArtXA_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:10"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260806140759_twitter_com_drug_artist2_status_2085367284370186279.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -12607,7 +12611,7 @@
           "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:10"
+      "last_updated": "2026-08-26T14:59:41"
     },
     "20260806140940_twitter_com_drug_artist2_status_2085367708347150579.json": {
       "status": "unknown",
@@ -12619,7 +12623,7 @@
           "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:10"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260806141034_twitter_com_drug_artist2_status_2085367933900058847.json": {
       "status": "done",
@@ -12657,7 +12661,7 @@
           "https://pbs.twimg.com/profile_images/2083169632400334848/8NvXR7TU_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:11"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260806153754_twitter_com_drug_artist2_status_2085389911402922253.json": {
       "status": "unknown",
@@ -12671,7 +12675,7 @@
           "https://pbs.twimg.com/profile_images/2083169632400334848/8NvXR7TU_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:11"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260806182813_twitter_com_drug_artist2_status_2085432774249558131.json": {
       "status": "done",
@@ -12695,7 +12699,7 @@
           "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:10"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260806203332_twitter_com_drug_artist2_status_2085464309740745163.json": {
       "status": "unknown",
@@ -12707,7 +12711,7 @@
           "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:10"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260806203831_twitter_com_drug_artist2_status_2085465566794649872.json": {
       "status": "unknown",
@@ -12719,7 +12723,7 @@
           "https://pbs.twimg.com/profile_images/1988835836738375680/Y-Dta9uI_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:10"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260807040033_twitter_com_drug_artist2_status_2085576806317555873.json": {
       "status": "failed",
@@ -12732,8 +12736,8 @@
           "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:15",
-      "miss_count": 1
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 2
     },
     "20260807071340_twitter_com_drug_artist2_status_2085625405814571516.json": {
       "status": "done",
@@ -12801,7 +12805,7 @@
           "https://pbs.twimg.com/profile_images/2083290018194558976/iHyUhoSS_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:10"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260807172251_twitter_com_drug_artist2_status_2085778710205202779.json": {
       "status": "done",
@@ -12837,7 +12841,7 @@
           "https://pbs.twimg.com/profile_images/2065770842873905152/ira4UqJF_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:10"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260807184548_twitter_com_drug_artist2_status_2085799585377915270.json": {
       "status": "unknown",
@@ -12851,7 +12855,7 @@
           "https://pbs.twimg.com/profile_images/2085744874398326784/Gj8OhuKO_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:11"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260807185529_twitter_com_drug_artist2_status_2085802022142636099.json": {
       "status": "failed",
@@ -12865,8 +12869,8 @@
           "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:16",
-      "miss_count": 1
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 2
     },
     "20260807190452_twitter_com_drug_artist2_status_2085804386580856898.json": {
       "status": "unknown",
@@ -12879,7 +12883,7 @@
           "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:11"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260808163156_twitter_com_drug_artist2_status_2086128285067702541.json": {
       "status": "unknown",
@@ -12896,7 +12900,7 @@
           "https://pbs.twimg.com/profile_images/2085739370976563200/rkYLp-2R_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:12"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260809070425_twitter_com_drug_artist2_status_2086347854021591213.json": {
       "status": "unknown",
@@ -12910,7 +12914,7 @@
           "https://pbs.twimg.com/profile_images/2083293219786559488/D_PmG2-k_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:11"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260809071021_twitter_com_drug_artist2_status_2086349345197342789.json": {
       "status": "unknown",
@@ -12922,7 +12926,7 @@
           "https://pbs.twimg.com/profile_images/2070200170030215168/CGg-EHDq_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:11"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260809095839_twitter_com_drug_artist2_status_2086391699987919147.json": {
       "status": "done",
@@ -12965,7 +12969,7 @@
           "https://pbs.twimg.com/profile_images/2083182116012224512/rSNbGMS3_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:19"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260809125036_twitter_com_drug_artist2_status_2086434974723678684.json": {
       "status": "unknown",
@@ -12981,7 +12985,7 @@
           "https://pbs.twimg.com/profile_images/2083182116012224512/rSNbGMS3_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:25"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260809125155_twitter_com_drug_artist2_status_2086435305956020243.json": {
       "status": "done",
@@ -13012,7 +13016,7 @@
           "https://pbs.twimg.com/profile_images/2085739370976563200/rkYLp-2R_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:13"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260809154526_twitter_com_drug_artist2_status_2086478971458535697.json": {
       "status": "unknown",
@@ -13042,7 +13046,7 @@
           "https://pbs.twimg.com/profile_images/2083445590529331200/esF2yhIR_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:13"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260810102740_twitter_com_drug_artist2_status_2086761392489787774.json": {
       "status": "done",
@@ -13068,7 +13072,7 @@
           "https://pbs.twimg.com/profile_images/2086175949448687616/3GsY9oVa_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:12"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260810142213_twitter_com_drug_artist2_status_2086820416212095174.json": {
       "status": "done",
@@ -13102,7 +13106,7 @@
           "https://pbs.twimg.com/profile_images/2086609050650001408/fdMqeNZJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:12"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260810153730_twitter_com_drug_artist2_status_2086839364156641373.json": {
       "status": "unknown",
@@ -13114,7 +13118,7 @@
           "https://pbs.twimg.com/profile_images/2064294399186755584/dKj-AOTp_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:12"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260810153949_twitter_com_drug_artist2_status_2086839948255297595.json": {
       "status": "unknown",
@@ -13126,7 +13130,7 @@
           "https://pbs.twimg.com/profile_images/2064294399186755584/dKj-AOTp_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:12"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260810161051_twitter_com_drug_artist2_status_2086847757051109635.json": {
       "status": "unknown",
@@ -13138,7 +13142,7 @@
           "https://pbs.twimg.com/profile_images/2069987997697921024/bh8tLu3n_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:12"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260810192449_twitter_com_drug_artist2_status_2086896571447447715.json": {
       "status": "unknown",
@@ -13153,7 +13157,7 @@
           "https://pbs.twimg.com/profile_images/2085887042937044992/olw9nw0f_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:13"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260811115108_twitter_com_drug_artist2_status_2087144786214199567.json": {
       "status": "done",
@@ -13202,8 +13206,8 @@
           "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:17",
-      "miss_count": 1
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 2
     },
     "20260811231616_twitter_com_drug_artist2_status_2087317203309793454.json": {
       "status": "done",
@@ -13238,8 +13242,8 @@
           "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:17",
-      "miss_count": 1
+      "last_updated": "2026-08-26T14:59:32",
+      "miss_count": 2
     },
     "20260813105706_twitter_com_drug_artist2_status_2087855960215674961.json": {
       "status": "unknown",
@@ -13251,7 +13255,7 @@
           "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:53:12"
+      "last_updated": "2026-08-26T14:59:32"
     },
     "20260813122740_twitter_com_drug_artist2_status_2087878755012563134.json": {
       "status": "done",
