@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2086834520532365371",
+    "created_at": "2026-08-10T15:37:30.000Z",
+    "display_text_range": [
+      8,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T16:37:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086839364156641373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1944404050906316800",
+          "start": 0,
+          "username": "F7Uj6y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086839364156641373",
+    "in_reply_to_user_id": "1944404050906316800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086839230752579902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@F7Uj6y 也可以来聊一聊！宝宝 私信我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2086834520532365371",
+        "created_at": "2026-08-10T15:37:30.000Z",
+        "display_text_range": [
+          8,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086839364156641373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1944404050906316800",
+              "start": 0,
+              "username": "F7Uj6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086839364156641373",
+        "in_reply_to_user_id": "1944404050906316800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086839230752579902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@F7Uj6y 也可以来聊一聊！宝宝 私信我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944404050906316800",
+        "conversation_id": "2086834520532365371",
+        "created_at": "2026-08-10T15:36:58.000Z",
+        "display_text_range": [
+          14,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086839230752579902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1989627406391635968",
+              "start": 0,
+              "username": "drug_artist2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086839230752579902",
+        "in_reply_to_user_id": "1989627406391635968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086834520532365371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist2 我是有学习神秘学的，不过我是搞希腊复兴主义的qwq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘| INFP | 提问箱:https://t.co/DYIJetTS16|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄二年 我从地狱杀回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 65,
+                "expanded_url": "http://ngl.link/drugs_artist",
+                "start": 42,
+                "url": "https://t.co/DYIJetTS16"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "is_identity_verified": false,
+        "location": "Xanax天国2mg自治区",
+        "most_recent_tweet_id": "2086839364156641373",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1989627406391635968/1763199281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1787,
+          "following_count": 66,
+          "like_count": 465,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 546
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-13T14:30:45.000Z",
+        "description": "叫我叶子ᗜ֊ᗜ🍃🌿🍀☘️🌱\n生理性别男 ‖ 心理性别男\ngay  ‖  LGBTQ+全肯定\n抑郁症患者  焦虑症患者 ‖ 不割手\n一个下水道的阴湿oder...",
+        "id": "1944404050906316800",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2086839230752579902",
+        "name": "leaf",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1944404050906316800/1752494966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064294399186755584/dKj-AOTp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 44,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "F7Uj6y",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2087317203309793454",
+    "created_at": "2026-08-11T23:16:16.000Z",
+    "display_text_range": [
+      0,
+      142
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T00:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087317203309793454"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2087317203309793454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "妈的兴奋剂真的不能用多\n我用了太大量的卡西酮类兴奋剂O-2482 了 又鼻吸又烫又口服起码用了 100mg 还烫了两颗噻吩乙胺 感觉快得兴奋剂精神病了？\n睡不着啊啊啊啊睡不着一点⊙﹏⊙\n还特么性欲大爆发特别想打飞机\n兴奋剂悠着点用 真的\n我太精神了！我太精神了！啊啊啊！\n中国人能飞～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2087317203309793454",
+        "created_at": "2026-08-11T23:16:16.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T00:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087317203309793454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087317203309793454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈的兴奋剂真的不能用多\n我用了太大量的卡西酮类兴奋剂O-2482 了 又鼻吸又烫又口服起码用了 100mg 还烫了两颗噻吩乙胺 感觉快得兴奋剂精神病了？\n睡不着啊啊啊啊睡不着一点⊙﹏⊙\n还特么性欲大爆发特别想打飞机\n兴奋剂悠着点用 真的\n我太精神了！我太精神了！啊啊啊！\n中国人能飞～"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘| INFP | 提问箱:https://t.co/DYIJetTS16|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄二年 我从地狱杀回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 65,
+                "expanded_url": "http://ngl.link/drugs_artist",
+                "start": 42,
+                "url": "https://t.co/DYIJetTS16"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "is_identity_verified": false,
+        "location": "Xanax天国2mg自治区",
+        "most_recent_tweet_id": "2087317203309793454",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1989627406391635968/1763199281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1810,
+          "following_count": 70,
+          "like_count": 473,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 554
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

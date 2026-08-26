@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2084611789556469866",
+    "created_at": "2026-08-04T12:05:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T13:05:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084611789556469866"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084611789556469866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "讨论：其他能达到或媲美苯乙胺类对精神活性物质贡献的大类是什么？\n至少得满足跨领域的要求吧\n比如苯乙胺类在兴奋剂与迷幻剂中\n都有着显著的建树"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2084611789556469866",
+        "created_at": "2026-08-04T12:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084611789556469866"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084611789556469866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讨论：其他能达到或媲美苯乙胺类对精神活性物质贡献的大类是什么？\n至少得满足跨领域的要求吧\n比如苯乙胺类在兴奋剂与迷幻剂中\n都有着显著的建树"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘| INFP | 提问箱:https://t.co/DYIJetTS16|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄二年 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 65,
+                "expanded_url": "http://ngl.link/drugs_artist",
+                "start": 42,
+                "url": "https://t.co/DYIJetTS16"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1686,
+          "following_count": 59,
+          "like_count": 384,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 479
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": true
+      }
+    ]
+  }
+}

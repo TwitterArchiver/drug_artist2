@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2085754092543152619",
+    "created_at": "2026-08-07T16:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T17:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085766698989433026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "877473366684221440",
+          "start": 0,
+          "username": "083001c1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085766698989433026",
+    "in_reply_to_user_id": "877473366684221440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085755447647334607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@083001c1 从地狱爬出来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2085754092543152619",
+        "created_at": "2026-08-07T16:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T17:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085766698989433026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "877473366684221440",
+              "start": 0,
+              "username": "083001c1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085766698989433026",
+        "in_reply_to_user_id": "877473366684221440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085755447647334607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@083001c1 从地狱爬出来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "877473366684221440",
+        "conversation_id": "2085754092543152619",
+        "created_at": "2026-08-07T15:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085755447647334607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1989627406391635968",
+              "start": 0,
+              "username": "drug_artist2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085755447647334607",
+        "in_reply_to_user_id": "1989627406391635968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085754092543152619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist2 从地狱归来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘| INFP | 提问箱:https://t.co/DYIJetTS16|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄二年 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 65,
+                "expanded_url": "http://ngl.link/drugs_artist",
+                "start": 42,
+                "url": "https://t.co/DYIJetTS16"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 67,
+          "like_count": 444,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 521
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-21T10:28:48.000Z",
+        "description": "💊/🔪/同类互fo(:3っ )っ\n可以叫我奥七\n\n*私信功能无法使用，联系可评论区问我邮箱\n防炸小号@KrishnaBha9e",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "KrishnaBha9e"
+              }
+            ]
+          }
+        },
+        "id": "877473366684221440",
+        "name": "O seven (3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083290018194558976/iHyUhoSS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 100,
+          "like_count": 1187,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 314
+        },
+        "url": "",
+        "username": "083001c1",
+        "verified": false
+      }
+    ]
+  }
+}

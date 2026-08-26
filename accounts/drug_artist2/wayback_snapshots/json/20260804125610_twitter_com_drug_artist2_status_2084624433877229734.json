@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2084624433877229734",
+    "created_at": "2026-08-04T12:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T13:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084624433877229734"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SRamirez66171/…",
+          "end": 127,
+          "expanded_url": "https://twitter.com/SRamirez66171/status/2084183014549205465",
+          "start": 104,
+          "url": "https://t.co/l9ulX9GjmL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084624433877229734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084183014549205465",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可以这么理解 但有个误区 它俩苯环连接在碳链的碳原子位次不同 药理作用也很不同\n\n巴氯芬偏向脊髓GABA-b 骨骼肌松弛、解痉效果强\n菲尼布特更容易透过血脑屏障 偏向于脑内GABA-b 抗焦虑和滥用价值更高 https://t.co/l9ulX9GjmL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1052,
+        "media_key": "3_2084182722856288256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyBJNrbAAAGmBL.jpg",
+        "width": 660
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2084624433877229734",
+        "created_at": "2026-08-04T12:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084624433877229734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SRamirez66171/…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/SRamirez66171/status/2084183014549205465",
+              "start": 104,
+              "url": "https://t.co/l9ulX9GjmL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084624433877229734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084183014549205465",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以这么理解 但有个误区 它俩苯环连接在碳链的碳原子位次不同 药理作用也很不同\n\n巴氯芬偏向脊髓GABA-b 骨骼肌松弛、解痉效果强\n菲尼布特更容易透过血脑屏障 偏向于脑内GABA-b 抗焦虑和滥用价值更高 https://t.co/l9ulX9GjmL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084182722856288256"
+          ]
+        },
+        "author_id": "1730251057316737024",
+        "conversation_id": "2084183014549205465",
+        "created_at": "2026-08-03T07:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084183014549205465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fJinI0yABu",
+              "end": 63,
+              "expanded_url": "https://x.com/SRamirez66171/status/2084183014549205465/photo/1",
+              "media_key": "3_2084182722856288256",
+              "start": 40,
+              "url": "https://t.co/fJinI0yABu"
+            },
+            {
+              "display_url": "x.com/drug_artist2/s…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/drug_artist2/status/2084072573814645206",
+              "start": 64,
+              "url": "https://t.co/8YY4A4lpBA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084183014549205465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3404,
+          "like_count": 29,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084072573814645206",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "实际上菲尼布特就是去氯的巴氯芬，带氯的更强，上面是巴氯芬，下面是菲尼布特🧠🧠🧠 https://t.co/fJinI0yABu https://t.co/8YY4A4lpBA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘| INFP | 提问箱:https://t.co/DYIJetTS16|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄二年 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 65,
+                "expanded_url": "http://ngl.link/drugs_artist",
+                "start": 42,
+                "url": "https://t.co/DYIJetTS16"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1688,
+          "following_count": 59,
+          "like_count": 388,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 481
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-30T15:43:03.000Z",
+        "description": "大号已经不重要了，故事并没有结束/互fo寻回/od/备用号：@imqrmrtvom1lkt主人：@MercuricCyanide\ntg群：https://t.co/Fm16DYfxrU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 64,
+                "start": 48,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+gjb2OqUsan1jO…",
+                "end": 92,
+                "expanded_url": "https://t.me/+gjb2OqUsan1jOGNl",
+                "start": 69,
+                "url": "https://t.co/Fm16DYfxrU"
+              }
+            ]
+          }
+        },
+        "id": "1730251057316737024",
+        "name": "洛5.0",
+        "pinned_tweet_id": "2083442331383177351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082718807173599232/iHJ1jUK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 245,
+          "like_count": 842,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 324
+        },
+        "url": "",
+        "username": "SRamirez66171",
+        "verified": false
+      }
+    ]
+  }
+}

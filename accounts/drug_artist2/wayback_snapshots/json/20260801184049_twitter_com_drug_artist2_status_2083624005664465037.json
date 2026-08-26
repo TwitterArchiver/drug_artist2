@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2083621321137930605",
+    "created_at": "2026-08-01T18:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T19:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083624005664465037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2026321384042004480",
+          "start": 0,
+          "username": "jiu79171"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083624005664465037",
+    "in_reply_to_user_id": "2026321384042004480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083621321137930605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiu79171 我去妈妈你😭😭天使的面容天使的心"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2083621312979947520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOqCi26aUAANXoE.jpg",
+        "width": 720
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2083621312963215361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOqCi22bAAE5481.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2083621321137930605",
+        "created_at": "2026-08-01T18:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083624005664465037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2026321384042004480",
+              "start": 0,
+              "username": "jiu79171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083624005664465037",
+        "in_reply_to_user_id": "2026321384042004480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083621321137930605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu79171 我去妈妈你😭😭天使的面容天使的心"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083621312979947520",
+            "3_2083621312963215361"
+          ]
+        },
+        "author_id": "2026321384042004480",
+        "conversation_id": "2083621321137930605",
+        "created_at": "2026-08-01T18:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083621321137930605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iZ52Hk0NS0",
+              "end": 33,
+              "expanded_url": "https://x.com/jiu79171/status/2083621321137930605/photo/1",
+              "media_key": "3_2083621312979947520",
+              "start": 10,
+              "url": "https://t.co/iZ52Hk0NS0"
+            },
+            {
+              "display_url": "pic.x.com/iZ52Hk0NS0",
+              "end": 33,
+              "expanded_url": "https://x.com/jiu79171/status/2083621321137930605/photo/1",
+              "media_key": "3_2083621312963215361",
+              "start": 10,
+              "url": "https://t.co/iZ52Hk0NS0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083621321137930605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喂我说。我可爱吗。 https://t.co/iZ52Hk0NS0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 53,
+          "like_count": 314,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 418
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T15:40:52.000Z",
+        "description": "二号机@buzhidao2738\n可以叫我不知道｜割o一体机，但都不频繁，已被现生绑架状态🩸💊\n支持互fo｜聊天大欢迎｜形象切换频繁之人⛓️\n无固定人设，可以把我当成刚从棺材里爬出来的千年老干尸⚰️｜至于性别和性取向嘛…其实我是水母，我不需要考虑这些🪼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "buzhidao2738"
+              }
+            ]
+          }
+        },
+        "id": "2026321384042004480",
+        "name": "不知道",
+        "pinned_tweet_id": "2041766291791569150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026321804248444928/fooAhUCi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 14,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 205
+        },
+        "url": "",
+        "username": "jiu79171",
+        "verified": false
+      }
+    ]
+  }
+}

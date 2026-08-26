@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2082789959409574320",
+    "created_at": "2026-08-07T18:06:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T19:06:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085789700766490937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1696373071362617344",
+          "start": 0,
+          "username": "kkluv68634552"
+        },
+        {
+          "end": 24,
+          "id": "1809233055196073984",
+          "start": 15,
+          "username": "Jy666992"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085789700766490937",
+    "in_reply_to_user_id": "1696373071362617344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082798653341913413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkluv68634552 @Jy666992 先生这里不能射精哦～请停止你的行为 啊啊啊喷我手上了？滚你妈的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2082789959409574320",
+        "created_at": "2026-08-07T18:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T19:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085789700766490937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1696373071362617344",
+              "start": 0,
+              "username": "kkluv68634552"
+            },
+            {
+              "end": 24,
+              "id": "1809233055196073984",
+              "start": 15,
+              "username": "Jy666992"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085789700766490937",
+        "in_reply_to_user_id": "1696373071362617344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082798653341913413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkluv68634552 @Jy666992 先生这里不能射精哦～请停止你的行为 啊啊啊喷我手上了？滚你妈的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696373071362617344",
+        "conversation_id": "2082789959409574320",
+        "created_at": "2026-07-30T12:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082798653341913413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1809233055196073984",
+              "start": 0,
+              "username": "Jy666992"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082798653341913413",
+        "in_reply_to_user_id": "1809233055196073984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25668,
+          "like_count": 249,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082789959409574320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jy666992 吸毒的更是傻逼，脑子都废掉了，你这种吸毒把身子吸坏的，我对着你射精都算朝你开枪了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘| INFP | 提问箱:https://t.co/DYIJetTS16|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄二年 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 65,
+                "expanded_url": "http://ngl.link/drugs_artist",
+                "start": 42,
+                "url": "https://t.co/DYIJetTS16"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 67,
+          "like_count": 445,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 524
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-29T04:04:01.000Z",
+        "description": "",
+        "id": "1696373071362617344",
+        "name": "36utterflies",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082523172566654976/zU15i-TB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 164,
+          "like_count": 1756,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "kkluv68634552",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T14:29:19.000Z",
+        "description": "",
+        "id": "1809233055196073984",
+        "name": "烨篮子",
+        "pinned_tweet_id": "2074687552712548840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065770842873905152/ira4UqJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485,
+          "following_count": 436,
+          "like_count": 2203,
+          "listed_count": 1,
+          "media_count": 367,
+          "tweet_count": 1541
+        },
+        "url": "",
+        "username": "Jy666992",
+        "verified": false
+      }
+    ]
+  }
+}

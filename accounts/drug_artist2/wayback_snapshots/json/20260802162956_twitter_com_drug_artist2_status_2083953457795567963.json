@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2083869400906571947",
+    "created_at": "2026-08-02T16:29:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T17:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083953457795567963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1870078920621731842",
+          "start": 0,
+          "username": "ReisuiMirai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083953457795567963",
+    "in_reply_to_user_id": "1870078920621731842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083869400906571947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ReisuiMirai 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1332,
+        "media_key": "3_2083869384628432896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtkKh0W8AAr_r0.jpg",
+        "width": 1532
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2083869400906571947",
+        "created_at": "2026-08-02T16:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083953457795567963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870078920621731842",
+              "start": 0,
+              "username": "ReisuiMirai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083953457795567963",
+        "in_reply_to_user_id": "1870078920621731842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083869400906571947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ReisuiMirai 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083869384628432896"
+          ]
+        },
+        "author_id": "1870078920621731842",
+        "conversation_id": "2083869400906571947",
+        "created_at": "2026-08-02T10:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083869400906571947"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "男娘"
+            },
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "男の娘"
+            },
+            {
+              "end": 29,
+              "start": 22,
+              "tag": "femboy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ScSSRQMt7S",
+              "end": 53,
+              "expanded_url": "https://x.com/ReisuiMirai/status/2083869400906571947/photo/1",
+              "media_key": "3_2083869384628432896",
+              "start": 30,
+              "url": "https://t.co/ScSSRQMt7S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083869400906571947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1027,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "老夫高p一下也是很可爱啊\n#男娘 #男の娘 #femboy https://t.co/ScSSRQMt7S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1613,
+          "following_count": 53,
+          "like_count": 325,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 427
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T12:09:06.000Z",
+        "description": "40歲♂男の娘|Femboy|东方project |MTX |禁慾中 🥺|ABDL嬰兒退行 物化 |私はうつ病と不安障害があります。",
+        "id": "1870078920621731842",
+        "name": "捉鬼人",
+        "pinned_tweet_id": "2004115724995121256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009387120205410304/kpryvh8G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1842,
+          "following_count": 152,
+          "like_count": 23221,
+          "listed_count": 10,
+          "media_count": 373,
+          "tweet_count": 3654
+        },
+        "url": "",
+        "username": "ReisuiMirai",
+        "verified": false
+      }
+    ]
+  }
+}

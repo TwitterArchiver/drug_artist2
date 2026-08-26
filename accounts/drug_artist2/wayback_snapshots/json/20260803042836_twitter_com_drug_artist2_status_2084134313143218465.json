@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2084131744312348800",
+    "created_at": "2026-08-03T04:28:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T05:28:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084134313143218465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1124790071314587648",
+          "start": 0,
+          "username": "LanwujiDrink"
+        },
+        {
+          "end": 26,
+          "id": "1743637177630601216",
+          "start": 14,
+          "username": "zhngl180356"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084134313143218465",
+    "in_reply_to_user_id": "1124790071314587648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084133629861699835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LanwujiDrink @zhngl180356 也很帅了 不要怪自己人🥵✌️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2084131744312348800",
+        "created_at": "2026-08-03T04:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084134313143218465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            },
+            {
+              "end": 26,
+              "id": "1743637177630601216",
+              "start": 14,
+              "username": "zhngl180356"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084134313143218465",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084133629861699835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink @zhngl180356 也很帅了 不要怪自己人🥵✌️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2084131744312348800",
+        "created_at": "2026-08-03T04:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084133629861699835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1989627406391635968",
+              "start": 0,
+              "username": "drug_artist2"
+            },
+            {
+              "end": 26,
+              "id": "1743637177630601216",
+              "start": 14,
+              "username": "zhngl180356"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084133629861699835",
+        "in_reply_to_user_id": "1989627406391635968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084131744312348800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist2 @zhngl180356 你这没审美的家伙，谁教你把快递单和贴纸贴到一面的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘| INFP | 提问箱:https://t.co/DYIJetTS16|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄二年 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 65,
+                "expanded_url": "http://ngl.link/drugs_artist",
+                "start": 42,
+                "url": "https://t.co/DYIJetTS16"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 55,
+          "like_count": 360,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 455
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "真正的大人，不是拥有权力的人，而是愿意承担责任、保护孩子拥有选择未来权利的人。即使代价是自己承担痛苦、牺牲利益，甚至失去一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2083538550117867677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 107,
+          "like_count": 3182,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1390
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T14:15:01.000Z",
+        "description": "肌肥大训练两年|体脂管理｜生物黑客｜合理使用药物｜互帮互助｜劳二次元｜性取向正常｜180cm/85kg",
+        "id": "1743637177630601216",
+        "location": "西伯利亚挖红薯",
+        "name": "☯️🧬大型神经元",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859532769594048512/bwdC5h00_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 72,
+          "like_count": 319,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 192
+        },
+        "url": "",
+        "username": "zhngl180356",
+        "verified": false
+      }
+    ]
+  }
+}

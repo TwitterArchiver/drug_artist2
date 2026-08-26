@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2084875241072009416",
+    "created_at": "2026-08-05T06:38:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T07:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084891653815550283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1124658845664653314",
+          "start": 0,
+          "username": "CY_Mystica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084891653815550283",
+    "in_reply_to_user_id": "1124658845664653314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084875241072009416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CY_Mystica 别这么说😭👐别这么说😭👐别这么说😭👐别这么说😭👐别这么说😭👐别这么说😭👐别这么说😭👐别这么说😭👐别这么说😭👐别这么说😭👐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2084875241072009416",
+        "created_at": "2026-08-05T06:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T07:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084891653815550283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1124658845664653314",
+              "start": 0,
+              "username": "CY_Mystica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084891653815550283",
+        "in_reply_to_user_id": "1124658845664653314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084875241072009416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CY_Mystica 别这么说😭👐别这么说😭👐别这么说😭👐别这么说😭👐别这么说😭👐别这么说😭👐别这么说😭👐别这么说😭👐别这么说😭👐别这么说😭👐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "2084875241072009416",
+        "created_at": "2026-08-05T05:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T06:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084875241072009416"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084875241072009416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "梦到药圈卖药的线下大聚会，但是是一起蹲大牢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘| INFP | 提问箱:https://t.co/DYIJetTS16|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄二年 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 65,
+                "expanded_url": "http://ngl.link/drugs_artist",
+                "start": 42,
+                "url": "https://t.co/DYIJetTS16"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1701,
+          "following_count": 59,
+          "like_count": 398,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 489
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵我是下弦月丨中文/ENG/ITA/ESP丨💊🔪🩸丨创世神🌙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/calante1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/calante1",
+                "start": 0,
+                "url": "https://t.co/YoNfSzcS3a"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "2083865350941331850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 281,
+          "like_count": 1811,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 2092
+        },
+        "url": "https://t.co/YoNfSzcS3a",
+        "username": "CY_Mystica",
+        "verified": false
+      }
+    ]
+  }
+}

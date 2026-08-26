@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087270093306593281"
+      ]
+    },
+    "author_id": "1989627406391635968",
+    "conversation_id": "2087270107458204003",
+    "created_at": "2026-08-11T20:09:07.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T21:09:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087270107458204003"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VxDD0eMyIc",
+          "end": 85,
+          "expanded_url": "https://x.com/drug_artist2/status/2087270107458204003/photo/1",
+          "media_key": "3_2087270093306593281",
+          "start": 62,
+          "url": "https://t.co/VxDD0eMyIc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087270107458204003",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087270093306593281"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天一直在锡纸烫吸 尝试O-2482\n我认为这个物质是很好的\n抗抑郁效果非常强\n不过烫吸需要谨慎\n我肺部有些损伤 隐隐作痛 https://t.co/VxDD0eMyIc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_2087270093306593281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPd5F03WAAEESJY.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087270093306593281"
+          ]
+        },
+        "author_id": "1989627406391635968",
+        "conversation_id": "2087270107458204003",
+        "created_at": "2026-08-11T20:09:07.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T21:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087270107458204003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VxDD0eMyIc",
+              "end": 85,
+              "expanded_url": "https://x.com/drug_artist2/status/2087270107458204003/photo/1",
+              "media_key": "3_2087270093306593281",
+              "start": 62,
+              "url": "https://t.co/VxDD0eMyIc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087270107458204003",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087270093306593281"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天一直在锡纸烫吸 尝试O-2482\n我认为这个物质是很好的\n抗抑郁效果非常强\n不过烫吸需要谨慎\n我肺部有些损伤 隐隐作痛 https://t.co/VxDD0eMyIc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘| INFP | 提问箱:https://t.co/DYIJetTS16|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄二年 我从地狱杀回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 65,
+                "expanded_url": "http://ngl.link/drugs_artist",
+                "start": 42,
+                "url": "https://t.co/DYIJetTS16"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "is_identity_verified": false,
+        "location": "Xanax天国2mg自治区",
+        "most_recent_tweet_id": "2087270107458204003",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1989627406391635968/1763199281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1810,
+          "following_count": 70,
+          "like_count": 472,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 553
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

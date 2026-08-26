@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2084006768410304611",
+    "created_at": "2026-08-02T20:01:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T21:01:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084006768410304611"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "overdose.day",
+          "end": 39,
+          "expanded_url": "http://overdose.day",
+          "start": 16,
+          "unwound_url": "http://overdose.day",
+          "url": "https://t.co/i5Axw9A1Us"
+        },
+        {
+          "description": "A VitePress site",
+          "display_url": "yaowubaike.ca",
+          "end": 71,
+          "expanded_url": "http://yaowubaike.ca",
+          "start": 48,
+          "status": 200,
+          "title": "药物百科",
+          "unwound_url": "https://yaowubaike.ca/",
+          "url": "https://t.co/jiWGFhpaEP"
+        },
+        {
+          "description": "You can view and join @yaowubaikeca right away.",
+          "display_url": "t.me/yaowubaikeca",
+          "end": 120,
+          "expanded_url": "https://t.me/yaowubaikeca",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/2083991214211375104/4TGI6UTL?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2083991214211375104/4TGI6UTL?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 97,
+          "status": 200,
+          "title": "药物百科官方交流群",
+          "unwound_url": "https://t.me/yaowubaikeca",
+          "url": "https://t.co/NIXIUxCwQg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084006768410304611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "药物百科崛起的誓言永远不会忘记\nhttps://t.co/i5Axw9A1Us已成历史\n欢迎使用https://t.co/jiWGFhpaEP\n药物百科永垂不朽\n欢迎大家来到药物百科官方交流群\nhttps://t.co/NIXIUxCwQg\n此群已经重新调整，开始运营。垃圾广告已清理 群内大量广告和尸体已清理完毕，大家请放心聊天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2084006768410304611",
+        "created_at": "2026-08-02T20:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T21:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084006768410304611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "overdose.day",
+              "end": 39,
+              "expanded_url": "http://overdose.day",
+              "start": 16,
+              "unwound_url": "http://overdose.day",
+              "url": "https://t.co/i5Axw9A1Us"
+            },
+            {
+              "description": "A VitePress site",
+              "display_url": "yaowubaike.ca",
+              "end": 71,
+              "expanded_url": "http://yaowubaike.ca",
+              "start": 48,
+              "status": 200,
+              "title": "药物百科",
+              "unwound_url": "https://yaowubaike.ca/",
+              "url": "https://t.co/jiWGFhpaEP"
+            },
+            {
+              "description": "You can view and join @yaowubaikeca right away.",
+              "display_url": "t.me/yaowubaikeca",
+              "end": 120,
+              "expanded_url": "https://t.me/yaowubaikeca",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2083991214211375104/4TGI6UTL?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2083991214211375104/4TGI6UTL?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 97,
+              "status": 200,
+              "title": "药物百科官方交流群",
+              "unwound_url": "https://t.me/yaowubaikeca",
+              "url": "https://t.co/NIXIUxCwQg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084006768410304611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药物百科崛起的誓言永远不会忘记\nhttps://t.co/i5Axw9A1Us已成历史\n欢迎使用https://t.co/jiWGFhpaEP\n药物百科永垂不朽\n欢迎大家来到药物百科官方交流群\nhttps://t.co/NIXIUxCwQg\n此群已经重新调整，开始运营。垃圾广告已清理 群内大量广告和尸体已清理完毕，大家请放心聊天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1614,
+          "following_count": 53,
+          "like_count": 337,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 438
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      }
+    ]
+  }
+}

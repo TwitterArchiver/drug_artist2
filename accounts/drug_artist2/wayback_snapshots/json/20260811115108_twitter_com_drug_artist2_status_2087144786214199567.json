@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2087136023658766678",
+    "created_at": "2026-08-11T11:51:08.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T12:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087144786214199567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1124658845664653314",
+          "start": 0,
+          "username": "CY_Mystica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087144786214199567",
+    "in_reply_to_user_id": "1124658845664653314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087136023658766678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CY_Mystica 这是我的朋友"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087136011889643520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPb_JQqbkAAv8Pm.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2087136023658766678",
+        "created_at": "2026-08-11T11:51:08.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087144786214199567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1124658845664653314",
+              "start": 0,
+              "username": "CY_Mystica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087144786214199567",
+        "in_reply_to_user_id": "1124658845664653314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087136023658766678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CY_Mystica 这是我的朋友"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087136011889643520"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "conversation_id": "2087136023658766678",
+        "created_at": "2026-08-11T11:16:19.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087136023658766678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nfgDTjsJeg",
+              "end": 27,
+              "expanded_url": "https://x.com/CY_Mystica/status/2087136023658766678/photo/1",
+              "media_key": "3_2087136011889643520",
+              "start": 4,
+              "url": "https://t.co/nfgDTjsJeg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087136023658766678",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087136011889643520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发个猫 https://t.co/nfgDTjsJeg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘| INFP | 提问箱:https://t.co/DYIJetTS16|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄二年 我从地狱杀回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 65,
+                "expanded_url": "http://ngl.link/drugs_artist",
+                "start": 42,
+                "url": "https://t.co/DYIJetTS16"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "is_identity_verified": false,
+        "location": "Xanax天国2mg自治区",
+        "most_recent_tweet_id": "2087144786214199567",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1989627406391635968/1763199281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1793,
+          "following_count": 68,
+          "like_count": 470,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 550
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵我是下弦月丨中文/ENG/ITA/ESP丨💊🔪🩸丨创世神🌙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/calante1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/calante1",
+                "start": 0,
+                "url": "https://t.co/YoNfSzcS3a"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "is_identity_verified": false,
+        "location": "棺材",
+        "most_recent_tweet_id": "2087136023658766678",
+        "name": "calante🌙",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124658845664653314/1736169003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 284,
+          "like_count": 1869,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 2124
+        },
+        "url": "https://t.co/YoNfSzcS3a",
+        "username": "CY_Mystica",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

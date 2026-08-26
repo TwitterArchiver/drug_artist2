@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2085576803180273728",
+    "created_at": "2026-08-07T04:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T05:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085576806317555873"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085576806317555873",
+    "in_reply_to_user_id": "1989627406391635968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085576803180273728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊啊我确实"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 557,
+        "media_key": "3_2085576797899595776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPF1DD6aIAAcymF.jpg",
+        "width": 432
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2085576803180273728",
+        "created_at": "2026-08-07T04:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085576806317555873"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085576806317555873",
+        "in_reply_to_user_id": "1989627406391635968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085576803180273728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊啊我确实"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085576797899595776"
+          ]
+        },
+        "author_id": "1989627406391635968",
+        "conversation_id": "2085576803180273728",
+        "created_at": "2026-08-07T04:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085576803180273728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wSnG4q7EmQ",
+              "end": 169,
+              "expanded_url": "https://x.com/drug_artist2/status/2085576803180273728/photo/1",
+              "media_key": "3_2085576797899595776",
+              "start": 146,
+              "url": "https://t.co/wSnG4q7EmQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085576803180273728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对影子人与谵妄的了解很深\n这种体验尝尝伴随着难以言说的恐怖\n还有末日感 往往在我经历那些\n谵妄剂-如DPH苯海拉明 睡眠剥夺\n兴奋剂精神病-卡西酮类物质\n这种体验并不美妙 我朋友习惯叫它室友\n它曾经把我逼到跳楼的地步（2楼）\n我在不同情况下出现的影子人也不同\n有友好的影子人也有阴险恶毒的 https://t.co/wSnG4q7EmQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘| INFP | 提问箱:https://t.co/DYIJetTS16|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄二年 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 65,
+                "expanded_url": "http://ngl.link/drugs_artist",
+                "start": 42,
+                "url": "https://t.co/DYIJetTS16"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1726,
+          "following_count": 63,
+          "like_count": 439,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 514
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": true
+      }
+    ]
+  }
+}

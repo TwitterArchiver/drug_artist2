@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2084072573814645206",
+    "created_at": "2026-08-03T01:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T02:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084094672734200250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1802704441961017344",
+          "start": 0,
+          "username": "misumikaede3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084094672734200250",
+    "in_reply_to_user_id": "1802704441961017344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "菲尼布特增大戒断反应是特别有争议的一个事情 我在Reddit上观察了不少帖子 也做了ai统计 我发现大概 4 成的人觉得菲尼布特比普通加巴类效果差很多 晕头转向的 副作用很大 但是有六成人认为这个物质太好了 温和有效不依赖的药效 所以我思考过后发了这个帖子 两极分化的观点 很有意思不是吗（我没有恶意）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084084511453913503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misumikaede3 菲尼布特增大戒断反应是特别有争议的一个事情 我在Reddit上观察了不少帖子 也做了ai统计 我发现大概 4 成的人觉得菲尼布特比普通加巴类效果差很多 晕头转向的 副作用很大 但是有六成人认为这个物质太好了 温和有效不依赖的药效 所以我思考过后发了这个帖子 两极分化的观点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2084072573814645206",
+        "created_at": "2026-08-03T01:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084094672734200250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1802704441961017344",
+              "start": 0,
+              "username": "misumikaede3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084094672734200250",
+        "in_reply_to_user_id": "1802704441961017344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "菲尼布特增大戒断反应是特别有争议的一个事情 我在Reddit上观察了不少帖子 也做了ai统计 我发现大概 4 成的人觉得菲尼布特比普通加巴类效果差很多 晕头转向的 副作用很大 但是有六成人认为这个物质太好了 温和有效不依赖的药效 所以我思考过后发了这个帖子 两极分化的观点 很有意思不是吗（我没有恶意）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084084511453913503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misumikaede3 菲尼布特增大戒断反应是特别有争议的一个事情 我在Reddit上观察了不少帖子 也做了ai统计 我发现大概 4 成的人觉得菲尼布特比普通加巴类效果差很多 晕头转向的 副作用很大 但是有六成人认为这个物质太好了 温和有效不依赖的药效 所以我思考过后发了这个帖子 两极分化的观点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802704441961017344",
+        "conversation_id": "2084072573814645206",
+        "created_at": "2026-08-03T01:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084084511453913503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1989627406391635968",
+              "start": 0,
+              "username": "drug_artist2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084084511453913503",
+        "in_reply_to_user_id": "1989627406391635968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084081340320985176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist2 一个一个来 加巴才开始就上菲尼布特吗 菲尼布特只会增大戒断反应啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘| INFP | 提问箱:https://t.co/DYIJetTS16|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄二年 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 65,
+                "expanded_url": "http://ngl.link/drugs_artist",
+                "start": 42,
+                "url": "https://t.co/DYIJetTS16"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1617,
+          "following_count": 55,
+          "like_count": 357,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 448
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "（百八十無常、冰川枫）20+ AuDHD🌪️ enby 🍥 2025.11.14 oder💊｜不论虚无与现实，且行，且行，行动以得知，得知而正行｜精神状态奇异 政治倾向奇特 想成为不走极端的人 喜欢我的请来和我交朋友 如果我发疯非常抱歉",
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "三角枫🏳️‍⚧️#井宿三",
+        "pinned_tweet_id": "2083826401715875931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082654973364752384/fRzyVEmJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 1346,
+          "like_count": 43587,
+          "listed_count": 5,
+          "media_count": 452,
+          "tweet_count": 14082
+        },
+        "url": "",
+        "username": "misumikaede3",
+        "verified": false
+      }
+    ]
+  }
+}
