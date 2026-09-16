@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1989627406391635968",
+    "conversation_id": "2083965571826339968",
+    "created_at": "2026-08-02T17:18:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T18:18:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083965571826339968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2077713332812083200",
+          "start": 3,
+          "username": "fries420cn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083965571826339968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083518713786179732",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fries420cn: 第一次新手飞行指南 ✈️\n1. 提前准备（非常重要 💡）\n水和饮料 🥤：嘴巴容易干，提前准备好冰水或果汁。如果感觉状态不对、有点头晕焦虑，喝一杯甜牛奶 🥛 能帮身体快速代谢。\n\n吃的 🍕：提前点好外卖或备好零食，因为过程中很容易饿，别到时候饿得慌…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22531,
+        "height": 1280,
+        "media_key": "13_2083518652872376320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083518652872376320/img/6_U3OqtNHNLvvsJq.jpg",
+        "public_metrics": {
+          "view_count": 10159
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083518652872376320/vid/avc1/320x568/b7i3QRpWd_u4aEuh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083518652872376320/vid/avc1/480x852/8IqR8xZ_ZcRWcEV3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083518652872376320/vid/avc1/720x1280/FTrApoyK4ZF3Gkfl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083518652872376320/pl/bjUJk6aMChuxv3tE.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2083965571826339968",
+        "created_at": "2026-08-02T17:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T18:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083965571826339968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2077713332812083200",
+              "start": 3,
+              "username": "fries420cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083965571826339968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083518713786179732",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fries420cn: 第一次新手飞行指南 ✈️\n1. 提前准备（非常重要 💡）\n水和饮料 🥤：嘴巴容易干，提前准备好冰水或果汁。如果感觉状态不对、有点头晕焦虑，喝一杯甜牛奶 🥛 能帮身体快速代谢。\n\n吃的 🍕：提前点好外卖或备好零食，因为过程中很容易饿，别到时候饿得慌…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083518652872376320"
+          ]
+        },
+        "author_id": "2077713332812083200",
+        "conversation_id": "2083518713786179732",
+        "created_at": "2026-08-01T11:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083518713786179732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r0UYgqynuP",
+              "end": 170,
+              "expanded_url": "https://x.com/fries420cn/status/2083518713786179732/video/1",
+              "media_key": "13_2083518652872376320",
+              "start": 147,
+              "url": "https://t.co/r0UYgqynuP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083518713786179732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "第一次新手飞行指南 ✈️\n1. 提前准备（非常重要 💡）\n水和饮料 🥤：嘴巴容易干，提前准备好冰水或果汁。如果感觉状态不对、有点头晕焦虑，喝一杯甜牛奶 🥛 能帮身体快速代谢。\n\n吃的 🍕：提前点好外卖或备好零食，因为过程中很容易饿，别到时候饿得慌。（强烈推荐芒果、车厘子、汉堡、炸鸡）\n\n环境 🛋️：老老实实呆在室内（家里或安全熟悉的地方），把灯光调暗，千万别临时起意出门逛街或去人多嘈杂的地方 🚶‍♂️❌。\n\n2. 正确的吸食方法 🌬️\n克制用量 🤏：第一次的新手，绝对不要超过三口。\n\n 💨：吸一小口，在口腔里稍微过一下，再吸进肺里，憋气几秒秒慢慢吐出来。\n\n等待 20 分钟 ⏳：这东西上头有延迟。抽完如果觉得「怎么没感觉」，千万别接着抽！给身体 15 到 20 分钟的反应时间，很多新手翻车都是因为这期间补刀过量 ⚠️。\n\n3. 遇到不舒服怎么办？🧘‍♀️\n身体变沉、感觉时间变慢、或者稍微有点心慌焦虑 🌀，都是正常的生理反应。\n\n自救方法 🛌：闭上眼睛休息，喝点甜牛奶，换一首放松的音乐，或者直接躺下睡一觉 💤"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 22186,
+          "like_count": 189,
+          "quote_count": 3,
+          "reply_count": 20,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "第一次新手飞行指南 ✈️\n1. 提前准备（非常重要 💡）\n水和饮料 🥤：嘴巴容易干，提前准备好冰水或果汁。如果感觉状态不对、有点头晕焦虑，喝一杯甜牛奶 🥛 能帮身体快速代谢。\n\n吃的 🍕：提前点好外卖或备好零食，因为过程中很容易饿，别到时候饿得慌。（强烈推荐芒果、车厘子、汉堡、炸鸡）\n\n环境 https://t.co/r0UYgqynuP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1613,
+          "following_count": 53,
+          "like_count": 330,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 430
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-16T11:15:51.000Z",
+        "description": "支持亚洲大麻合法化｜大麻除罪化｜正视医疗用途｜大麻/ Vape爱好者  🏳️‍⚧️🏳️‍🌈LGBTQ友好\n私信会回｜\r禁止未成年🚫｜平台网站开发中",
+        "id": "2077713332812083200",
+        "name": "薯条🍟(大麻\\電子煙)",
+        "pinned_tweet_id": "2083175269524017656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079675187579252736/n1no54_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 323,
+          "like_count": 733,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 168
+        },
+        "url": "",
+        "username": "fries420cn",
+        "verified": true
+      }
+    ]
+  }
+}
