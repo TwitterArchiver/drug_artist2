@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-16T18:15:11",
+  "last_updated": "2026-10-08T08:50:10",
   "html": {
     "https://web.archive.org/web/20251115102239if_/https://twitter.com/drug_artist2/status/1989640181964837315": {
       "status": "done",
@@ -2263,54 +2263,54 @@
       "referenced_by": [
         "20251119121741_twitter_com_drug_artist2_status_1991118681129283820.json"
       ],
-      "last_updated": "2026-09-16T18:08:37",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251119121741/https://pbs.twimg.com/media/G6Dx4gqbIAAJN4x.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015e7df080>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:46:30",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251119121741/https://pbs.twimg.com/media/G6Dx4gqbIAAJN4x.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf637050>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/G6Dx4gqbMAISwik.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251119121741_twitter_com_drug_artist2_status_1991118681129283820.json"
       ],
-      "last_updated": "2026-09-16T18:08:42",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251119121741/https://pbs.twimg.com/media/G6Dx4gqbMAISwik.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d63a9c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:46:33",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251119121741/https://pbs.twimg.com/media/G6Dx4gqbMAISwik.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf73e300>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/G6OiLzCacAA7_eo.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251120222631_twitter_com_drug_artist2_status_1991634286743863487.json"
       ],
-      "last_updated": "2026-09-16T18:08:46",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251120222631/https://pbs.twimg.com/media/G6OiLzCacAA7_eo.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d6690a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:46:36",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251120222631/https://pbs.twimg.com/media/G6OiLzCacAA7_eo.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf770c80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/G6SZn9baUAAl1yZ.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251121150609_twitter_com_drug_artist2_status_1991885851446722901.json"
       ],
-      "last_updated": "2026-09-16T18:08:50",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251121150609/https://pbs.twimg.com/media/G6SZn9baUAAl1yZ.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d63bd10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:46:39",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251121150609/https://pbs.twimg.com/media/G6SZn9baUAAl1yZ.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf636de0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/G6SZoB6bIAE9Yl1.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251121150609_twitter_com_drug_artist2_status_1991885851446722901.json"
       ],
-      "last_updated": "2026-09-16T18:08:54",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251121150609/https://pbs.twimg.com/media/G6SZoB6bIAE9Yl1.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015e7de060>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:46:42",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251121150609/https://pbs.twimg.com/media/G6SZoB6bIAE9Yl1.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf73f830>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/G6SZoDQasAImaBs.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251121150609_twitter_com_drug_artist2_status_1991885851446722901.json"
       ],
-      "last_updated": "2026-09-16T18:08:58",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251121150609/https://pbs.twimg.com/media/G6SZoDQasAImaBs.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d639850>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:46:45",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251121150609/https://pbs.twimg.com/media/G6SZoDQasAImaBs.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf634d70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/G6VjFn_boAAb473.jpg": {
       "status": "failed",
@@ -2318,9 +2318,9 @@
         "20251122055214_twitter_com_drug_artist2_status_1992108845058109495.json",
         "20251122123136_twitter_com_drug_artist2_status_1992209349033476143.json"
       ],
-      "last_updated": "2026-09-16T18:09:02",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251122055214/https://pbs.twimg.com/media/G6VjFn_boAAb473.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d6697f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 12
+      "last_updated": "2026-10-08T08:46:49",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251122055214/https://pbs.twimg.com/media/G6VjFn_boAAb473.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf772960>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 15
     },
     "https://pbs.twimg.com/media/G6XNKokbIAAzv3h.jpg": {
       "status": "done",
@@ -2376,9 +2376,9 @@
       "referenced_by": [
         "20260723092721_twitter_com_drug_artist2_status_2080223231399858436.json"
       ],
-      "last_updated": "2026-09-16T18:09:06",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723092721/https://pbs.twimg.com/media/HN5wAVIagAAYVlm.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d69eb70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:46:53",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723092721/https://pbs.twimg.com/media/HN5wAVIagAAYVlm.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf73fec0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HN7Dp1Xa4AAKOZV.jpg": {
       "status": "done",
@@ -2420,27 +2420,27 @@
       "referenced_by": [
         "20260723155143_twitter_com_drug_artist2_status_2080319958148640867.json"
       ],
-      "last_updated": "2026-09-16T18:09:09",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723155143/https://pbs.twimg.com/media/HLDwrSRagAEkGrk.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d66bb60>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:46:59",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723155143/https://pbs.twimg.com/media/HLDwrSRagAEkGrk.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf7a7590>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HLDwrUAaYAA3Gch.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260723155143_twitter_com_drug_artist2_status_2080319958148640867.json"
       ],
-      "last_updated": "2026-09-16T18:09:12",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723155143/https://pbs.twimg.com/media/HLDwrUAaYAA3Gch.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d69fb90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:47:04",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723155143/https://pbs.twimg.com/media/HLDwrUAaYAA3Gch.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf7a7320>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HLDwrUAaAAElhNy.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260723155143_twitter_com_drug_artist2_status_2080319958148640867.json"
       ],
-      "last_updated": "2026-09-16T18:09:16",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723155143/https://pbs.twimg.com/media/HLDwrUAaAAElhNy.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d69f560>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:47:10",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723155143/https://pbs.twimg.com/media/HLDwrUAaAAElhNy.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf7a41a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HN6I7uia4AAVWjG.jpg": {
       "status": "done",
@@ -2496,9 +2496,9 @@
       "referenced_by": [
         "20260723190247_twitter_com_drug_artist2_status_2080368042870202756.json"
       ],
-      "last_updated": "2026-09-16T18:09:21",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723190247/https://pbs.twimg.com/media/HN7q8dlW4AAsnKp.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d66b080>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:47:15",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723190247/https://pbs.twimg.com/media/HN7q8dlW4AAsnKp.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf7a7e30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HN7sCSDaAAAYhvF.jpg": {
       "status": "done",
@@ -2512,9 +2512,9 @@
       "referenced_by": [
         "20260723192812_twitter_com_drug_artist2_status_2080374437543923814.json"
       ],
-      "last_updated": "2026-09-16T18:09:25",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723192812/https://pbs.twimg.com/media/HN7eSSsakAASuxs.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d69f590>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:47:19",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723192812/https://pbs.twimg.com/media/HN7eSSsakAASuxs.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf771220>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HN4c0jvaYAA2v4F.jpg": {
       "status": "done",
@@ -2591,9 +2591,9 @@
       "referenced_by": [
         "20260723224756_twitter_com_drug_artist2_status_2080424702389195012.json"
       ],
-      "last_updated": "2026-09-16T18:09:29",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723224756/https://pbs.twimg.com/media/HN1iWvSbQAAmHJA.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d66b680>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:47:21",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260723224756/https://pbs.twimg.com/media/HN1iWvSbQAAmHJA.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf7a7ec0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HN9e0KJasAAyXfx.jpg": {
       "status": "done",
@@ -2656,27 +2656,27 @@
       "referenced_by": [
         "20260724075002_twitter_com_drug_artist2_status_2080561128183382330.json"
       ],
-      "last_updated": "2026-09-16T18:09:33",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260724075002/https://pbs.twimg.com/media/HN-jUe-bAAAACte.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d69e150>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:47:25",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260724075002/https://pbs.twimg.com/media/HN-jUe-bAAAACte.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf770800>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HN-jUfOaYAIkz9I.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260724075002_twitter_com_drug_artist2_status_2080561128183382330.json"
       ],
-      "last_updated": "2026-09-16T18:09:37",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260724075002/https://pbs.twimg.com/media/HN-jUfOaYAIkz9I.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015e7ddc40>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:47:28",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260724075002/https://pbs.twimg.com/media/HN-jUfOaYAIkz9I.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf636240>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HN-jUfFawAAHWOK.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260724075002_twitter_com_drug_artist2_status_2080561128183382330.json"
       ],
-      "last_updated": "2026-09-16T18:09:41",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260724075002/https://pbs.twimg.com/media/HN-jUfFawAAHWOK.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d69c890>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:47:31",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260724075002/https://pbs.twimg.com/media/HN-jUfFawAAHWOK.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf773770>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HN-k98UboAAsfh_.jpg": {
       "status": "done",
@@ -2732,36 +2732,36 @@
       "referenced_by": [
         "20260725101132_twitter_com_drug_artist2_status_2080959124850749746.json"
       ],
-      "last_updated": "2026-09-16T18:09:45",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725101132/https://pbs.twimg.com/media/HOEKaGLbAAA38wy.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015e7dee70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:47:33",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725101132/https://pbs.twimg.com/media/HOEKaGLbAAA38wy.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf7a5310>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HOEKaGHbAAAmSux.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260725101132_twitter_com_drug_artist2_status_2080959124850749746.json"
       ],
-      "last_updated": "2026-09-16T18:09:48",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725101132/https://pbs.twimg.com/media/HOEKaGHbAAAmSux.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d668bc0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:47:36",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725101132/https://pbs.twimg.com/media/HOEKaGHbAAAmSux.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf772d50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HOEKaGHbIAA-Qk9.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260725101132_twitter_com_drug_artist2_status_2080959124850749746.json"
       ],
-      "last_updated": "2026-09-16T18:09:52",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725101132/https://pbs.twimg.com/media/HOEKaGHbIAA-Qk9.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d6689b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:47:38",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725101132/https://pbs.twimg.com/media/HOEKaGHbIAA-Qk9.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf7a7260>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HOEKaGRbkAAtU5E.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260725101132_twitter_com_drug_artist2_status_2080959124850749746.json"
       ],
-      "last_updated": "2026-09-16T18:09:56",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725101132/https://pbs.twimg.com/media/HOEKaGRbkAAtU5E.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d69f0e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:47:41",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725101132/https://pbs.twimg.com/media/HOEKaGRbkAAtU5E.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf7c2450>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HOA8aQeWkAADywS.jpg": {
       "status": "done",
@@ -2789,18 +2789,18 @@
       "referenced_by": [
         "20260725113548_twitter_com_drug_artist2_status_2080980332401381609.json"
       ],
-      "last_updated": "2026-09-16T18:09:59",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725113548/https://pbs.twimg.com/media/HOEJBgQbIAA0WpL.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d6b8290>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:47:43",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725113548/https://pbs.twimg.com/media/HOEJBgQbIAA0WpL.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf7c2ed0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HOEJCPQasAAQ5ku.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260725113548_twitter_com_drug_artist2_status_2080980332401381609.json"
       ],
-      "last_updated": "2026-09-16T18:10:03",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725113548/https://pbs.twimg.com/media/HOEJCPQasAAQ5ku.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d63b1d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:47:45",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725113548/https://pbs.twimg.com/media/HOEJCPQasAAQ5ku.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf7c2570>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HOAx1asbwAAXz_g.jpg": {
       "status": "done",
@@ -2814,54 +2814,54 @@
       "referenced_by": [
         "20260725113819_twitter_com_drug_artist2_status_2080980963816030383.json"
       ],
-      "last_updated": "2026-09-16T18:10:08",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725113819/https://pbs.twimg.com/media/HOD0ZMEbkAAWzSy.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d6bad20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:47:48",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725113819/https://pbs.twimg.com/media/HOD0ZMEbkAAWzSy.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf7c3980>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HOD0by3aAAAWp5i.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260725113819_twitter_com_drug_artist2_status_2080980963816030383.json"
       ],
-      "last_updated": "2026-09-16T18:10:11",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725113819/https://pbs.twimg.com/media/HOD0by3aAAAWp5i.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d639df0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:47:50",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725113819/https://pbs.twimg.com/media/HOD0by3aAAAWp5i.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf73c950>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HOD0dj6bYAAw77z.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260725113819_twitter_com_drug_artist2_status_2080980963816030383.json"
       ],
-      "last_updated": "2026-09-16T18:10:14",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725113819/https://pbs.twimg.com/media/HOD0dj6bYAAw77z.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d6bb200>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:47:53",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725113819/https://pbs.twimg.com/media/HOD0dj6bYAAw77z.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf7c3320>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HN6udK4a4AAAE0R.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260725114116_twitter_com_drug_artist2_status_2080981707000602891.json"
       ],
-      "last_updated": "2026-09-16T18:10:18",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725114116/https://pbs.twimg.com/media/HN6udK4a4AAAE0R.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d69c920>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:47:55",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725114116/https://pbs.twimg.com/media/HN6udK4a4AAAE0R.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf73d160>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HN6udKtaMAAgNwx.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260725114116_twitter_com_drug_artist2_status_2080981707000602891.json"
       ],
-      "last_updated": "2026-09-16T18:10:21",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725114116/https://pbs.twimg.com/media/HN6udKtaMAAgNwx.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d69dfd0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:47:58",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725114116/https://pbs.twimg.com/media/HN6udKtaMAAgNwx.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf7c1ee0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HN6udKvaEAAjqTs.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260725114116_twitter_com_drug_artist2_status_2080981707000602891.json"
       ],
-      "last_updated": "2026-09-16T18:10:25",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725114116/https://pbs.twimg.com/media/HN6udKvaEAAjqTs.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015ee25490>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:48:01",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725114116/https://pbs.twimg.com/media/HN6udKvaEAAjqTs.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf7a7560>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HOEToGRbAAA6qau.jpg": {
       "status": "done",
@@ -2889,9 +2889,9 @@
       "referenced_by": [
         "20260726041354_twitter_com_drug_artist2_status_2081231511404368254.json"
       ],
-      "last_updated": "2026-09-16T18:10:28",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260726041354/https://pbs.twimg.com/media/HN-jQ0xasAAsrLF.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d6bbf50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:48:03",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260726041354/https://pbs.twimg.com/media/HN-jQ0xasAAsrLF.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf773860>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HOFhAJ1akAAbj8a.jpg": {
       "status": "done",
@@ -2926,18 +2926,18 @@
       "referenced_by": [
         "20260726072919_twitter_com_drug_artist2_status_2081280691975950665.json"
       ],
-      "last_updated": "2026-09-16T18:10:33",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260726072919im_/https://pbs.twimg.com/media/HOGv3Mla0AAJ75V.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f015d63a450>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:48:05",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260726072919/https://pbs.twimg.com/media/HOGv3Mla0AAJ75V.png (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf7717c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HOGv3Mma4AAHn9o.png": {
       "status": "failed",
       "referenced_by": [
         "20260726072919_twitter_com_drug_artist2_status_2081280691975950665.json"
       ],
-      "last_updated": "2026-09-16T18:10:38",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260726072919im_/https://pbs.twimg.com/media/HOGv3Mma4AAHn9o.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f015d69c230>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:48:08",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260726072919/https://pbs.twimg.com/media/HOGv3Mma4AAHn9o.png (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf7c1b50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HOInGq4W0AAOHJ_.jpg": {
       "status": "done",
@@ -2951,36 +2951,36 @@
       "referenced_by": [
         "20260726075444_twitter_com_drug_artist2_status_2081287086376931459.json"
       ],
-      "last_updated": "2026-09-16T18:10:44",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260726075444im_/https://pbs.twimg.com/media/HOE94jibAAAPgyU.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f015d6bbcb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:48:11",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260726075444/https://pbs.twimg.com/media/HOE94jibAAAPgyU.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf7a4c80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HOE95lPaUAAJNcF.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260726075444_twitter_com_drug_artist2_status_2081287086376931459.json"
       ],
-      "last_updated": "2026-09-16T18:10:49",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260726075444im_/https://pbs.twimg.com/media/HOE95lPaUAAJNcF.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f015d638f80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:48:14",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260726075444/https://pbs.twimg.com/media/HOE95lPaUAAJNcF.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf635ee0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HOE96pqb0AAXcYN.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260726075444_twitter_com_drug_artist2_status_2081287086376931459.json"
       ],
-      "last_updated": "2026-09-16T18:10:53",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260726075444im_/https://pbs.twimg.com/media/HOE96pqb0AAXcYN.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f015d669e50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:48:17",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260726075444/https://pbs.twimg.com/media/HOE96pqb0AAXcYN.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf7a5400>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HOE97pAawAAAIL4.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260726075444_twitter_com_drug_artist2_status_2081287086376931459.json"
       ],
-      "last_updated": "2026-09-16T18:10:59",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260726075444im_/https://pbs.twimg.com/media/HOE97pAawAAAIL4.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f015e7dede0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:48:20",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260726075444/https://pbs.twimg.com/media/HOE97pAawAAAIL4.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf6352e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HOJe3XDaQAABj13.jpg": {
       "status": "done",
@@ -3029,18 +3029,18 @@
       "referenced_by": [
         "20260727033524_twitter_com_drug_artist2_status_2081584210549330297.json"
       ],
-      "last_updated": "2026-09-16T18:11:07",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260727033524im_/https://pbs.twimg.com/media/HOJ5fv6aYAAn46s.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f015d669910>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:48:23",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260727033524/https://pbs.twimg.com/media/HOJ5fv6aYAAn46s.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf7c3110>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HOM50QPbYAALoHy.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260727035328_twitter_com_drug_artist2_status_2081588756482797778.json"
       ],
-      "last_updated": "2026-09-16T18:11:12",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260727035328im_/https://pbs.twimg.com/media/HOM50QPbYAALoHy.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f015d668560>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:48:26",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260727035328/https://pbs.twimg.com/media/HOM50QPbYAALoHy.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf7a6d80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HOKTnVfbsAASEYu.jpg": {
       "status": "done",
@@ -3054,9 +3054,9 @@
       "referenced_by": [
         "20260727035555_twitter_com_drug_artist2_status_2081589375213912406.json"
       ],
-      "last_updated": "2026-09-16T18:11:16",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260727035555im_/https://pbs.twimg.com/media/HOJPRLaagAE-qKI.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f015d6ba0c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:48:28",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260727035555/https://pbs.twimg.com/media/HOJPRLaagAE-qKI.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdfe24b00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HONaw22a4AA0Z1s.jpg": {
       "status": "done",
@@ -3087,9 +3087,9 @@
       "referenced_by": [
         "20260727180100_twitter_com_drug_artist2_status_2081802047490535535.json"
       ],
-      "last_updated": "2026-09-16T18:11:22",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260727180100im_/https://pbs.twimg.com/media/HOP7ngRakAE-oN3.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f015d66a720>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:48:31",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260727180100/https://pbs.twimg.com/media/HOP7ngRakAE-oN3.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf73e6c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HOQhjyKX0AAFiM6.jpg": {
       "status": "done",
@@ -3211,9 +3211,9 @@
       "referenced_by": [
         "20260730170041_twitter_com_drug_artist2_status_2082874029653057741.json"
       ],
-      "last_updated": "2026-09-16T18:11:26",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260730170041if_/https://pbs.twimg.com/media/HOfWGpNasAA97dy.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f015e7df9b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-08T08:48:36",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260730170041/https://pbs.twimg.com/media/HOfWGpNasAA97dy.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7bdf635a60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/media/HOh4buwaYAAeEJC.jpg": {
       "status": "done",
@@ -3352,18 +3352,18 @@
       "referenced_by": [
         "20260731193808_twitter_com_drug_artist2_status_2083276041574060417.json"
       ],
-      "last_updated": "2026-09-16T18:11:42",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260731193808/https://pbs.twimg.com/media/HOkNNYwbMAAw39u.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f015d66b9b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:48:43",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260731193808/https://pbs.twimg.com/media/HOkNNYwbMAAw39u.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf7c3860>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HOlJNYpacAEGq0S.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260731194150_twitter_com_drug_artist2_status_2083276973858824566.json"
       ],
-      "last_updated": "2026-09-16T18:11:47",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260731194150im_/https://pbs.twimg.com/media/HOlJNYpacAEGq0S.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f015d69e6f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:48:46",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260731194150/https://pbs.twimg.com/media/HOlJNYpacAEGq0S.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf7705f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HOkSW8nbsAAG2uC.jpg": {
       "status": "done",
@@ -3384,18 +3384,18 @@
       "referenced_by": [
         "20260801053155_twitter_com_drug_artist2_status_2083425473540022599.json"
       ],
-      "last_updated": "2026-09-16T18:11:52",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260801053155im_/https://pbs.twimg.com/media/HOYHRX9bcAAQ6Cb.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f015e7dddf0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:48:51",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260801053155im_/https://pbs.twimg.com/media/HOYHRX9bcAAQ6Cb.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7bdf73fce0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HN6xzUXb0AA8_-m.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260801053258_twitter_com_drug_artist2_status_2083425738120696181.json"
       ],
-      "last_updated": "2026-09-16T18:11:57",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260801053258im_/https://pbs.twimg.com/media/HN6xzUXb0AA8_-m.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f015d69cb30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:48:54",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260801053258/https://pbs.twimg.com/media/HN6xzUXb0AA8_-m.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf771f10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HOnQVM5bsAAn-Lh.jpg": {
       "status": "done",
@@ -3409,9 +3409,9 @@
       "referenced_by": [
         "20260801103103_twitter_com_drug_artist2_status_2083500753889694115.json"
       ],
-      "last_updated": "2026-09-16T18:12:02",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260801103103im_/https://pbs.twimg.com/media/HOn6LvKaIAAaAK4.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f015d69f6b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:48:56",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260801103103/https://pbs.twimg.com/media/HOn6LvKaIAAaAK4.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf73c0b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HOo0YTQaAAEqRpj.jpg": {
       "status": "done",
@@ -3454,36 +3454,36 @@
       "referenced_by": [
         "20260802065117_twitter_com_drug_artist2_status_2083807832642933054.json"
       ],
-      "last_updated": "2026-09-16T18:12:07",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260802065117im_/https://pbs.twimg.com/media/HOp2dombMAAJV6x.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f015d6f6150>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:49:00",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260802065117im_/https://pbs.twimg.com/media/HOp2dombMAAJV6x.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7bdf7a7b00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HOp2dqnbUAARqyX.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260802065117_twitter_com_drug_artist2_status_2083807832642933054.json"
       ],
-      "last_updated": "2026-09-16T18:12:12",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260802065117im_/https://pbs.twimg.com/media/HOp2dqnbUAARqyX.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f015d639a60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:49:02",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260802065117/https://pbs.twimg.com/media/HOp2dqnbUAARqyX.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf7a6db0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HOpaKoLbUAAhi_L.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260802065148_twitter_com_drug_artist2_status_2083807962066538569.json"
       ],
-      "last_updated": "2026-09-16T18:12:17",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260802065148im_/https://pbs.twimg.com/media/HOpaKoLbUAAhi_L.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f015d63bda0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:49:05",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260802065148/https://pbs.twimg.com/media/HOpaKoLbUAAhi_L.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf7a4fb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HOpaKoAaoAA0eL3.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260802065148_twitter_com_drug_artist2_status_2083807962066538569.json"
       ],
-      "last_updated": "2026-09-16T18:12:22",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260802065148if_/https://pbs.twimg.com/media/HOpaKoAaoAA0eL3.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f015d638ec0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:49:09",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260802065148im_/https://pbs.twimg.com/media/HOpaKoAaoAA0eL3.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7bdf73fef0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HOkXgQwaIAEG-VO.jpg": {
       "status": "failed_all",
@@ -3499,9 +3499,9 @@
       "referenced_by": [
         "20260802124743_twitter_com_drug_artist2_status_2083897531424235892.json"
       ],
-      "last_updated": "2026-09-16T18:12:41",
-      "last_reason": "ReadTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Read timed out. (read timeout=3)",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:49:12",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260802124743/https://pbs.twimg.com/media/HOt0de0b0AAHeYa.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf772270>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HOtkKh0W8AAr_r0.jpg": {
       "status": "done",
@@ -3559,40 +3559,40 @@
       "miss_count": 4
     },
     "https://pbs.twimg.com/media/HOvygXla4AAOvhk.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260802223005_twitter_com_drug_artist2_status_2084044091332198518.json"
       ],
-      "last_updated": "2026-09-16T18:13:01",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260802223005/https://pbs.twimg.com/media/HOvygXla4AAOvhk.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d6bad20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:49:14",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260802223005/https://pbs.twimg.com/media/HOvygXla4AAOvhk.jpg",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HOv6o0BaYAA8c1N.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260802223019_twitter_com_drug_artist2_status_2084044147607150805.json"
       ],
-      "last_updated": "2026-09-16T18:13:06",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260802223019/https://pbs.twimg.com/media/HOv6o0BaYAA8c1N.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d69df10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:49:17",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260802223019/https://pbs.twimg.com/media/HOv6o0BaYAA8c1N.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf770f50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HOxSxM5bUAAsED-.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260803041823_twitter_com_drug_artist2_status_2084131744312348800.json"
       ],
-      "last_updated": "2026-09-16T18:13:10",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260803041823/https://pbs.twimg.com/media/HOxSxM5bUAAsED-.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d639be0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:49:21",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260803041823if_/https://pbs.twimg.com/media/HOxSxM5bUAAsED-.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7bdf637980>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HOxU0laboAA-Wxv.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260803042728_twitter_com_drug_artist2_status_2084134030405169536.json"
       ],
-      "last_updated": "2026-09-16T18:13:14",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260803042728/https://pbs.twimg.com/media/HOxU0laboAA-Wxv.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015e7df0b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:49:23",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260803042728/https://pbs.twimg.com/media/HOxU0laboAA-Wxv.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf636ae0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HOxWCggaUAAyBgM.jpg": {
       "status": "done",
@@ -3606,90 +3606,90 @@
       "referenced_by": [
         "20260803050409_twitter_com_drug_artist2_status_2084143260008911283.json"
       ],
-      "last_updated": "2026-09-16T18:13:17",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260803050409/https://pbs.twimg.com/media/HOxdPxDbYAA7TXv.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d6f6e10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:49:26",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260803050409/https://pbs.twimg.com/media/HOxdPxDbYAA7TXv.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf7a4fb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HO0K2YrbEAAvbJT.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260804001302_twitter_com_drug_artist2_status_2084432386646028715.json"
       ],
-      "last_updated": "2026-09-16T18:13:21",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260804001302/https://pbs.twimg.com/media/HO0K2YrbEAAvbJT.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d6688c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:49:30",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260804001302/https://pbs.twimg.com/media/HO0K2YrbEAAvbJT.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf7c3bf0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HO1mbGaaYAARLnW.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260804002248_twitter_com_drug_artist2_status_2084434842855653664.json"
       ],
-      "last_updated": "2026-09-16T18:13:24",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260804002248/https://pbs.twimg.com/media/HO1mbGaaYAARLnW.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d6f6c00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:49:32",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260804002248/https://pbs.twimg.com/media/HO1mbGaaYAARLnW.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf6357f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HO1mblebEAAy2yI.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260804002248_twitter_com_drug_artist2_status_2084434842855653664.json"
       ],
-      "last_updated": "2026-09-16T18:13:28",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260804002248/https://pbs.twimg.com/media/HO1mblebEAAy2yI.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015e7dfd70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:49:35",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260804002248/https://pbs.twimg.com/media/HO1mblebEAAy2yI.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf7c26c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HO1mcHBaMAAE5IS.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260804002248_twitter_com_drug_artist2_status_2084434842855653664.json"
       ],
-      "last_updated": "2026-09-16T18:13:32",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260804002248/https://pbs.twimg.com/media/HO1mcHBaMAAE5IS.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d69cb30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:49:39",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260804002248im_/https://pbs.twimg.com/media/HO1mcHBaMAAE5IS.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7bdf772c00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HO3T8rMboAAzKcX.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260804082538_twitter_com_drug_artist2_status_2084556354170257677.json"
       ],
-      "last_updated": "2026-09-16T18:13:36",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260804082538/https://pbs.twimg.com/media/HO3T8rMboAAzKcX.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d6f75c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:49:41",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260804082538/https://pbs.twimg.com/media/HO3T8rMboAAzKcX.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf73da30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HO3T8rIboAAJhZw.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260804082538_twitter_com_drug_artist2_status_2084556354170257677.json"
       ],
-      "last_updated": "2026-09-16T18:13:42",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260804082538if_/https://pbs.twimg.com/media/HO3T8rIboAAJhZw.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f015e7dda00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:49:42",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260804082538/https://pbs.twimg.com/media/HO3T8rIboAAJhZw.jpg",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HO3uFTKbcAAithN.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260804101526_twitter_com_drug_artist2_status_2084583983585841474.json"
       ],
-      "last_updated": "2026-09-16T18:13:45",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260804101526/https://pbs.twimg.com/media/HO3uFTKbcAAithN.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d6babd0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:49:44",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260804101526/https://pbs.twimg.com/media/HO3uFTKbcAAithN.jpg",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HOyBJNrbAAAGmBL.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260804125610_twitter_com_drug_artist2_status_2084624433877229734.json"
       ],
-      "last_updated": "2026-09-16T18:13:52",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260804125610/https://pbs.twimg.com/media/HOyBJNrbAAAGmBL.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f015e7deb70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:49:48",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260804125610im_/https://pbs.twimg.com/media/HOyBJNrbAAAGmBL.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7bdf637e00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HO5YG2QaIAApdBh.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260804180340_twitter_com_drug_artist2_status_2084701819130065011.json"
       ],
-      "last_updated": "2026-09-16T18:13:57",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260804180340im_/https://pbs.twimg.com/media/HO5YG2QaIAApdBh.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f015d63a0f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:49:49",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260804180340/https://pbs.twimg.com/media/HO5YG2QaIAApdBh.jpg",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HO7d1avaMAAhhgW.jpg": {
       "status": "done",
@@ -3700,13 +3700,13 @@
       "last_updated": "2026-08-26T14:53:11"
     },
     "https://pbs.twimg.com/media/HPF1DD6aIAAcymF.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260807040033_twitter_com_drug_artist2_status_2085576806317555873.json"
       ],
-      "last_updated": "2026-09-16T18:14:02",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260807040033/https://pbs.twimg.com/media/HPF1DD6aIAAcymF.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f015d6f6930>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:49:52",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260807040033/https://pbs.twimg.com/media/HPF1DD6aIAAcymF.jpg",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HMxeLNabYAA_qr1.jpg": {
       "status": "done",
@@ -3716,13 +3716,13 @@
       "last_updated": "2026-08-26T14:53:11"
     },
     "https://pbs.twimg.com/media/HPJB4AlbYAA7v5_.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260807185529_twitter_com_drug_artist2_status_2085802022142636099.json"
       ],
-      "last_updated": "2026-09-16T18:14:07",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260807185529im_/https://pbs.twimg.com/media/HPJB4AlbYAA7v5_.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f015d66a090>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:49:53",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260807185529/https://pbs.twimg.com/media/HPJB4AlbYAA7v5_.jpg",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HPNf9HnaAAA0yKe.jpg": {
       "status": "done",
@@ -3773,9 +3773,9 @@
         "20260809125033_twitter_com_drug_artist2_status_2086434961104707987.json",
         "20260809125036_twitter_com_drug_artist2_status_2086434974723678684.json"
       ],
-      "last_updated": "2026-09-16T18:14:12",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260809125033im_/https://pbs.twimg.com/media/HPRzB8IaUAAX1as.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f015d51d6a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-10-08T08:49:56",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260809125033/https://pbs.twimg.com/media/HPRzB8IaUAAX1as.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf7a43e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 9
     },
     "https://pbs.twimg.com/media/HPRzFhAa0AE5Xs_.jpg": {
       "status": "failed",
@@ -3783,18 +3783,18 @@
         "20260809125033_twitter_com_drug_artist2_status_2086434961104707987.json",
         "20260809125036_twitter_com_drug_artist2_status_2086434974723678684.json"
       ],
-      "last_updated": "2026-09-16T18:14:17",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260809125033im_/https://pbs.twimg.com/media/HPRzFhAa0AE5Xs_.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f015d51cbc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 6
+      "last_updated": "2026-10-08T08:50:01",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260809125033if_/https://pbs.twimg.com/media/HPRzFhAa0AE5Xs_.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7bdf7c2630>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 9
     },
     "https://pbs.twimg.com/media/HPSBiRFbkAAMD6o.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260809125036_twitter_com_drug_artist2_status_2086434974723678684.json"
       ],
-      "last_updated": "2026-09-16T18:14:23",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260809125036if_/https://pbs.twimg.com/media/HPSBiRFbkAAMD6o.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f015d69f320>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:50:04",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260809125036/https://pbs.twimg.com/media/HPSBiRFbkAAMD6o.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdfe25400>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HPRxZ6ubgAARgFH.jpg": {
       "status": "done",
@@ -3868,36 +3868,36 @@
       "referenced_by": [
         "20260811200907_twitter_com_drug_artist2_status_2087270107458204003.json"
       ],
-      "last_updated": "2026-09-16T18:14:29",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260811200907if_/https://pbs.twimg.com/media/HPd5F03WAAEESJY.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f015d63a150>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:50:07",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260811200907/https://pbs.twimg.com/media/HPd5F03WAAEESJY.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf773e60>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HPl_P0YaUAE6dOj.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260813095257_twitter_com_drug_artist2_status_2087839819447906623.json"
       ],
-      "last_updated": "2026-09-16T18:14:35",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260813095257im_/https://pbs.twimg.com/media/HPl_P0YaUAE6dOj.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f015d63a4b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:50:10",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260813095257/https://pbs.twimg.com/media/HPl_P0YaUAE6dOj.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf73ffe0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/media/HOjibrsbAAA8Sjl.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260731121208_twitter_com_drug_artist2_status_2083163800820408419.json"
       ],
-      "last_updated": "2026-09-16T18:11:31",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260731121208im_/https://pbs.twimg.com/media/HOjibrsbAAA8Sjl.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f015d6ba8d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-10-08T08:48:38",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260731121208/https://pbs.twimg.com/media/HOjibrsbAAA8Sjl.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf771b80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HOj29tPbMAAy_hh.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260731134150_twitter_com_drug_artist2_status_2083186375277559956.json"
       ],
-      "last_updated": "2026-09-16T18:11:36",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260731134150im_/https://pbs.twimg.com/media/HOj29tPbMAAy_hh.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f015d66a630>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-10-08T08:48:41",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260731134150/https://pbs.twimg.com/media/HOj29tPbMAAy_hh.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7bdf7a7e30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/media/HOuZbE5boAA7hKr.jpg": {
       "status": "done",
@@ -6543,8 +6543,8 @@
           "https://pbs.twimg.com/profile_images/1983926637260660736/jix4stR1_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 6
+      "last_updated": "2026-10-08T08:46:18",
+      "miss_count": 7
     },
     "20251119122057_twitter_com_drug_artist2_status_1991119502420128250.json": {
       "status": "done",
@@ -6571,8 +6571,8 @@
           "https://pbs.twimg.com/profile_images/1984623073275125760/eoadOp59_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 6
+      "last_updated": "2026-10-08T08:46:14",
+      "miss_count": 7
     },
     "20251121143543_twitter_com_drug_artist2_status_1991878193071149501.json": {
       "status": "done",
@@ -6638,8 +6638,8 @@
           "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 6
+      "last_updated": "2026-10-08T08:46:22",
+      "miss_count": 7
     },
     "20251121151118_twitter_com_drug_artist2_status_1991887147276918812.json": {
       "status": "done",
@@ -6742,8 +6742,8 @@
           "https://pbs.twimg.com/profile_images/1984623073275125760/eoadOp59_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 6
+      "last_updated": "2026-10-08T08:46:14",
+      "miss_count": 7
     },
     "20251122060640_twitter_com_drug_artist2_status_1992112473881854125.json": {
       "status": "done",
@@ -6781,8 +6781,8 @@
           "https://pbs.twimg.com/profile_images/1984623073275125760/eoadOp59_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 6
+      "last_updated": "2026-10-08T08:46:14",
+      "miss_count": 7
     },
     "20251122123946_twitter_com_drug_artist2_status_1992211403000946951.json": {
       "status": "done",
@@ -7275,8 +7275,8 @@
           "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 6
+      "last_updated": "2026-10-08T08:46:15",
+      "miss_count": 7
     },
     "20260723143719_twitter_com_drug_artist2_status_2080301237053063240.json": {
       "status": "done",
@@ -7442,8 +7442,8 @@
           "https://pbs.twimg.com/profile_images/2078082221064482816/MgKCJyTJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 6
+      "last_updated": "2026-10-08T08:46:21",
+      "miss_count": 7
     },
     "20260723155203_twitter_com_drug_artist2_status_2080320043523682383.json": {
       "status": "done",
@@ -7685,8 +7685,8 @@
           "https://pbs.twimg.com/profile_images/2070097106698637312/kxNZlTjm_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 6
+      "last_updated": "2026-10-08T08:46:16",
+      "miss_count": 7
     },
     "20260723190522_twitter_com_drug_artist2_status_2080368693369037163.json": {
       "status": "done",
@@ -7742,8 +7742,8 @@
           "https://pbs.twimg.com/profile_images/2070354877524717568/lwq-9SoY_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 6
+      "last_updated": "2026-10-08T08:46:15",
+      "miss_count": 7
     },
     "20260723200851_twitter_com_drug_artist2_status_2080384670907380223.json": {
       "status": "done",
@@ -7934,8 +7934,8 @@
           "https://pbs.twimg.com/profile_images/2056420761565564928/fKG22pOP_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 6
+      "last_updated": "2026-10-08T08:46:15",
+      "miss_count": 7
     },
     "20260724010414_twitter_com_drug_artist2_status_2080459003151392903.json": {
       "status": "done",
@@ -8127,8 +8127,8 @@
           "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 6
+      "last_updated": "2026-10-08T08:46:22",
+      "miss_count": 7
     },
     "20260724075714_twitter_com_drug_artist2_status_2080562939481006259.json": {
       "status": "done",
@@ -8508,8 +8508,8 @@
           "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 6
+      "last_updated": "2026-10-08T08:46:23",
+      "miss_count": 7
     },
     "20260725101220_twitter_com_drug_artist2_status_2080959325032579340.json": {
       "status": "done",
@@ -8621,8 +8621,8 @@
           "https://pbs.twimg.com/profile_images/2032286851483254784/gz6l7IdW_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 6
+      "last_updated": "2026-10-08T08:46:18",
+      "miss_count": 7
     },
     "20260725113756_twitter_com_drug_artist2_status_2080980867946557632.json": {
       "status": "done",
@@ -8652,8 +8652,8 @@
           "https://pbs.twimg.com/profile_images/2057431705242513409/eaYiqmbD_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 6
+      "last_updated": "2026-10-08T08:46:21",
+      "miss_count": 7
     },
     "20260725114040_twitter_com_drug_artist2_status_2080981554793451949.json": {
       "status": "done",
@@ -8683,8 +8683,8 @@
           "https://pbs.twimg.com/profile_images/2080000131097841664/JGMcsCvt_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 6
+      "last_updated": "2026-10-08T08:46:21",
+      "miss_count": 7
     },
     "20260725114214_twitter_com_drug_artist2_status_2080981952518099404.json": {
       "status": "done",
@@ -8870,8 +8870,8 @@
           "https://pbs.twimg.com/profile_images/2069102324799422464/WGziVBE5_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 6
+      "last_updated": "2026-10-08T08:46:15",
+      "miss_count": 7
     },
     "20260726041535_twitter_com_drug_artist2_status_2081231935075176636.json": {
       "status": "done",
@@ -8968,8 +8968,8 @@
           "https://pbs.twimg.com/profile_images/2075969412641992704/rkxGyYky_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 6
+      "last_updated": "2026-10-08T08:46:17",
+      "miss_count": 7
     },
     "20260726072930_twitter_com_drug_artist2_status_2081280736385216729.json": {
       "status": "done",
@@ -9060,8 +9060,8 @@
           "https://pbs.twimg.com/profile_images/2079813636739190784/keI_Suk-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 6
+      "last_updated": "2026-10-08T08:46:26",
+      "miss_count": 7
     },
     "20260726075714_twitter_com_drug_artist2_status_2081287716554375197.json": {
       "status": "done",
@@ -9252,8 +9252,8 @@
           "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 6
+      "last_updated": "2026-10-08T08:46:14",
+      "miss_count": 7
     },
     "20260727034027_twitter_com_drug_artist2_status_2081585480651436227.json": {
       "status": "done",
@@ -9279,8 +9279,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 6
+      "last_updated": "2026-10-08T08:46:14",
+      "miss_count": 7
     },
     "20260727035350_twitter_com_drug_artist2_status_2081588850573660197.json": {
       "status": "done",
@@ -9320,8 +9320,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 6
+      "last_updated": "2026-10-08T08:46:15",
+      "miss_count": 7
     },
     "20260727035759_twitter_com_drug_artist2_status_2081589895324471792.json": {
       "status": "done",
@@ -9521,8 +9521,8 @@
           "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 6
+      "last_updated": "2026-10-08T08:46:14",
+      "miss_count": 7
     },
     "20260727194239_twitter_com_drug_artist2_status_2081827626365431921.json": {
       "status": "done",
@@ -10494,8 +10494,8 @@
           "https://pbs.twimg.com/profile_images/2068942921869758464/UJ-J2j84_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 6
+      "last_updated": "2026-10-08T08:46:14",
+      "miss_count": 7
     },
     "20260730171039_twitter_com_drug_artist2_status_2082876537330958580.json": {
       "status": "done",
@@ -11027,8 +11027,8 @@
           "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:46:18",
+      "miss_count": 5
     },
     "20260731194150_twitter_com_drug_artist2_status_2083276973858824566.json": {
       "status": "failed",
@@ -11041,8 +11041,8 @@
           "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:46:18",
+      "miss_count": 5
     },
     "20260731194432_twitter_com_drug_artist2_status_2083277653524852786.json": {
       "status": "done",
@@ -11143,8 +11143,8 @@
           "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:46:17",
+      "miss_count": 5
     },
     "20260801053223_twitter_com_drug_artist2_status_2083425591039348761.json": {
       "status": "done",
@@ -11182,8 +11182,8 @@
           "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:46:18",
+      "miss_count": 5
     },
     "20260801053407_twitter_com_drug_artist2_status_2083426025237557357.json": {
       "status": "done",
@@ -11360,8 +11360,8 @@
           "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:46:18",
+      "miss_count": 5
     },
     "20260801111954_twitter_com_drug_artist2_status_2083513045662478593.json": {
       "status": "done",
@@ -11737,8 +11737,8 @@
           "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:46:21",
+      "miss_count": 5
     },
     "20260802065148_twitter_com_drug_artist2_status_2083807962066538569.json": {
       "status": "failed",
@@ -11753,8 +11753,8 @@
           "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:46:21",
+      "miss_count": 5
     },
     "20260802070020_twitter_com_drug_artist2_status_2083810112377143299.json": {
       "status": "done",
@@ -11795,8 +11795,8 @@
           "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:46:18",
+      "miss_count": 5
     },
     "20260802162907_twitter_com_drug_artist2_status_2083953249749815471.json": {
       "status": "done",
@@ -11944,7 +11944,7 @@
       "last_updated": "2026-08-26T14:53:06"
     },
     "20260802223005_twitter_com_drug_artist2_status_2084044091332198518.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HOvygXla4AAOvhk.jpg"
@@ -11955,8 +11955,8 @@
           "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:49:14",
+      "miss_count": 5
     },
     "20260802223019_twitter_com_drug_artist2_status_2084044147607150805.json": {
       "status": "failed",
@@ -11970,8 +11970,8 @@
           "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:46:18",
+      "miss_count": 5
     },
     "20260802231048_twitter_com_drug_artist2_status_2084054336926310482.json": {
       "status": "done",
@@ -12125,8 +12125,8 @@
           "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:46:18",
+      "miss_count": 5
     },
     "20260803042609_twitter_com_drug_artist2_status_2084133696718971072.json": {
       "status": "done",
@@ -12152,8 +12152,8 @@
           "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:46:18",
+      "miss_count": 5
     },
     "20260803042836_twitter_com_drug_artist2_status_2084134313143218465.json": {
       "status": "done",
@@ -12218,8 +12218,8 @@
           "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:46:18",
+      "miss_count": 5
     },
     "20260803051024_twitter_com_drug_artist2_status_2084144831656591595.json": {
       "status": "done",
@@ -12246,8 +12246,8 @@
           "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:46:18",
+      "miss_count": 5
     },
     "20260804001548_twitter_com_drug_artist2_status_2084433081625346548.json": {
       "status": "done",
@@ -12274,8 +12274,8 @@
           "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:46:25",
+      "miss_count": 5
     },
     "20260804002308_twitter_com_drug_artist2_status_2084434930264854781.json": {
       "status": "done",
@@ -12328,8 +12328,8 @@
           "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:46:23",
+      "miss_count": 5
     },
     "20260804093435_twitter_com_drug_artist2_status_2084573704068190494.json": {
       "status": "done",
@@ -12403,7 +12403,7 @@
       "last_updated": "2026-08-26T14:53:09"
     },
     "20260804101526_twitter_com_drug_artist2_status_2084583983585841474.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HO3uFTKbcAAithN.jpg"
@@ -12413,8 +12413,8 @@
           "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:49:44",
+      "miss_count": 5
     },
     "20260804102130_twitter_com_drug_artist2_status_2084585511692497034.json": {
       "status": "done",
@@ -12508,8 +12508,8 @@
           "https://pbs.twimg.com/profile_images/2082718807173599232/iHJ1jUK8_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:46:21",
+      "miss_count": 5
     },
     "20260804163553_twitter_com_drug_artist2_status_2084679729475702903.json": {
       "status": "done",
@@ -12548,7 +12548,7 @@
       "last_updated": "2026-08-26T14:53:10"
     },
     "20260804180340_twitter_com_drug_artist2_status_2084701819130065011.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HO5YG2QaIAApdBh.jpg"
@@ -12559,8 +12559,8 @@
           "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:49:50",
+      "miss_count": 5
     },
     "20260804204140_twitter_com_drug_artist2_status_2084741581039636586.json": {
       "status": "done",
@@ -12864,7 +12864,7 @@
       "last_updated": "2026-08-26T15:02:33"
     },
     "20260807040033_twitter_com_drug_artist2_status_2085576806317555873.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HPF1DD6aIAAcymF.jpg"
@@ -12874,8 +12874,8 @@
           "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:49:52",
+      "miss_count": 5
     },
     "20260807071340_twitter_com_drug_artist2_status_2085625405814571516.json": {
       "status": "done",
@@ -12996,7 +12996,7 @@
       "last_updated": "2026-08-26T15:02:33"
     },
     "20260807185529_twitter_com_drug_artist2_status_2085802022142636099.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HPJB4AlbYAA7v5_.jpg"
@@ -13007,8 +13007,8 @@
           "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:49:53",
+      "miss_count": 5
     },
     "20260807190452_twitter_com_drug_artist2_status_2085804386580856898.json": {
       "status": "done",
@@ -13107,8 +13107,8 @@
           "https://pbs.twimg.com/profile_images/2083182116012224512/rSNbGMS3_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 2
+      "last_updated": "2026-10-08T08:46:24",
+      "miss_count": 3
     },
     "20260809125036_twitter_com_drug_artist2_status_2086434974723678684.json": {
       "status": "failed",
@@ -13124,8 +13124,8 @@
           "https://pbs.twimg.com/profile_images/2083182116012224512/rSNbGMS3_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 2
+      "last_updated": "2026-10-08T08:46:27",
+      "miss_count": 3
     },
     "20260809125155_twitter_com_drug_artist2_status_2086435305956020243.json": {
       "status": "done",
@@ -13348,8 +13348,8 @@
           "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:46:21",
+      "miss_count": 5
     },
     "20260811231616_twitter_com_drug_artist2_status_2087317203309793454.json": {
       "status": "done",
@@ -13384,8 +13384,8 @@
           "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 4
+      "last_updated": "2026-10-08T08:46:21",
+      "miss_count": 5
     },
     "20260813105706_twitter_com_drug_artist2_status_2087855960215674961.json": {
       "status": "done",
@@ -13458,8 +13458,8 @@
           "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 2
+      "last_updated": "2026-10-08T08:46:15",
+      "miss_count": 3
     },
     "20260731134150_twitter_com_drug_artist2_status_2083186375277559956.json": {
       "status": "failed",
@@ -13472,8 +13472,8 @@
           "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-16T18:14:50",
-      "miss_count": 2
+      "last_updated": "2026-10-08T08:46:15",
+      "miss_count": 3
     },
     "20260801120852_twitter_com_drug_artist2_status_2083525367097168183.json": {
       "status": "done",
